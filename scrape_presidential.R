@@ -70,7 +70,8 @@ write_csv(prez_results_AD, "output/presidential/ad.csv")
 prez_AD_result_links <- get_page_links(prez_ad_page)
 
 ### List through all the EDs
-prez_results_ED <- map_df(prez_AD_result_links$link, ~process_results_table(read_page_results(.x)))
+#need to fix because there are duplicate ED numbers for every AD + total columns are not specified.
+prez_results_ED <- map2_df(prez_AD_result_links$link, prez_AD_result_links$title, ~mutate(process_results_table(read_page_results(.x)), AD_num = .y))
 write_csv(prez_results_ED, "output/presidential/ed.csv")
 
 
