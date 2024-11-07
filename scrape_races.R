@@ -24,6 +24,7 @@ data <- tables[3] %>%
         map_chr(~ as.character(.x))
   )
 
+# Get all the titles and links from the html table
 extract_links <- function(row) {
   # Extract the 'title' and 'href' attributes for each cell with an <a> tag
   titles <- map_chr(row, ~ {
@@ -39,10 +40,6 @@ extract_links <- function(row) {
   # Return a data frame with the extracted titles and hrefs for each cell
   data.frame(title = titles, href = hrefs, stringsAsFactors = FALSE)
 }
-
-# Example input: assume `data` is a list of rows with HTML content in each cell
-# (Replace `data` below with your actual list of rows)
-# data <- list(cells_row_1, cells_row_2, ...)
 
 # Apply the function to each row
 links_master <- map_dfr(data, extract_links) %>%
@@ -98,7 +95,7 @@ get_page_links <- function(page_tables) {
 }
 
 write_race_data <- function(race_url, race, sub_race) {
-  print(paste0("scraping data for ", race))
+  print(paste0("scraping data for ", race, sub_race))
   
   time <- str_replace_all(now(), " ", "_")
   race_stub <- str_replace_all(race, " ", "_") %>% str_to_lower()
