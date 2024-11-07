@@ -1,0 +1,705 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    1,99.00%,Brad Hoylman-Sigal,(Democratic),5,AD 66,2024-11-07_14:08:22.390712
+ED    1,99.00%,Emily Yuexin Miller,(Republican),1,AD 66,2024-11-07_14:08:22.390712
+ED    1,99.00%,Brad Hoylman-Sigal,(Working Families),1,AD 66,2024-11-07_14:08:22.390712
+ED    1,99.00%,WRITE-IN,&nbsp,0,AD 66,2024-11-07_14:08:22.390712
+ED    2,99.00%,Brad Hoylman-Sigal,(Democratic),586,AD 66,2024-11-07_14:08:22.390712
+ED    2,99.00%,Emily Yuexin Miller,(Republican),102,AD 66,2024-11-07_14:08:22.390712
+ED    2,99.00%,Brad Hoylman-Sigal,(Working Families),32,AD 66,2024-11-07_14:08:22.390712
+ED    2,99.00%,WRITE-IN,&nbsp,1,AD 66,2024-11-07_14:08:22.390712
+ED    3,99.00%,Brad Hoylman-Sigal,(Democratic),493,AD 66,2024-11-07_14:08:22.390712
+ED    3,99.00%,Emily Yuexin Miller,(Republican),83,AD 66,2024-11-07_14:08:22.390712
+ED    3,99.00%,Brad Hoylman-Sigal,(Working Families),45,AD 66,2024-11-07_14:08:22.390712
+ED    3,99.00%,WRITE-IN,&nbsp,0,AD 66,2024-11-07_14:08:22.390712
+ED    8,99.00%,Brad Hoylman-Sigal,(Democratic),589,AD 66,2024-11-07_14:08:22.390712
+ED    8,99.00%,Emily Yuexin Miller,(Republican),162,AD 66,2024-11-07_14:08:22.390712
+ED    8,99.00%,Brad Hoylman-Sigal,(Working Families),45,AD 66,2024-11-07_14:08:22.390712
+ED    8,99.00%,WRITE-IN,&nbsp,1,AD 66,2024-11-07_14:08:22.390712
+ED    9,99.00%,Brad Hoylman-Sigal,(Democratic),586,AD 66,2024-11-07_14:08:22.390712
+ED    9,99.00%,Emily Yuexin Miller,(Republican),102,AD 66,2024-11-07_14:08:22.390712
+ED    9,99.00%,Brad Hoylman-Sigal,(Working Families),48,AD 66,2024-11-07_14:08:22.390712
+ED    9,99.00%,WRITE-IN,&nbsp,0,AD 66,2024-11-07_14:08:22.390712
+ED   14,99.00%,Brad Hoylman-Sigal,(Democratic),630,AD 66,2024-11-07_14:08:22.390712
+ED   14,99.00%,Emily Yuexin Miller,(Republican),123,AD 66,2024-11-07_14:08:22.390712
+ED   14,99.00%,Brad Hoylman-Sigal,(Working Families),42,AD 66,2024-11-07_14:08:22.390712
+ED   14,99.00%,WRITE-IN,&nbsp,3,AD 66,2024-11-07_14:08:22.390712
+ED   15,99.00%,Brad Hoylman-Sigal,(Democratic),666,AD 66,2024-11-07_14:08:22.390712
+ED   15,99.00%,Emily Yuexin Miller,(Republican),121,AD 66,2024-11-07_14:08:22.390712
+ED   15,99.00%,Brad Hoylman-Sigal,(Working Families),41,AD 66,2024-11-07_14:08:22.390712
+ED   15,99.00%,WRITE-IN,&nbsp,0,AD 66,2024-11-07_14:08:22.390712
+ED   17,99.00%,Brad Hoylman-Sigal,(Democratic),476,AD 66,2024-11-07_14:08:22.390712
+ED   17,99.00%,Emily Yuexin Miller,(Republican),116,AD 66,2024-11-07_14:08:22.390712
+ED   17,99.00%,Brad Hoylman-Sigal,(Working Families),43,AD 66,2024-11-07_14:08:22.390712
+ED   17,99.00%,WRITE-IN,&nbsp,1,AD 66,2024-11-07_14:08:22.390712
+ED   23,99.00%,Brad Hoylman-Sigal,(Democratic),713,AD 66,2024-11-07_14:08:22.390712
+ED   23,99.00%,Emily Yuexin Miller,(Republican),124,AD 66,2024-11-07_14:08:22.390712
+ED   23,99.00%,Brad Hoylman-Sigal,(Working Families),51,AD 66,2024-11-07_14:08:22.390712
+ED   23,99.00%,WRITE-IN,&nbsp,1,AD 66,2024-11-07_14:08:22.390712
+ED   25,99.00%,Brad Hoylman-Sigal,(Democratic),730,AD 66,2024-11-07_14:08:22.390712
+ED   25,99.00%,Emily Yuexin Miller,(Republican),181,AD 66,2024-11-07_14:08:22.390712
+ED   25,99.00%,Brad Hoylman-Sigal,(Working Families),43,AD 66,2024-11-07_14:08:22.390712
+ED   25,99.00%,WRITE-IN,&nbsp,1,AD 66,2024-11-07_14:08:22.390712
+ED   75,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 66,2024-11-07_14:08:22.390712
+ED   75,99.00%,Emily Yuexin Miller,(Republican),0,AD 66,2024-11-07_14:08:22.390712
+ED   75,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 66,2024-11-07_14:08:22.390712
+ED   75,99.00%,WRITE-IN,&nbsp,0,AD 66,2024-11-07_14:08:22.390712
+Total,,Brad Hoylman-Sigal,(Democratic),5474,AD 66,2024-11-07_14:08:22.390712
+Total,,Emily Yuexin Miller,(Republican),1115,AD 66,2024-11-07_14:08:22.390712
+Total,,Brad Hoylman-Sigal,(Working Families),391,AD 66,2024-11-07_14:08:22.390712
+Total,,WRITE-IN,&nbsp,8,AD 66,2024-11-07_14:08:22.390712
+ED    1,99.00%,Brad Hoylman-Sigal,(Democratic),657,AD 67,2024-11-07_14:08:22.390712
+ED    1,99.00%,Emily Yuexin Miller,(Republican),117,AD 67,2024-11-07_14:08:22.390712
+ED    1,99.00%,Brad Hoylman-Sigal,(Working Families),55,AD 67,2024-11-07_14:08:22.390712
+ED    1,99.00%,WRITE-IN,&nbsp,5,AD 67,2024-11-07_14:08:22.390712
+ED    2,99.00%,Brad Hoylman-Sigal,(Democratic),432,AD 67,2024-11-07_14:08:22.390712
+ED    2,99.00%,Emily Yuexin Miller,(Republican),78,AD 67,2024-11-07_14:08:22.390712
+ED    2,99.00%,Brad Hoylman-Sigal,(Working Families),44,AD 67,2024-11-07_14:08:22.390712
+ED    2,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED    3,99.00%,Brad Hoylman-Sigal,(Democratic),698,AD 67,2024-11-07_14:08:22.390712
+ED    3,99.00%,Emily Yuexin Miller,(Republican),111,AD 67,2024-11-07_14:08:22.390712
+ED    3,99.00%,Brad Hoylman-Sigal,(Working Families),47,AD 67,2024-11-07_14:08:22.390712
+ED    3,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED    4,99.00%,Brad Hoylman-Sigal,(Democratic),696,AD 67,2024-11-07_14:08:22.390712
+ED    4,99.00%,Emily Yuexin Miller,(Republican),132,AD 67,2024-11-07_14:08:22.390712
+ED    4,99.00%,Brad Hoylman-Sigal,(Working Families),75,AD 67,2024-11-07_14:08:22.390712
+ED    4,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED    5,99.00%,Brad Hoylman-Sigal,(Democratic),751,AD 67,2024-11-07_14:08:22.390712
+ED    5,99.00%,Emily Yuexin Miller,(Republican),147,AD 67,2024-11-07_14:08:22.390712
+ED    5,99.00%,Brad Hoylman-Sigal,(Working Families),71,AD 67,2024-11-07_14:08:22.390712
+ED    5,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED    6,99.00%,Brad Hoylman-Sigal,(Democratic),138,AD 67,2024-11-07_14:08:22.390712
+ED    6,99.00%,Emily Yuexin Miller,(Republican),44,AD 67,2024-11-07_14:08:22.390712
+ED    6,99.00%,Brad Hoylman-Sigal,(Working Families),15,AD 67,2024-11-07_14:08:22.390712
+ED    6,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED    7,99.00%,Brad Hoylman-Sigal,(Democratic),812,AD 67,2024-11-07_14:08:22.390712
+ED    7,99.00%,Emily Yuexin Miller,(Republican),173,AD 67,2024-11-07_14:08:22.390712
+ED    7,99.00%,Brad Hoylman-Sigal,(Working Families),48,AD 67,2024-11-07_14:08:22.390712
+ED    7,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED    8,99.00%,Brad Hoylman-Sigal,(Democratic),752,AD 67,2024-11-07_14:08:22.390712
+ED    8,99.00%,Emily Yuexin Miller,(Republican),137,AD 67,2024-11-07_14:08:22.390712
+ED    8,99.00%,Brad Hoylman-Sigal,(Working Families),58,AD 67,2024-11-07_14:08:22.390712
+ED    8,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED    9,99.00%,Brad Hoylman-Sigal,(Democratic),600,AD 67,2024-11-07_14:08:22.390712
+ED    9,99.00%,Emily Yuexin Miller,(Republican),100,AD 67,2024-11-07_14:08:22.390712
+ED    9,99.00%,Brad Hoylman-Sigal,(Working Families),55,AD 67,2024-11-07_14:08:22.390712
+ED    9,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   10,99.00%,Brad Hoylman-Sigal,(Democratic),685,AD 67,2024-11-07_14:08:22.390712
+ED   10,99.00%,Emily Yuexin Miller,(Republican),141,AD 67,2024-11-07_14:08:22.390712
+ED   10,99.00%,Brad Hoylman-Sigal,(Working Families),59,AD 67,2024-11-07_14:08:22.390712
+ED   10,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   11,99.00%,Brad Hoylman-Sigal,(Democratic),692,AD 67,2024-11-07_14:08:22.390712
+ED   11,99.00%,Emily Yuexin Miller,(Republican),135,AD 67,2024-11-07_14:08:22.390712
+ED   11,99.00%,Brad Hoylman-Sigal,(Working Families),55,AD 67,2024-11-07_14:08:22.390712
+ED   11,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   12,99.00%,Brad Hoylman-Sigal,(Democratic),839,AD 67,2024-11-07_14:08:22.390712
+ED   12,99.00%,Emily Yuexin Miller,(Republican),162,AD 67,2024-11-07_14:08:22.390712
+ED   12,99.00%,Brad Hoylman-Sigal,(Working Families),68,AD 67,2024-11-07_14:08:22.390712
+ED   12,99.00%,WRITE-IN,&nbsp,5,AD 67,2024-11-07_14:08:22.390712
+ED   13,99.00%,Brad Hoylman-Sigal,(Democratic),719,AD 67,2024-11-07_14:08:22.390712
+ED   13,99.00%,Emily Yuexin Miller,(Republican),159,AD 67,2024-11-07_14:08:22.390712
+ED   13,99.00%,Brad Hoylman-Sigal,(Working Families),66,AD 67,2024-11-07_14:08:22.390712
+ED   13,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   14,99.00%,Brad Hoylman-Sigal,(Democratic),503,AD 67,2024-11-07_14:08:22.390712
+ED   14,99.00%,Emily Yuexin Miller,(Republican),104,AD 67,2024-11-07_14:08:22.390712
+ED   14,99.00%,Brad Hoylman-Sigal,(Working Families),45,AD 67,2024-11-07_14:08:22.390712
+ED   14,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   15,99.00%,Brad Hoylman-Sigal,(Democratic),670,AD 67,2024-11-07_14:08:22.390712
+ED   15,99.00%,Emily Yuexin Miller,(Republican),117,AD 67,2024-11-07_14:08:22.390712
+ED   15,99.00%,Brad Hoylman-Sigal,(Working Families),36,AD 67,2024-11-07_14:08:22.390712
+ED   15,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   16,99.00%,Brad Hoylman-Sigal,(Democratic),938,AD 67,2024-11-07_14:08:22.390712
+ED   16,99.00%,Emily Yuexin Miller,(Republican),210,AD 67,2024-11-07_14:08:22.390712
+ED   16,99.00%,Brad Hoylman-Sigal,(Working Families),61,AD 67,2024-11-07_14:08:22.390712
+ED   16,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   17,99.00%,Brad Hoylman-Sigal,(Democratic),662,AD 67,2024-11-07_14:08:22.390712
+ED   17,99.00%,Emily Yuexin Miller,(Republican),109,AD 67,2024-11-07_14:08:22.390712
+ED   17,99.00%,Brad Hoylman-Sigal,(Working Families),44,AD 67,2024-11-07_14:08:22.390712
+ED   17,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   18,99.00%,Brad Hoylman-Sigal,(Democratic),764,AD 67,2024-11-07_14:08:22.390712
+ED   18,99.00%,Emily Yuexin Miller,(Republican),128,AD 67,2024-11-07_14:08:22.390712
+ED   18,99.00%,Brad Hoylman-Sigal,(Working Families),65,AD 67,2024-11-07_14:08:22.390712
+ED   18,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED   19,99.00%,Brad Hoylman-Sigal,(Democratic),742,AD 67,2024-11-07_14:08:22.390712
+ED   19,99.00%,Emily Yuexin Miller,(Republican),165,AD 67,2024-11-07_14:08:22.390712
+ED   19,99.00%,Brad Hoylman-Sigal,(Working Families),50,AD 67,2024-11-07_14:08:22.390712
+ED   19,99.00%,WRITE-IN,&nbsp,4,AD 67,2024-11-07_14:08:22.390712
+ED   20,99.00%,Brad Hoylman-Sigal,(Democratic),785,AD 67,2024-11-07_14:08:22.390712
+ED   20,99.00%,Emily Yuexin Miller,(Republican),153,AD 67,2024-11-07_14:08:22.390712
+ED   20,99.00%,Brad Hoylman-Sigal,(Working Families),47,AD 67,2024-11-07_14:08:22.390712
+ED   20,99.00%,WRITE-IN,&nbsp,4,AD 67,2024-11-07_14:08:22.390712
+ED   21,99.00%,Brad Hoylman-Sigal,(Democratic),646,AD 67,2024-11-07_14:08:22.390712
+ED   21,99.00%,Emily Yuexin Miller,(Republican),165,AD 67,2024-11-07_14:08:22.390712
+ED   21,99.00%,Brad Hoylman-Sigal,(Working Families),24,AD 67,2024-11-07_14:08:22.390712
+ED   21,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   22,85.71%,Brad Hoylman-Sigal,(Democratic),676,AD 67,2024-11-07_14:08:22.390712
+ED   22,85.71%,Emily Yuexin Miller,(Republican),137,AD 67,2024-11-07_14:08:22.390712
+ED   22,85.71%,Brad Hoylman-Sigal,(Working Families),48,AD 67,2024-11-07_14:08:22.390712
+ED   22,85.71%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   23,85.71%,Brad Hoylman-Sigal,(Democratic),280,AD 67,2024-11-07_14:08:22.390712
+ED   23,85.71%,Emily Yuexin Miller,(Republican),68,AD 67,2024-11-07_14:08:22.390712
+ED   23,85.71%,Brad Hoylman-Sigal,(Working Families),19,AD 67,2024-11-07_14:08:22.390712
+ED   23,85.71%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   24,99.00%,Brad Hoylman-Sigal,(Democratic),739,AD 67,2024-11-07_14:08:22.390712
+ED   24,99.00%,Emily Yuexin Miller,(Republican),142,AD 67,2024-11-07_14:08:22.390712
+ED   24,99.00%,Brad Hoylman-Sigal,(Working Families),72,AD 67,2024-11-07_14:08:22.390712
+ED   24,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED   25,99.00%,Brad Hoylman-Sigal,(Democratic),535,AD 67,2024-11-07_14:08:22.390712
+ED   25,99.00%,Emily Yuexin Miller,(Republican),111,AD 67,2024-11-07_14:08:22.390712
+ED   25,99.00%,Brad Hoylman-Sigal,(Working Families),47,AD 67,2024-11-07_14:08:22.390712
+ED   25,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   26,99.00%,Brad Hoylman-Sigal,(Democratic),903,AD 67,2024-11-07_14:08:22.390712
+ED   26,99.00%,Emily Yuexin Miller,(Republican),154,AD 67,2024-11-07_14:08:22.390712
+ED   26,99.00%,Brad Hoylman-Sigal,(Working Families),75,AD 67,2024-11-07_14:08:22.390712
+ED   26,99.00%,WRITE-IN,&nbsp,5,AD 67,2024-11-07_14:08:22.390712
+ED   27,99.00%,Brad Hoylman-Sigal,(Democratic),459,AD 67,2024-11-07_14:08:22.390712
+ED   27,99.00%,Emily Yuexin Miller,(Republican),101,AD 67,2024-11-07_14:08:22.390712
+ED   27,99.00%,Brad Hoylman-Sigal,(Working Families),38,AD 67,2024-11-07_14:08:22.390712
+ED   27,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   28,99.00%,Brad Hoylman-Sigal,(Democratic),499,AD 67,2024-11-07_14:08:22.390712
+ED   28,99.00%,Emily Yuexin Miller,(Republican),106,AD 67,2024-11-07_14:08:22.390712
+ED   28,99.00%,Brad Hoylman-Sigal,(Working Families),45,AD 67,2024-11-07_14:08:22.390712
+ED   28,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   29,85.71%,Brad Hoylman-Sigal,(Democratic),500,AD 67,2024-11-07_14:08:22.390712
+ED   29,85.71%,Emily Yuexin Miller,(Republican),98,AD 67,2024-11-07_14:08:22.390712
+ED   29,85.71%,Brad Hoylman-Sigal,(Working Families),38,AD 67,2024-11-07_14:08:22.390712
+ED   29,85.71%,WRITE-IN,&nbsp,4,AD 67,2024-11-07_14:08:22.390712
+ED   30,99.00%,Brad Hoylman-Sigal,(Democratic),840,AD 67,2024-11-07_14:08:22.390712
+ED   30,99.00%,Emily Yuexin Miller,(Republican),176,AD 67,2024-11-07_14:08:22.390712
+ED   30,99.00%,Brad Hoylman-Sigal,(Working Families),67,AD 67,2024-11-07_14:08:22.390712
+ED   30,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED   31,99.00%,Brad Hoylman-Sigal,(Democratic),439,AD 67,2024-11-07_14:08:22.390712
+ED   31,99.00%,Emily Yuexin Miller,(Republican),107,AD 67,2024-11-07_14:08:22.390712
+ED   31,99.00%,Brad Hoylman-Sigal,(Working Families),36,AD 67,2024-11-07_14:08:22.390712
+ED   31,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   32,99.00%,Brad Hoylman-Sigal,(Democratic),707,AD 67,2024-11-07_14:08:22.390712
+ED   32,99.00%,Emily Yuexin Miller,(Republican),145,AD 67,2024-11-07_14:08:22.390712
+ED   32,99.00%,Brad Hoylman-Sigal,(Working Families),35,AD 67,2024-11-07_14:08:22.390712
+ED   32,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   33,99.00%,Brad Hoylman-Sigal,(Democratic),559,AD 67,2024-11-07_14:08:22.390712
+ED   33,99.00%,Emily Yuexin Miller,(Republican),127,AD 67,2024-11-07_14:08:22.390712
+ED   33,99.00%,Brad Hoylman-Sigal,(Working Families),24,AD 67,2024-11-07_14:08:22.390712
+ED   33,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   34,99.00%,Brad Hoylman-Sigal,(Democratic),807,AD 67,2024-11-07_14:08:22.390712
+ED   34,99.00%,Emily Yuexin Miller,(Republican),149,AD 67,2024-11-07_14:08:22.390712
+ED   34,99.00%,Brad Hoylman-Sigal,(Working Families),67,AD 67,2024-11-07_14:08:22.390712
+ED   34,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   35,99.00%,Brad Hoylman-Sigal,(Democratic),627,AD 67,2024-11-07_14:08:22.390712
+ED   35,99.00%,Emily Yuexin Miller,(Republican),102,AD 67,2024-11-07_14:08:22.390712
+ED   35,99.00%,Brad Hoylman-Sigal,(Working Families),46,AD 67,2024-11-07_14:08:22.390712
+ED   35,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   36,99.00%,Brad Hoylman-Sigal,(Democratic),777,AD 67,2024-11-07_14:08:22.390712
+ED   36,99.00%,Emily Yuexin Miller,(Republican),109,AD 67,2024-11-07_14:08:22.390712
+ED   36,99.00%,Brad Hoylman-Sigal,(Working Families),48,AD 67,2024-11-07_14:08:22.390712
+ED   36,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   37,99.00%,Brad Hoylman-Sigal,(Democratic),854,AD 67,2024-11-07_14:08:22.390712
+ED   37,99.00%,Emily Yuexin Miller,(Republican),186,AD 67,2024-11-07_14:08:22.390712
+ED   37,99.00%,Brad Hoylman-Sigal,(Working Families),57,AD 67,2024-11-07_14:08:22.390712
+ED   37,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   38,99.00%,Brad Hoylman-Sigal,(Democratic),938,AD 67,2024-11-07_14:08:22.390712
+ED   38,99.00%,Emily Yuexin Miller,(Republican),208,AD 67,2024-11-07_14:08:22.390712
+ED   38,99.00%,Brad Hoylman-Sigal,(Working Families),56,AD 67,2024-11-07_14:08:22.390712
+ED   38,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   39,99.00%,Brad Hoylman-Sigal,(Democratic),944,AD 67,2024-11-07_14:08:22.390712
+ED   39,99.00%,Emily Yuexin Miller,(Republican),160,AD 67,2024-11-07_14:08:22.390712
+ED   39,99.00%,Brad Hoylman-Sigal,(Working Families),43,AD 67,2024-11-07_14:08:22.390712
+ED   39,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   40,99.00%,Brad Hoylman-Sigal,(Democratic),891,AD 67,2024-11-07_14:08:22.390712
+ED   40,99.00%,Emily Yuexin Miller,(Republican),161,AD 67,2024-11-07_14:08:22.390712
+ED   40,99.00%,Brad Hoylman-Sigal,(Working Families),44,AD 67,2024-11-07_14:08:22.390712
+ED   40,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   41,99.00%,Brad Hoylman-Sigal,(Democratic),740,AD 67,2024-11-07_14:08:22.390712
+ED   41,99.00%,Emily Yuexin Miller,(Republican),218,AD 67,2024-11-07_14:08:22.390712
+ED   41,99.00%,Brad Hoylman-Sigal,(Working Families),36,AD 67,2024-11-07_14:08:22.390712
+ED   41,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   42,99.00%,Brad Hoylman-Sigal,(Democratic),758,AD 67,2024-11-07_14:08:22.390712
+ED   42,99.00%,Emily Yuexin Miller,(Republican),165,AD 67,2024-11-07_14:08:22.390712
+ED   42,99.00%,Brad Hoylman-Sigal,(Working Families),48,AD 67,2024-11-07_14:08:22.390712
+ED   42,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   43,99.00%,Brad Hoylman-Sigal,(Democratic),396,AD 67,2024-11-07_14:08:22.390712
+ED   43,99.00%,Emily Yuexin Miller,(Republican),163,AD 67,2024-11-07_14:08:22.390712
+ED   43,99.00%,Brad Hoylman-Sigal,(Working Families),20,AD 67,2024-11-07_14:08:22.390712
+ED   43,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   44,99.00%,Brad Hoylman-Sigal,(Democratic),837,AD 67,2024-11-07_14:08:22.390712
+ED   44,99.00%,Emily Yuexin Miller,(Republican),167,AD 67,2024-11-07_14:08:22.390712
+ED   44,99.00%,Brad Hoylman-Sigal,(Working Families),64,AD 67,2024-11-07_14:08:22.390712
+ED   44,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   45,99.00%,Brad Hoylman-Sigal,(Democratic),440,AD 67,2024-11-07_14:08:22.390712
+ED   45,99.00%,Emily Yuexin Miller,(Republican),158,AD 67,2024-11-07_14:08:22.390712
+ED   45,99.00%,Brad Hoylman-Sigal,(Working Families),21,AD 67,2024-11-07_14:08:22.390712
+ED   45,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   46,99.00%,Brad Hoylman-Sigal,(Democratic),262,AD 67,2024-11-07_14:08:22.390712
+ED   46,99.00%,Emily Yuexin Miller,(Republican),31,AD 67,2024-11-07_14:08:22.390712
+ED   46,99.00%,Brad Hoylman-Sigal,(Working Families),27,AD 67,2024-11-07_14:08:22.390712
+ED   46,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   47,99.00%,Brad Hoylman-Sigal,(Democratic),800,AD 67,2024-11-07_14:08:22.390712
+ED   47,99.00%,Emily Yuexin Miller,(Republican),355,AD 67,2024-11-07_14:08:22.390712
+ED   47,99.00%,Brad Hoylman-Sigal,(Working Families),42,AD 67,2024-11-07_14:08:22.390712
+ED   47,99.00%,WRITE-IN,&nbsp,6,AD 67,2024-11-07_14:08:22.390712
+ED   48,99.00%,Brad Hoylman-Sigal,(Democratic),483,AD 67,2024-11-07_14:08:22.390712
+ED   48,99.00%,Emily Yuexin Miller,(Republican),125,AD 67,2024-11-07_14:08:22.390712
+ED   48,99.00%,Brad Hoylman-Sigal,(Working Families),26,AD 67,2024-11-07_14:08:22.390712
+ED   48,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED   49,99.00%,Brad Hoylman-Sigal,(Democratic),510,AD 67,2024-11-07_14:08:22.390712
+ED   49,99.00%,Emily Yuexin Miller,(Republican),181,AD 67,2024-11-07_14:08:22.390712
+ED   49,99.00%,Brad Hoylman-Sigal,(Working Families),38,AD 67,2024-11-07_14:08:22.390712
+ED   49,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED   50,99.00%,Brad Hoylman-Sigal,(Democratic),468,AD 67,2024-11-07_14:08:22.390712
+ED   50,99.00%,Emily Yuexin Miller,(Republican),83,AD 67,2024-11-07_14:08:22.390712
+ED   50,99.00%,Brad Hoylman-Sigal,(Working Families),35,AD 67,2024-11-07_14:08:22.390712
+ED   50,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   51,99.00%,Brad Hoylman-Sigal,(Democratic),341,AD 67,2024-11-07_14:08:22.390712
+ED   51,99.00%,Emily Yuexin Miller,(Republican),82,AD 67,2024-11-07_14:08:22.390712
+ED   51,99.00%,Brad Hoylman-Sigal,(Working Families),31,AD 67,2024-11-07_14:08:22.390712
+ED   51,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   52,99.00%,Brad Hoylman-Sigal,(Democratic),629,AD 67,2024-11-07_14:08:22.390712
+ED   52,99.00%,Emily Yuexin Miller,(Republican),193,AD 67,2024-11-07_14:08:22.390712
+ED   52,99.00%,Brad Hoylman-Sigal,(Working Families),41,AD 67,2024-11-07_14:08:22.390712
+ED   52,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   53,99.00%,Brad Hoylman-Sigal,(Democratic),425,AD 67,2024-11-07_14:08:22.390712
+ED   53,99.00%,Emily Yuexin Miller,(Republican),119,AD 67,2024-11-07_14:08:22.390712
+ED   53,99.00%,Brad Hoylman-Sigal,(Working Families),25,AD 67,2024-11-07_14:08:22.390712
+ED   53,99.00%,WRITE-IN,&nbsp,4,AD 67,2024-11-07_14:08:22.390712
+ED   54,88.89%,Brad Hoylman-Sigal,(Democratic),452,AD 67,2024-11-07_14:08:22.390712
+ED   54,88.89%,Emily Yuexin Miller,(Republican),137,AD 67,2024-11-07_14:08:22.390712
+ED   54,88.89%,Brad Hoylman-Sigal,(Working Families),39,AD 67,2024-11-07_14:08:22.390712
+ED   54,88.89%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   55,99.00%,Brad Hoylman-Sigal,(Democratic),381,AD 67,2024-11-07_14:08:22.390712
+ED   55,99.00%,Emily Yuexin Miller,(Republican),94,AD 67,2024-11-07_14:08:22.390712
+ED   55,99.00%,Brad Hoylman-Sigal,(Working Families),38,AD 67,2024-11-07_14:08:22.390712
+ED   55,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   56,99.00%,Brad Hoylman-Sigal,(Democratic),582,AD 67,2024-11-07_14:08:22.390712
+ED   56,99.00%,Emily Yuexin Miller,(Republican),145,AD 67,2024-11-07_14:08:22.390712
+ED   56,99.00%,Brad Hoylman-Sigal,(Working Families),26,AD 67,2024-11-07_14:08:22.390712
+ED   56,99.00%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   57,99.00%,Brad Hoylman-Sigal,(Democratic),772,AD 67,2024-11-07_14:08:22.390712
+ED   57,99.00%,Emily Yuexin Miller,(Republican),174,AD 67,2024-11-07_14:08:22.390712
+ED   57,99.00%,Brad Hoylman-Sigal,(Working Families),69,AD 67,2024-11-07_14:08:22.390712
+ED   57,99.00%,WRITE-IN,&nbsp,4,AD 67,2024-11-07_14:08:22.390712
+ED   58,99.00%,Brad Hoylman-Sigal,(Democratic),437,AD 67,2024-11-07_14:08:22.390712
+ED   58,99.00%,Emily Yuexin Miller,(Republican),110,AD 67,2024-11-07_14:08:22.390712
+ED   58,99.00%,Brad Hoylman-Sigal,(Working Families),46,AD 67,2024-11-07_14:08:22.390712
+ED   58,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   59,88.89%,Brad Hoylman-Sigal,(Democratic),696,AD 67,2024-11-07_14:08:22.390712
+ED   59,88.89%,Emily Yuexin Miller,(Republican),179,AD 67,2024-11-07_14:08:22.390712
+ED   59,88.89%,Brad Hoylman-Sigal,(Working Families),42,AD 67,2024-11-07_14:08:22.390712
+ED   59,88.89%,WRITE-IN,&nbsp,2,AD 67,2024-11-07_14:08:22.390712
+ED   60,99.00%,Brad Hoylman-Sigal,(Democratic),975,AD 67,2024-11-07_14:08:22.390712
+ED   60,99.00%,Emily Yuexin Miller,(Republican),183,AD 67,2024-11-07_14:08:22.390712
+ED   60,99.00%,Brad Hoylman-Sigal,(Working Families),113,AD 67,2024-11-07_14:08:22.390712
+ED   60,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED   61,88.89%,Brad Hoylman-Sigal,(Democratic),403,AD 67,2024-11-07_14:08:22.390712
+ED   61,88.89%,Emily Yuexin Miller,(Republican),106,AD 67,2024-11-07_14:08:22.390712
+ED   61,88.89%,Brad Hoylman-Sigal,(Working Families),45,AD 67,2024-11-07_14:08:22.390712
+ED   61,88.89%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   62,88.89%,Brad Hoylman-Sigal,(Democratic),656,AD 67,2024-11-07_14:08:22.390712
+ED   62,88.89%,Emily Yuexin Miller,(Republican),110,AD 67,2024-11-07_14:08:22.390712
+ED   62,88.89%,Brad Hoylman-Sigal,(Working Families),60,AD 67,2024-11-07_14:08:22.390712
+ED   62,88.89%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   63,99.00%,Brad Hoylman-Sigal,(Democratic),647,AD 67,2024-11-07_14:08:22.390712
+ED   63,99.00%,Emily Yuexin Miller,(Republican),136,AD 67,2024-11-07_14:08:22.390712
+ED   63,99.00%,Brad Hoylman-Sigal,(Working Families),65,AD 67,2024-11-07_14:08:22.390712
+ED   63,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   64,99.00%,Brad Hoylman-Sigal,(Democratic),553,AD 67,2024-11-07_14:08:22.390712
+ED   64,99.00%,Emily Yuexin Miller,(Republican),129,AD 67,2024-11-07_14:08:22.390712
+ED   64,99.00%,Brad Hoylman-Sigal,(Working Families),42,AD 67,2024-11-07_14:08:22.390712
+ED   64,99.00%,WRITE-IN,&nbsp,1,AD 67,2024-11-07_14:08:22.390712
+ED   65,99.00%,Brad Hoylman-Sigal,(Democratic),631,AD 67,2024-11-07_14:08:22.390712
+ED   65,99.00%,Emily Yuexin Miller,(Republican),227,AD 67,2024-11-07_14:08:22.390712
+ED   65,99.00%,Brad Hoylman-Sigal,(Working Families),45,AD 67,2024-11-07_14:08:22.390712
+ED   65,99.00%,WRITE-IN,&nbsp,4,AD 67,2024-11-07_14:08:22.390712
+ED   66,99.00%,Brad Hoylman-Sigal,(Democratic),293,AD 67,2024-11-07_14:08:22.390712
+ED   66,99.00%,Emily Yuexin Miller,(Republican),117,AD 67,2024-11-07_14:08:22.390712
+ED   66,99.00%,Brad Hoylman-Sigal,(Working Families),18,AD 67,2024-11-07_14:08:22.390712
+ED   66,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   67,99.00%,Brad Hoylman-Sigal,(Democratic),809,AD 67,2024-11-07_14:08:22.390712
+ED   67,99.00%,Emily Yuexin Miller,(Republican),171,AD 67,2024-11-07_14:08:22.390712
+ED   67,99.00%,Brad Hoylman-Sigal,(Working Families),90,AD 67,2024-11-07_14:08:22.390712
+ED   67,99.00%,WRITE-IN,&nbsp,3,AD 67,2024-11-07_14:08:22.390712
+ED   68,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 67,2024-11-07_14:08:22.390712
+ED   68,99.00%,Emily Yuexin Miller,(Republican),0,AD 67,2024-11-07_14:08:22.390712
+ED   68,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 67,2024-11-07_14:08:22.390712
+ED   68,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+ED   70,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 67,2024-11-07_14:08:22.390712
+ED   70,99.00%,Emily Yuexin Miller,(Republican),0,AD 67,2024-11-07_14:08:22.390712
+ED   70,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 67,2024-11-07_14:08:22.390712
+ED   70,99.00%,WRITE-IN,&nbsp,0,AD 67,2024-11-07_14:08:22.390712
+Total,,Brad Hoylman-Sigal,(Democratic),42531,AD 67,2024-11-07_14:08:22.390712
+Total,,Emily Yuexin Miller,(Republican),9392,AD 67,2024-11-07_14:08:22.390712
+Total,,Brad Hoylman-Sigal,(Working Families),3185,AD 67,2024-11-07_14:08:22.390712
+Total,,WRITE-IN,&nbsp,120,AD 67,2024-11-07_14:08:22.390712
+ED   16,99.00%,Brad Hoylman-Sigal,(Democratic),317,AD 69,2024-11-07_14:08:22.390712
+ED   16,99.00%,Emily Yuexin Miller,(Republican),60,AD 69,2024-11-07_14:08:22.390712
+ED   16,99.00%,Brad Hoylman-Sigal,(Working Families),38,AD 69,2024-11-07_14:08:22.390712
+ED   16,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   33,99.00%,Brad Hoylman-Sigal,(Democratic),673,AD 69,2024-11-07_14:08:22.390712
+ED   33,99.00%,Emily Yuexin Miller,(Republican),114,AD 69,2024-11-07_14:08:22.390712
+ED   33,99.00%,Brad Hoylman-Sigal,(Working Families),88,AD 69,2024-11-07_14:08:22.390712
+ED   33,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   34,99.00%,Brad Hoylman-Sigal,(Democratic),539,AD 69,2024-11-07_14:08:22.390712
+ED   34,99.00%,Emily Yuexin Miller,(Republican),66,AD 69,2024-11-07_14:08:22.390712
+ED   34,99.00%,Brad Hoylman-Sigal,(Working Families),53,AD 69,2024-11-07_14:08:22.390712
+ED   34,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:08:22.390712
+ED   35,99.00%,Brad Hoylman-Sigal,(Democratic),510,AD 69,2024-11-07_14:08:22.390712
+ED   35,99.00%,Emily Yuexin Miller,(Republican),57,AD 69,2024-11-07_14:08:22.390712
+ED   35,99.00%,Brad Hoylman-Sigal,(Working Families),54,AD 69,2024-11-07_14:08:22.390712
+ED   35,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   36,99.00%,Brad Hoylman-Sigal,(Democratic),647,AD 69,2024-11-07_14:08:22.390712
+ED   36,99.00%,Emily Yuexin Miller,(Republican),89,AD 69,2024-11-07_14:08:22.390712
+ED   36,99.00%,Brad Hoylman-Sigal,(Working Families),63,AD 69,2024-11-07_14:08:22.390712
+ED   36,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   37,99.00%,Brad Hoylman-Sigal,(Democratic),637,AD 69,2024-11-07_14:08:22.390712
+ED   37,99.00%,Emily Yuexin Miller,(Republican),86,AD 69,2024-11-07_14:08:22.390712
+ED   37,99.00%,Brad Hoylman-Sigal,(Working Families),62,AD 69,2024-11-07_14:08:22.390712
+ED   37,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   38,99.00%,Brad Hoylman-Sigal,(Democratic),653,AD 69,2024-11-07_14:08:22.390712
+ED   38,99.00%,Emily Yuexin Miller,(Republican),87,AD 69,2024-11-07_14:08:22.390712
+ED   38,99.00%,Brad Hoylman-Sigal,(Working Families),64,AD 69,2024-11-07_14:08:22.390712
+ED   38,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   43,99.00%,Brad Hoylman-Sigal,(Democratic),781,AD 69,2024-11-07_14:08:22.390712
+ED   43,99.00%,Emily Yuexin Miller,(Republican),83,AD 69,2024-11-07_14:08:22.390712
+ED   43,99.00%,Brad Hoylman-Sigal,(Working Families),88,AD 69,2024-11-07_14:08:22.390712
+ED   43,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   44,99.00%,Brad Hoylman-Sigal,(Democratic),375,AD 69,2024-11-07_14:08:22.390712
+ED   44,99.00%,Emily Yuexin Miller,(Republican),47,AD 69,2024-11-07_14:08:22.390712
+ED   44,99.00%,Brad Hoylman-Sigal,(Working Families),57,AD 69,2024-11-07_14:08:22.390712
+ED   44,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:08:22.390712
+ED   45,99.00%,Brad Hoylman-Sigal,(Democratic),917,AD 69,2024-11-07_14:08:22.390712
+ED   45,99.00%,Emily Yuexin Miller,(Republican),98,AD 69,2024-11-07_14:08:22.390712
+ED   45,99.00%,Brad Hoylman-Sigal,(Working Families),113,AD 69,2024-11-07_14:08:22.390712
+ED   45,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   46,99.00%,Brad Hoylman-Sigal,(Democratic),694,AD 69,2024-11-07_14:08:22.390712
+ED   46,99.00%,Emily Yuexin Miller,(Republican),100,AD 69,2024-11-07_14:08:22.390712
+ED   46,99.00%,Brad Hoylman-Sigal,(Working Families),90,AD 69,2024-11-07_14:08:22.390712
+ED   46,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   47,99.00%,Brad Hoylman-Sigal,(Democratic),573,AD 69,2024-11-07_14:08:22.390712
+ED   47,99.00%,Emily Yuexin Miller,(Republican),98,AD 69,2024-11-07_14:08:22.390712
+ED   47,99.00%,Brad Hoylman-Sigal,(Working Families),62,AD 69,2024-11-07_14:08:22.390712
+ED   47,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:08:22.390712
+ED   48,99.00%,Brad Hoylman-Sigal,(Democratic),622,AD 69,2024-11-07_14:08:22.390712
+ED   48,99.00%,Emily Yuexin Miller,(Republican),121,AD 69,2024-11-07_14:08:22.390712
+ED   48,99.00%,Brad Hoylman-Sigal,(Working Families),71,AD 69,2024-11-07_14:08:22.390712
+ED   48,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:08:22.390712
+ED   49,99.00%,Brad Hoylman-Sigal,(Democratic),506,AD 69,2024-11-07_14:08:22.390712
+ED   49,99.00%,Emily Yuexin Miller,(Republican),98,AD 69,2024-11-07_14:08:22.390712
+ED   49,99.00%,Brad Hoylman-Sigal,(Working Families),56,AD 69,2024-11-07_14:08:22.390712
+ED   49,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:08:22.390712
+ED   50,99.00%,Brad Hoylman-Sigal,(Democratic),735,AD 69,2024-11-07_14:08:22.390712
+ED   50,99.00%,Emily Yuexin Miller,(Republican),93,AD 69,2024-11-07_14:08:22.390712
+ED   50,99.00%,Brad Hoylman-Sigal,(Working Families),72,AD 69,2024-11-07_14:08:22.390712
+ED   50,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:08:22.390712
+ED   51,99.00%,Brad Hoylman-Sigal,(Democratic),545,AD 69,2024-11-07_14:08:22.390712
+ED   51,99.00%,Emily Yuexin Miller,(Republican),94,AD 69,2024-11-07_14:08:22.390712
+ED   51,99.00%,Brad Hoylman-Sigal,(Working Families),61,AD 69,2024-11-07_14:08:22.390712
+ED   51,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   52,99.00%,Brad Hoylman-Sigal,(Democratic),786,AD 69,2024-11-07_14:08:22.390712
+ED   52,99.00%,Emily Yuexin Miller,(Republican),115,AD 69,2024-11-07_14:08:22.390712
+ED   52,99.00%,Brad Hoylman-Sigal,(Working Families),83,AD 69,2024-11-07_14:08:22.390712
+ED   52,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   53,99.00%,Brad Hoylman-Sigal,(Democratic),521,AD 69,2024-11-07_14:08:22.390712
+ED   53,99.00%,Emily Yuexin Miller,(Republican),101,AD 69,2024-11-07_14:08:22.390712
+ED   53,99.00%,Brad Hoylman-Sigal,(Working Families),41,AD 69,2024-11-07_14:08:22.390712
+ED   53,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   54,99.00%,Brad Hoylman-Sigal,(Democratic),702,AD 69,2024-11-07_14:08:22.390712
+ED   54,99.00%,Emily Yuexin Miller,(Republican),160,AD 69,2024-11-07_14:08:22.390712
+ED   54,99.00%,Brad Hoylman-Sigal,(Working Families),49,AD 69,2024-11-07_14:08:22.390712
+ED   54,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:08:22.390712
+ED   55,99.00%,Brad Hoylman-Sigal,(Democratic),349,AD 69,2024-11-07_14:08:22.390712
+ED   55,99.00%,Emily Yuexin Miller,(Republican),55,AD 69,2024-11-07_14:08:22.390712
+ED   55,99.00%,Brad Hoylman-Sigal,(Working Families),34,AD 69,2024-11-07_14:08:22.390712
+ED   55,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   56,99.00%,Brad Hoylman-Sigal,(Democratic),569,AD 69,2024-11-07_14:08:22.390712
+ED   56,99.00%,Emily Yuexin Miller,(Republican),87,AD 69,2024-11-07_14:08:22.390712
+ED   56,99.00%,Brad Hoylman-Sigal,(Working Families),49,AD 69,2024-11-07_14:08:22.390712
+ED   56,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   57,99.00%,Brad Hoylman-Sigal,(Democratic),407,AD 69,2024-11-07_14:08:22.390712
+ED   57,99.00%,Emily Yuexin Miller,(Republican),73,AD 69,2024-11-07_14:08:22.390712
+ED   57,99.00%,Brad Hoylman-Sigal,(Working Families),50,AD 69,2024-11-07_14:08:22.390712
+ED   57,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   58,99.00%,Brad Hoylman-Sigal,(Democratic),775,AD 69,2024-11-07_14:08:22.390712
+ED   58,99.00%,Emily Yuexin Miller,(Republican),118,AD 69,2024-11-07_14:08:22.390712
+ED   58,99.00%,Brad Hoylman-Sigal,(Working Families),99,AD 69,2024-11-07_14:08:22.390712
+ED   58,99.00%,WRITE-IN,&nbsp,6,AD 69,2024-11-07_14:08:22.390712
+ED   59,99.00%,Brad Hoylman-Sigal,(Democratic),658,AD 69,2024-11-07_14:08:22.390712
+ED   59,99.00%,Emily Yuexin Miller,(Republican),95,AD 69,2024-11-07_14:08:22.390712
+ED   59,99.00%,Brad Hoylman-Sigal,(Working Families),76,AD 69,2024-11-07_14:08:22.390712
+ED   59,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   60,99.00%,Brad Hoylman-Sigal,(Democratic),716,AD 69,2024-11-07_14:08:22.390712
+ED   60,99.00%,Emily Yuexin Miller,(Republican),111,AD 69,2024-11-07_14:08:22.390712
+ED   60,99.00%,Brad Hoylman-Sigal,(Working Families),95,AD 69,2024-11-07_14:08:22.390712
+ED   60,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   61,99.00%,Brad Hoylman-Sigal,(Democratic),453,AD 69,2024-11-07_14:08:22.390712
+ED   61,99.00%,Emily Yuexin Miller,(Republican),76,AD 69,2024-11-07_14:08:22.390712
+ED   61,99.00%,Brad Hoylman-Sigal,(Working Families),74,AD 69,2024-11-07_14:08:22.390712
+ED   61,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   62,99.00%,Brad Hoylman-Sigal,(Democratic),461,AD 69,2024-11-07_14:08:22.390712
+ED   62,99.00%,Emily Yuexin Miller,(Republican),75,AD 69,2024-11-07_14:08:22.390712
+ED   62,99.00%,Brad Hoylman-Sigal,(Working Families),46,AD 69,2024-11-07_14:08:22.390712
+ED   62,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   63,99.00%,Brad Hoylman-Sigal,(Democratic),396,AD 69,2024-11-07_14:08:22.390712
+ED   63,99.00%,Emily Yuexin Miller,(Republican),53,AD 69,2024-11-07_14:08:22.390712
+ED   63,99.00%,Brad Hoylman-Sigal,(Working Families),46,AD 69,2024-11-07_14:08:22.390712
+ED   63,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   64,99.00%,Brad Hoylman-Sigal,(Democratic),324,AD 69,2024-11-07_14:08:22.390712
+ED   64,99.00%,Emily Yuexin Miller,(Republican),60,AD 69,2024-11-07_14:08:22.390712
+ED   64,99.00%,Brad Hoylman-Sigal,(Working Families),29,AD 69,2024-11-07_14:08:22.390712
+ED   64,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   65,50.00%,Brad Hoylman-Sigal,(Democratic),411,AD 69,2024-11-07_14:08:22.390712
+ED   65,50.00%,Emily Yuexin Miller,(Republican),60,AD 69,2024-11-07_14:08:22.390712
+ED   65,50.00%,Brad Hoylman-Sigal,(Working Families),33,AD 69,2024-11-07_14:08:22.390712
+ED   65,50.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   66,50.00%,Brad Hoylman-Sigal,(Democratic),564,AD 69,2024-11-07_14:08:22.390712
+ED   66,50.00%,Emily Yuexin Miller,(Republican),70,AD 69,2024-11-07_14:08:22.390712
+ED   66,50.00%,Brad Hoylman-Sigal,(Working Families),54,AD 69,2024-11-07_14:08:22.390712
+ED   66,50.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   67,50.00%,Brad Hoylman-Sigal,(Democratic),344,AD 69,2024-11-07_14:08:22.390712
+ED   67,50.00%,Emily Yuexin Miller,(Republican),69,AD 69,2024-11-07_14:08:22.390712
+ED   67,50.00%,Brad Hoylman-Sigal,(Working Families),31,AD 69,2024-11-07_14:08:22.390712
+ED   67,50.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   68,99.00%,Brad Hoylman-Sigal,(Democratic),626,AD 69,2024-11-07_14:08:22.390712
+ED   68,99.00%,Emily Yuexin Miller,(Republican),113,AD 69,2024-11-07_14:08:22.390712
+ED   68,99.00%,Brad Hoylman-Sigal,(Working Families),52,AD 69,2024-11-07_14:08:22.390712
+ED   68,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   69,99.00%,Brad Hoylman-Sigal,(Democratic),540,AD 69,2024-11-07_14:08:22.390712
+ED   69,99.00%,Emily Yuexin Miller,(Republican),96,AD 69,2024-11-07_14:08:22.390712
+ED   69,99.00%,Brad Hoylman-Sigal,(Working Families),41,AD 69,2024-11-07_14:08:22.390712
+ED   69,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:08:22.390712
+ED   70,99.00%,Brad Hoylman-Sigal,(Democratic),490,AD 69,2024-11-07_14:08:22.390712
+ED   70,99.00%,Emily Yuexin Miller,(Republican),94,AD 69,2024-11-07_14:08:22.390712
+ED   70,99.00%,Brad Hoylman-Sigal,(Working Families),47,AD 69,2024-11-07_14:08:22.390712
+ED   70,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:08:22.390712
+ED   71,99.00%,Brad Hoylman-Sigal,(Democratic),708,AD 69,2024-11-07_14:08:22.390712
+ED   71,99.00%,Emily Yuexin Miller,(Republican),127,AD 69,2024-11-07_14:08:22.390712
+ED   71,99.00%,Brad Hoylman-Sigal,(Working Families),62,AD 69,2024-11-07_14:08:22.390712
+ED   71,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   72,99.00%,Brad Hoylman-Sigal,(Democratic),482,AD 69,2024-11-07_14:08:22.390712
+ED   72,99.00%,Emily Yuexin Miller,(Republican),114,AD 69,2024-11-07_14:08:22.390712
+ED   72,99.00%,Brad Hoylman-Sigal,(Working Families),35,AD 69,2024-11-07_14:08:22.390712
+ED   72,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   73,99.00%,Brad Hoylman-Sigal,(Democratic),802,AD 69,2024-11-07_14:08:22.390712
+ED   73,99.00%,Emily Yuexin Miller,(Republican),145,AD 69,2024-11-07_14:08:22.390712
+ED   73,99.00%,Brad Hoylman-Sigal,(Working Families),59,AD 69,2024-11-07_14:08:22.390712
+ED   73,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:08:22.390712
+ED   74,99.00%,Brad Hoylman-Sigal,(Democratic),470,AD 69,2024-11-07_14:08:22.390712
+ED   74,99.00%,Emily Yuexin Miller,(Republican),91,AD 69,2024-11-07_14:08:22.390712
+ED   74,99.00%,Brad Hoylman-Sigal,(Working Families),49,AD 69,2024-11-07_14:08:22.390712
+ED   74,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   75,99.00%,Brad Hoylman-Sigal,(Democratic),532,AD 69,2024-11-07_14:08:22.390712
+ED   75,99.00%,Emily Yuexin Miller,(Republican),101,AD 69,2024-11-07_14:08:22.390712
+ED   75,99.00%,Brad Hoylman-Sigal,(Working Families),31,AD 69,2024-11-07_14:08:22.390712
+ED   75,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   76,99.00%,Brad Hoylman-Sigal,(Democratic),498,AD 69,2024-11-07_14:08:22.390712
+ED   76,99.00%,Emily Yuexin Miller,(Republican),98,AD 69,2024-11-07_14:08:22.390712
+ED   76,99.00%,Brad Hoylman-Sigal,(Working Families),55,AD 69,2024-11-07_14:08:22.390712
+ED   76,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:08:22.390712
+ED   78,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 69,2024-11-07_14:08:22.390712
+ED   78,99.00%,Emily Yuexin Miller,(Republican),0,AD 69,2024-11-07_14:08:22.390712
+ED   78,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 69,2024-11-07_14:08:22.390712
+ED   78,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   79,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 69,2024-11-07_14:08:22.390712
+ED   79,99.00%,Emily Yuexin Miller,(Republican),1,AD 69,2024-11-07_14:08:22.390712
+ED   79,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 69,2024-11-07_14:08:22.390712
+ED   79,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   81,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 69,2024-11-07_14:08:22.390712
+ED   81,99.00%,Emily Yuexin Miller,(Republican),0,AD 69,2024-11-07_14:08:22.390712
+ED   81,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 69,2024-11-07_14:08:22.390712
+ED   81,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   82,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 69,2024-11-07_14:08:22.390712
+ED   82,99.00%,Emily Yuexin Miller,(Republican),0,AD 69,2024-11-07_14:08:22.390712
+ED   82,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 69,2024-11-07_14:08:22.390712
+ED   82,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+ED   84,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 69,2024-11-07_14:08:22.390712
+ED   84,99.00%,Emily Yuexin Miller,(Republican),0,AD 69,2024-11-07_14:08:22.390712
+ED   84,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 69,2024-11-07_14:08:22.390712
+ED   84,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:08:22.390712
+Total,,Brad Hoylman-Sigal,(Democratic),23308,AD 69,2024-11-07_14:08:22.390712
+Total,,Emily Yuexin Miller,(Republican),3749,AD 69,2024-11-07_14:08:22.390712
+Total,,Brad Hoylman-Sigal,(Working Families),2412,AD 69,2024-11-07_14:08:22.390712
+Total,,WRITE-IN,&nbsp,48,AD 69,2024-11-07_14:08:22.390712
+ED    1,85.71%,Brad Hoylman-Sigal,(Democratic),767,AD 75,2024-11-07_14:08:22.390712
+ED    1,85.71%,Emily Yuexin Miller,(Republican),154,AD 75,2024-11-07_14:08:22.390712
+ED    1,85.71%,Brad Hoylman-Sigal,(Working Families),56,AD 75,2024-11-07_14:08:22.390712
+ED    1,85.71%,WRITE-IN,&nbsp,4,AD 75,2024-11-07_14:08:22.390712
+ED    2,99.00%,Brad Hoylman-Sigal,(Democratic),870,AD 75,2024-11-07_14:08:22.390712
+ED    2,99.00%,Emily Yuexin Miller,(Republican),207,AD 75,2024-11-07_14:08:22.390712
+ED    2,99.00%,Brad Hoylman-Sigal,(Working Families),35,AD 75,2024-11-07_14:08:22.390712
+ED    2,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED    3,99.00%,Brad Hoylman-Sigal,(Democratic),756,AD 75,2024-11-07_14:08:22.390712
+ED    3,99.00%,Emily Yuexin Miller,(Republican),195,AD 75,2024-11-07_14:08:22.390712
+ED    3,99.00%,Brad Hoylman-Sigal,(Working Families),35,AD 75,2024-11-07_14:08:22.390712
+ED    3,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED    4,99.00%,Brad Hoylman-Sigal,(Democratic),337,AD 75,2024-11-07_14:08:22.390712
+ED    4,99.00%,Emily Yuexin Miller,(Republican),118,AD 75,2024-11-07_14:08:22.390712
+ED    4,99.00%,Brad Hoylman-Sigal,(Working Families),13,AD 75,2024-11-07_14:08:22.390712
+ED    4,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED    5,99.00%,Brad Hoylman-Sigal,(Democratic),641,AD 75,2024-11-07_14:08:22.390712
+ED    5,99.00%,Emily Yuexin Miller,(Republican),205,AD 75,2024-11-07_14:08:22.390712
+ED    5,99.00%,Brad Hoylman-Sigal,(Working Families),18,AD 75,2024-11-07_14:08:22.390712
+ED    5,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED    6,99.00%,Brad Hoylman-Sigal,(Democratic),737,AD 75,2024-11-07_14:08:22.390712
+ED    6,99.00%,Emily Yuexin Miller,(Republican),206,AD 75,2024-11-07_14:08:22.390712
+ED    6,99.00%,Brad Hoylman-Sigal,(Working Families),46,AD 75,2024-11-07_14:08:22.390712
+ED    6,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED    8,85.71%,Brad Hoylman-Sigal,(Democratic),808,AD 75,2024-11-07_14:08:22.390712
+ED    8,85.71%,Emily Yuexin Miller,(Republican),189,AD 75,2024-11-07_14:08:22.390712
+ED    8,85.71%,Brad Hoylman-Sigal,(Working Families),62,AD 75,2024-11-07_14:08:22.390712
+ED    8,85.71%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED    9,99.00%,Brad Hoylman-Sigal,(Democratic),165,AD 75,2024-11-07_14:08:22.390712
+ED    9,99.00%,Emily Yuexin Miller,(Republican),23,AD 75,2024-11-07_14:08:22.390712
+ED    9,99.00%,Brad Hoylman-Sigal,(Working Families),25,AD 75,2024-11-07_14:08:22.390712
+ED    9,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   17,99.00%,Brad Hoylman-Sigal,(Democratic),433,AD 75,2024-11-07_14:08:22.390712
+ED   17,99.00%,Emily Yuexin Miller,(Republican),91,AD 75,2024-11-07_14:08:22.390712
+ED   17,99.00%,Brad Hoylman-Sigal,(Working Families),41,AD 75,2024-11-07_14:08:22.390712
+ED   17,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   25,99.00%,Brad Hoylman-Sigal,(Democratic),323,AD 75,2024-11-07_14:08:22.390712
+ED   25,99.00%,Emily Yuexin Miller,(Republican),49,AD 75,2024-11-07_14:08:22.390712
+ED   25,99.00%,Brad Hoylman-Sigal,(Working Families),19,AD 75,2024-11-07_14:08:22.390712
+ED   25,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   29,99.00%,Brad Hoylman-Sigal,(Democratic),579,AD 75,2024-11-07_14:08:22.390712
+ED   29,99.00%,Emily Yuexin Miller,(Republican),118,AD 75,2024-11-07_14:08:22.390712
+ED   29,99.00%,Brad Hoylman-Sigal,(Working Families),65,AD 75,2024-11-07_14:08:22.390712
+ED   29,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   31,99.00%,Brad Hoylman-Sigal,(Democratic),663,AD 75,2024-11-07_14:08:22.390712
+ED   31,99.00%,Emily Yuexin Miller,(Republican),136,AD 75,2024-11-07_14:08:22.390712
+ED   31,99.00%,Brad Hoylman-Sigal,(Working Families),69,AD 75,2024-11-07_14:08:22.390712
+ED   31,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   32,99.00%,Brad Hoylman-Sigal,(Democratic),534,AD 75,2024-11-07_14:08:22.390712
+ED   32,99.00%,Emily Yuexin Miller,(Republican),94,AD 75,2024-11-07_14:08:22.390712
+ED   32,99.00%,Brad Hoylman-Sigal,(Working Families),55,AD 75,2024-11-07_14:08:22.390712
+ED   32,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   33,99.00%,Brad Hoylman-Sigal,(Democratic),498,AD 75,2024-11-07_14:08:22.390712
+ED   33,99.00%,Emily Yuexin Miller,(Republican),111,AD 75,2024-11-07_14:08:22.390712
+ED   33,99.00%,Brad Hoylman-Sigal,(Working Families),39,AD 75,2024-11-07_14:08:22.390712
+ED   33,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   34,99.00%,Brad Hoylman-Sigal,(Democratic),478,AD 75,2024-11-07_14:08:22.390712
+ED   34,99.00%,Emily Yuexin Miller,(Republican),111,AD 75,2024-11-07_14:08:22.390712
+ED   34,99.00%,Brad Hoylman-Sigal,(Working Families),42,AD 75,2024-11-07_14:08:22.390712
+ED   34,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   35,99.00%,Brad Hoylman-Sigal,(Democratic),354,AD 75,2024-11-07_14:08:22.390712
+ED   35,99.00%,Emily Yuexin Miller,(Republican),95,AD 75,2024-11-07_14:08:22.390712
+ED   35,99.00%,Brad Hoylman-Sigal,(Working Families),21,AD 75,2024-11-07_14:08:22.390712
+ED   35,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   37,99.00%,Brad Hoylman-Sigal,(Democratic),508,AD 75,2024-11-07_14:08:22.390712
+ED   37,99.00%,Emily Yuexin Miller,(Republican),128,AD 75,2024-11-07_14:08:22.390712
+ED   37,99.00%,Brad Hoylman-Sigal,(Working Families),76,AD 75,2024-11-07_14:08:22.390712
+ED   37,99.00%,WRITE-IN,&nbsp,4,AD 75,2024-11-07_14:08:22.390712
+ED   38,99.00%,Brad Hoylman-Sigal,(Democratic),576,AD 75,2024-11-07_14:08:22.390712
+ED   38,99.00%,Emily Yuexin Miller,(Republican),116,AD 75,2024-11-07_14:08:22.390712
+ED   38,99.00%,Brad Hoylman-Sigal,(Working Families),99,AD 75,2024-11-07_14:08:22.390712
+ED   38,99.00%,WRITE-IN,&nbsp,3,AD 75,2024-11-07_14:08:22.390712
+ED   39,99.00%,Brad Hoylman-Sigal,(Democratic),489,AD 75,2024-11-07_14:08:22.390712
+ED   39,99.00%,Emily Yuexin Miller,(Republican),120,AD 75,2024-11-07_14:08:22.390712
+ED   39,99.00%,Brad Hoylman-Sigal,(Working Families),105,AD 75,2024-11-07_14:08:22.390712
+ED   39,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   41,99.00%,Brad Hoylman-Sigal,(Democratic),655,AD 75,2024-11-07_14:08:22.390712
+ED   41,99.00%,Emily Yuexin Miller,(Republican),179,AD 75,2024-11-07_14:08:22.390712
+ED   41,99.00%,Brad Hoylman-Sigal,(Working Families),41,AD 75,2024-11-07_14:08:22.390712
+ED   41,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   42,99.00%,Brad Hoylman-Sigal,(Democratic),659,AD 75,2024-11-07_14:08:22.390712
+ED   42,99.00%,Emily Yuexin Miller,(Republican),101,AD 75,2024-11-07_14:08:22.390712
+ED   42,99.00%,Brad Hoylman-Sigal,(Working Families),37,AD 75,2024-11-07_14:08:22.390712
+ED   42,99.00%,WRITE-IN,&nbsp,3,AD 75,2024-11-07_14:08:22.390712
+ED   43,99.00%,Brad Hoylman-Sigal,(Democratic),713,AD 75,2024-11-07_14:08:22.390712
+ED   43,99.00%,Emily Yuexin Miller,(Republican),203,AD 75,2024-11-07_14:08:22.390712
+ED   43,99.00%,Brad Hoylman-Sigal,(Working Families),123,AD 75,2024-11-07_14:08:22.390712
+ED   43,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   44,99.00%,Brad Hoylman-Sigal,(Democratic),772,AD 75,2024-11-07_14:08:22.390712
+ED   44,99.00%,Emily Yuexin Miller,(Republican),106,AD 75,2024-11-07_14:08:22.390712
+ED   44,99.00%,Brad Hoylman-Sigal,(Working Families),59,AD 75,2024-11-07_14:08:22.390712
+ED   44,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   45,99.00%,Brad Hoylman-Sigal,(Democratic),557,AD 75,2024-11-07_14:08:22.390712
+ED   45,99.00%,Emily Yuexin Miller,(Republican),102,AD 75,2024-11-07_14:08:22.390712
+ED   45,99.00%,Brad Hoylman-Sigal,(Working Families),48,AD 75,2024-11-07_14:08:22.390712
+ED   45,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   46,99.00%,Brad Hoylman-Sigal,(Democratic),626,AD 75,2024-11-07_14:08:22.390712
+ED   46,99.00%,Emily Yuexin Miller,(Republican),105,AD 75,2024-11-07_14:08:22.390712
+ED   46,99.00%,Brad Hoylman-Sigal,(Working Families),75,AD 75,2024-11-07_14:08:22.390712
+ED   46,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   47,99.00%,Brad Hoylman-Sigal,(Democratic),585,AD 75,2024-11-07_14:08:22.390712
+ED   47,99.00%,Emily Yuexin Miller,(Republican),134,AD 75,2024-11-07_14:08:22.390712
+ED   47,99.00%,Brad Hoylman-Sigal,(Working Families),37,AD 75,2024-11-07_14:08:22.390712
+ED   47,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   49,99.00%,Brad Hoylman-Sigal,(Democratic),681,AD 75,2024-11-07_14:08:22.390712
+ED   49,99.00%,Emily Yuexin Miller,(Republican),113,AD 75,2024-11-07_14:08:22.390712
+ED   49,99.00%,Brad Hoylman-Sigal,(Working Families),99,AD 75,2024-11-07_14:08:22.390712
+ED   49,99.00%,WRITE-IN,&nbsp,4,AD 75,2024-11-07_14:08:22.390712
+ED   50,88.89%,Brad Hoylman-Sigal,(Democratic),450,AD 75,2024-11-07_14:08:22.390712
+ED   50,88.89%,Emily Yuexin Miller,(Republican),69,AD 75,2024-11-07_14:08:22.390712
+ED   50,88.89%,Brad Hoylman-Sigal,(Working Families),55,AD 75,2024-11-07_14:08:22.390712
+ED   50,88.89%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   51,99.00%,Brad Hoylman-Sigal,(Democratic),799,AD 75,2024-11-07_14:08:22.390712
+ED   51,99.00%,Emily Yuexin Miller,(Republican),136,AD 75,2024-11-07_14:08:22.390712
+ED   51,99.00%,Brad Hoylman-Sigal,(Working Families),91,AD 75,2024-11-07_14:08:22.390712
+ED   51,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   52,99.00%,Brad Hoylman-Sigal,(Democratic),718,AD 75,2024-11-07_14:08:22.390712
+ED   52,99.00%,Emily Yuexin Miller,(Republican),81,AD 75,2024-11-07_14:08:22.390712
+ED   52,99.00%,Brad Hoylman-Sigal,(Working Families),56,AD 75,2024-11-07_14:08:22.390712
+ED   52,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   53,99.00%,Brad Hoylman-Sigal,(Democratic),698,AD 75,2024-11-07_14:08:22.390712
+ED   53,99.00%,Emily Yuexin Miller,(Republican),86,AD 75,2024-11-07_14:08:22.390712
+ED   53,99.00%,Brad Hoylman-Sigal,(Working Families),74,AD 75,2024-11-07_14:08:22.390712
+ED   53,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   54,99.00%,Brad Hoylman-Sigal,(Democratic),376,AD 75,2024-11-07_14:08:22.390712
+ED   54,99.00%,Emily Yuexin Miller,(Republican),93,AD 75,2024-11-07_14:08:22.390712
+ED   54,99.00%,Brad Hoylman-Sigal,(Working Families),36,AD 75,2024-11-07_14:08:22.390712
+ED   54,99.00%,WRITE-IN,&nbsp,4,AD 75,2024-11-07_14:08:22.390712
+ED   55,99.00%,Brad Hoylman-Sigal,(Democratic),337,AD 75,2024-11-07_14:08:22.390712
+ED   55,99.00%,Emily Yuexin Miller,(Republican),98,AD 75,2024-11-07_14:08:22.390712
+ED   55,99.00%,Brad Hoylman-Sigal,(Working Families),26,AD 75,2024-11-07_14:08:22.390712
+ED   55,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   56,99.00%,Brad Hoylman-Sigal,(Democratic),436,AD 75,2024-11-07_14:08:22.390712
+ED   56,99.00%,Emily Yuexin Miller,(Republican),127,AD 75,2024-11-07_14:08:22.390712
+ED   56,99.00%,Brad Hoylman-Sigal,(Working Families),29,AD 75,2024-11-07_14:08:22.390712
+ED   56,99.00%,WRITE-IN,&nbsp,1,AD 75,2024-11-07_14:08:22.390712
+ED   57,99.00%,Brad Hoylman-Sigal,(Democratic),529,AD 75,2024-11-07_14:08:22.390712
+ED   57,99.00%,Emily Yuexin Miller,(Republican),200,AD 75,2024-11-07_14:08:22.390712
+ED   57,99.00%,Brad Hoylman-Sigal,(Working Families),48,AD 75,2024-11-07_14:08:22.390712
+ED   57,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   58,99.00%,Brad Hoylman-Sigal,(Democratic),579,AD 75,2024-11-07_14:08:22.390712
+ED   58,99.00%,Emily Yuexin Miller,(Republican),132,AD 75,2024-11-07_14:08:22.390712
+ED   58,99.00%,Brad Hoylman-Sigal,(Working Families),50,AD 75,2024-11-07_14:08:22.390712
+ED   58,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   59,99.00%,Brad Hoylman-Sigal,(Democratic),959,AD 75,2024-11-07_14:08:22.390712
+ED   59,99.00%,Emily Yuexin Miller,(Republican),285,AD 75,2024-11-07_14:08:22.390712
+ED   59,99.00%,Brad Hoylman-Sigal,(Working Families),76,AD 75,2024-11-07_14:08:22.390712
+ED   59,99.00%,WRITE-IN,&nbsp,3,AD 75,2024-11-07_14:08:22.390712
+ED   60,99.00%,Brad Hoylman-Sigal,(Democratic),596,AD 75,2024-11-07_14:08:22.390712
+ED   60,99.00%,Emily Yuexin Miller,(Republican),147,AD 75,2024-11-07_14:08:22.390712
+ED   60,99.00%,Brad Hoylman-Sigal,(Working Families),30,AD 75,2024-11-07_14:08:22.390712
+ED   60,99.00%,WRITE-IN,&nbsp,4,AD 75,2024-11-07_14:08:22.390712
+ED   61,99.00%,Brad Hoylman-Sigal,(Democratic),220,AD 75,2024-11-07_14:08:22.390712
+ED   61,99.00%,Emily Yuexin Miller,(Republican),75,AD 75,2024-11-07_14:08:22.390712
+ED   61,99.00%,Brad Hoylman-Sigal,(Working Families),26,AD 75,2024-11-07_14:08:22.390712
+ED   61,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   62,99.00%,Brad Hoylman-Sigal,(Democratic),596,AD 75,2024-11-07_14:08:22.390712
+ED   62,99.00%,Emily Yuexin Miller,(Republican),132,AD 75,2024-11-07_14:08:22.390712
+ED   62,99.00%,Brad Hoylman-Sigal,(Working Families),53,AD 75,2024-11-07_14:08:22.390712
+ED   62,99.00%,WRITE-IN,&nbsp,5,AD 75,2024-11-07_14:08:22.390712
+ED   63,99.00%,Brad Hoylman-Sigal,(Democratic),892,AD 75,2024-11-07_14:08:22.390712
+ED   63,99.00%,Emily Yuexin Miller,(Republican),93,AD 75,2024-11-07_14:08:22.390712
+ED   63,99.00%,Brad Hoylman-Sigal,(Working Families),60,AD 75,2024-11-07_14:08:22.390712
+ED   63,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   64,99.00%,Brad Hoylman-Sigal,(Democratic),687,AD 75,2024-11-07_14:08:22.390712
+ED   64,99.00%,Emily Yuexin Miller,(Republican),103,AD 75,2024-11-07_14:08:22.390712
+ED   64,99.00%,Brad Hoylman-Sigal,(Working Families),59,AD 75,2024-11-07_14:08:22.390712
+ED   64,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   65,99.00%,Brad Hoylman-Sigal,(Democratic),437,AD 75,2024-11-07_14:08:22.390712
+ED   65,99.00%,Emily Yuexin Miller,(Republican),141,AD 75,2024-11-07_14:08:22.390712
+ED   65,99.00%,Brad Hoylman-Sigal,(Working Families),33,AD 75,2024-11-07_14:08:22.390712
+ED   65,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   66,99.00%,Brad Hoylman-Sigal,(Democratic),435,AD 75,2024-11-07_14:08:22.390712
+ED   66,99.00%,Emily Yuexin Miller,(Republican),137,AD 75,2024-11-07_14:08:22.390712
+ED   66,99.00%,Brad Hoylman-Sigal,(Working Families),38,AD 75,2024-11-07_14:08:22.390712
+ED   66,99.00%,WRITE-IN,&nbsp,2,AD 75,2024-11-07_14:08:22.390712
+ED   68,85.71%,Brad Hoylman-Sigal,(Democratic),0,AD 75,2024-11-07_14:08:22.390712
+ED   68,85.71%,Emily Yuexin Miller,(Republican),0,AD 75,2024-11-07_14:08:22.390712
+ED   68,85.71%,Brad Hoylman-Sigal,(Working Families),0,AD 75,2024-11-07_14:08:22.390712
+ED   68,85.71%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+ED   69,99.00%,Brad Hoylman-Sigal,(Democratic),0,AD 75,2024-11-07_14:08:22.390712
+ED   69,99.00%,Emily Yuexin Miller,(Republican),0,AD 75,2024-11-07_14:08:22.390712
+ED   69,99.00%,Brad Hoylman-Sigal,(Working Families),0,AD 75,2024-11-07_14:08:22.390712
+ED   69,99.00%,WRITE-IN,&nbsp,0,AD 75,2024-11-07_14:08:22.390712
+Total,,Brad Hoylman-Sigal,(Democratic),25508,AD 75,2024-11-07_14:08:22.390712
+Total,,Emily Yuexin Miller,(Republican),5644,AD 75,2024-11-07_14:08:22.390712
+Total,,Brad Hoylman-Sigal,(Working Families),2280,AD 75,2024-11-07_14:08:22.390712
+Total,,WRITE-IN,&nbsp,74,AD 75,2024-11-07_14:08:22.390712

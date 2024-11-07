@@ -1,0 +1,1581 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    1,99.00%,Adriano Espaillat,(Democratic),443,AD 68,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Republican),41,AD 68,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Conservative),4,AD 68,2024-11-07_14:07:14.930842
+ED    1,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED    2,99.00%,Adriano Espaillat,(Democratic),381,AD 68,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Republican),48,AD 68,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Conservative),11,AD 68,2024-11-07_14:07:14.930842
+ED    2,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED    3,99.00%,Adriano Espaillat,(Democratic),276,AD 68,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Republican),21,AD 68,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Conservative),4,AD 68,2024-11-07_14:07:14.930842
+ED    3,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED    4,87.50%,Adriano Espaillat,(Democratic),513,AD 68,2024-11-07_14:07:14.930842
+ED    4,87.50%,Ruben D. Vargas,(Republican),34,AD 68,2024-11-07_14:07:14.930842
+ED    4,87.50%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED    4,87.50%,WRITE-IN,&nbsp,6,AD 68,2024-11-07_14:07:14.930842
+ED    5,99.00%,Adriano Espaillat,(Democratic),384,AD 68,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Republican),20,AD 68,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Conservative),4,AD 68,2024-11-07_14:07:14.930842
+ED    5,99.00%,WRITE-IN,&nbsp,5,AD 68,2024-11-07_14:07:14.930842
+ED    6,87.50%,Adriano Espaillat,(Democratic),410,AD 68,2024-11-07_14:07:14.930842
+ED    6,87.50%,Ruben D. Vargas,(Republican),59,AD 68,2024-11-07_14:07:14.930842
+ED    6,87.50%,Ruben D. Vargas,(Conservative),5,AD 68,2024-11-07_14:07:14.930842
+ED    6,87.50%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED    7,87.50%,Adriano Espaillat,(Democratic),294,AD 68,2024-11-07_14:07:14.930842
+ED    7,87.50%,Ruben D. Vargas,(Republican),44,AD 68,2024-11-07_14:07:14.930842
+ED    7,87.50%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED    7,87.50%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED    8,87.50%,Adriano Espaillat,(Democratic),821,AD 68,2024-11-07_14:07:14.930842
+ED    8,87.50%,Ruben D. Vargas,(Republican),105,AD 68,2024-11-07_14:07:14.930842
+ED    8,87.50%,Ruben D. Vargas,(Conservative),24,AD 68,2024-11-07_14:07:14.930842
+ED    8,87.50%,WRITE-IN,&nbsp,4,AD 68,2024-11-07_14:07:14.930842
+ED    9,99.00%,Adriano Espaillat,(Democratic),201,AD 68,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Republican),26,AD 68,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Conservative),1,AD 68,2024-11-07_14:07:14.930842
+ED    9,99.00%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   10,99.00%,Adriano Espaillat,(Democratic),319,AD 68,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Republican),51,AD 68,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Conservative),7,AD 68,2024-11-07_14:07:14.930842
+ED   10,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   11,99.00%,Adriano Espaillat,(Democratic),523,AD 68,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Republican),53,AD 68,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Conservative),8,AD 68,2024-11-07_14:07:14.930842
+ED   11,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   12,71.43%,Adriano Espaillat,(Democratic),307,AD 68,2024-11-07_14:07:14.930842
+ED   12,71.43%,Ruben D. Vargas,(Republican),39,AD 68,2024-11-07_14:07:14.930842
+ED   12,71.43%,Ruben D. Vargas,(Conservative),3,AD 68,2024-11-07_14:07:14.930842
+ED   12,71.43%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   13,71.43%,Adriano Espaillat,(Democratic),376,AD 68,2024-11-07_14:07:14.930842
+ED   13,71.43%,Ruben D. Vargas,(Republican),63,AD 68,2024-11-07_14:07:14.930842
+ED   13,71.43%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED   13,71.43%,WRITE-IN,&nbsp,5,AD 68,2024-11-07_14:07:14.930842
+ED   14,99.00%,Adriano Espaillat,(Democratic),312,AD 68,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Republican),30,AD 68,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Conservative),4,AD 68,2024-11-07_14:07:14.930842
+ED   14,99.00%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   15,99.00%,Adriano Espaillat,(Democratic),289,AD 68,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Republican),45,AD 68,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED   15,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   16,99.00%,Adriano Espaillat,(Democratic),306,AD 68,2024-11-07_14:07:14.930842
+ED   16,99.00%,Ruben D. Vargas,(Republican),66,AD 68,2024-11-07_14:07:14.930842
+ED   16,99.00%,Ruben D. Vargas,(Conservative),10,AD 68,2024-11-07_14:07:14.930842
+ED   16,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   17,99.00%,Adriano Espaillat,(Democratic),489,AD 68,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Republican),51,AD 68,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   18,99.00%,Adriano Espaillat,(Democratic),287,AD 68,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Republican),51,AD 68,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Conservative),8,AD 68,2024-11-07_14:07:14.930842
+ED   18,99.00%,WRITE-IN,&nbsp,3,AD 68,2024-11-07_14:07:14.930842
+ED   19,87.50%,Adriano Espaillat,(Democratic),405,AD 68,2024-11-07_14:07:14.930842
+ED   19,87.50%,Ruben D. Vargas,(Republican),49,AD 68,2024-11-07_14:07:14.930842
+ED   19,87.50%,Ruben D. Vargas,(Conservative),6,AD 68,2024-11-07_14:07:14.930842
+ED   19,87.50%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   20,99.00%,Adriano Espaillat,(Democratic),421,AD 68,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Republican),82,AD 68,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Conservative),11,AD 68,2024-11-07_14:07:14.930842
+ED   20,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   21,99.00%,Adriano Espaillat,(Democratic),587,AD 68,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Republican),65,AD 68,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Conservative),10,AD 68,2024-11-07_14:07:14.930842
+ED   21,99.00%,WRITE-IN,&nbsp,5,AD 68,2024-11-07_14:07:14.930842
+ED   22,99.00%,Adriano Espaillat,(Democratic),298,AD 68,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Republican),52,AD 68,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Conservative),7,AD 68,2024-11-07_14:07:14.930842
+ED   22,99.00%,WRITE-IN,&nbsp,3,AD 68,2024-11-07_14:07:14.930842
+ED   23,99.00%,Adriano Espaillat,(Democratic),324,AD 68,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Republican),49,AD 68,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Conservative),3,AD 68,2024-11-07_14:07:14.930842
+ED   23,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   24,99.00%,Adriano Espaillat,(Democratic),23,AD 68,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Republican),13,AD 68,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Conservative),1,AD 68,2024-11-07_14:07:14.930842
+ED   24,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   25,99.00%,Adriano Espaillat,(Democratic),442,AD 68,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Republican),72,AD 68,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Conservative),15,AD 68,2024-11-07_14:07:14.930842
+ED   25,99.00%,WRITE-IN,&nbsp,6,AD 68,2024-11-07_14:07:14.930842
+ED   26,99.00%,Adriano Espaillat,(Democratic),302,AD 68,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Republican),62,AD 68,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Conservative),14,AD 68,2024-11-07_14:07:14.930842
+ED   26,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   27,99.00%,Adriano Espaillat,(Democratic),287,AD 68,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Republican),58,AD 68,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Conservative),14,AD 68,2024-11-07_14:07:14.930842
+ED   27,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   28,99.00%,Adriano Espaillat,(Democratic),551,AD 68,2024-11-07_14:07:14.930842
+ED   28,99.00%,Ruben D. Vargas,(Republican),79,AD 68,2024-11-07_14:07:14.930842
+ED   28,99.00%,Ruben D. Vargas,(Conservative),17,AD 68,2024-11-07_14:07:14.930842
+ED   28,99.00%,WRITE-IN,&nbsp,5,AD 68,2024-11-07_14:07:14.930842
+ED   29,99.00%,Adriano Espaillat,(Democratic),532,AD 68,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Republican),99,AD 68,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Conservative),8,AD 68,2024-11-07_14:07:14.930842
+ED   29,99.00%,WRITE-IN,&nbsp,5,AD 68,2024-11-07_14:07:14.930842
+ED   30,99.00%,Adriano Espaillat,(Democratic),269,AD 68,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Republican),54,AD 68,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Conservative),16,AD 68,2024-11-07_14:07:14.930842
+ED   30,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   31,99.00%,Adriano Espaillat,(Democratic),386,AD 68,2024-11-07_14:07:14.930842
+ED   31,99.00%,Ruben D. Vargas,(Republican),72,AD 68,2024-11-07_14:07:14.930842
+ED   31,99.00%,Ruben D. Vargas,(Conservative),11,AD 68,2024-11-07_14:07:14.930842
+ED   31,99.00%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   32,99.00%,Adriano Espaillat,(Democratic),583,AD 68,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Republican),82,AD 68,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Conservative),14,AD 68,2024-11-07_14:07:14.930842
+ED   32,99.00%,WRITE-IN,&nbsp,3,AD 68,2024-11-07_14:07:14.930842
+ED   33,99.00%,Adriano Espaillat,(Democratic),666,AD 68,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Republican),117,AD 68,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Conservative),18,AD 68,2024-11-07_14:07:14.930842
+ED   33,99.00%,WRITE-IN,&nbsp,6,AD 68,2024-11-07_14:07:14.930842
+ED   34,99.00%,Adriano Espaillat,(Democratic),391,AD 68,2024-11-07_14:07:14.930842
+ED   34,99.00%,Ruben D. Vargas,(Republican),86,AD 68,2024-11-07_14:07:14.930842
+ED   34,99.00%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED   34,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   35,60.00%,Adriano Espaillat,(Democratic),429,AD 68,2024-11-07_14:07:14.930842
+ED   35,60.00%,Ruben D. Vargas,(Republican),75,AD 68,2024-11-07_14:07:14.930842
+ED   35,60.00%,Ruben D. Vargas,(Conservative),10,AD 68,2024-11-07_14:07:14.930842
+ED   35,60.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   36,99.00%,Adriano Espaillat,(Democratic),316,AD 68,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Republican),55,AD 68,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Conservative),6,AD 68,2024-11-07_14:07:14.930842
+ED   36,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   37,60.00%,Adriano Espaillat,(Democratic),460,AD 68,2024-11-07_14:07:14.930842
+ED   37,60.00%,Ruben D. Vargas,(Republican),124,AD 68,2024-11-07_14:07:14.930842
+ED   37,60.00%,Ruben D. Vargas,(Conservative),13,AD 68,2024-11-07_14:07:14.930842
+ED   37,60.00%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   38,60.00%,Adriano Espaillat,(Democratic),361,AD 68,2024-11-07_14:07:14.930842
+ED   38,60.00%,Ruben D. Vargas,(Republican),66,AD 68,2024-11-07_14:07:14.930842
+ED   38,60.00%,Ruben D. Vargas,(Conservative),15,AD 68,2024-11-07_14:07:14.930842
+ED   38,60.00%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   39,71.43%,Adriano Espaillat,(Democratic),232,AD 68,2024-11-07_14:07:14.930842
+ED   39,71.43%,Ruben D. Vargas,(Republican),42,AD 68,2024-11-07_14:07:14.930842
+ED   39,71.43%,Ruben D. Vargas,(Conservative),5,AD 68,2024-11-07_14:07:14.930842
+ED   39,71.43%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   40,71.43%,Adriano Espaillat,(Democratic),233,AD 68,2024-11-07_14:07:14.930842
+ED   40,71.43%,Ruben D. Vargas,(Republican),43,AD 68,2024-11-07_14:07:14.930842
+ED   40,71.43%,Ruben D. Vargas,(Conservative),5,AD 68,2024-11-07_14:07:14.930842
+ED   40,71.43%,WRITE-IN,&nbsp,3,AD 68,2024-11-07_14:07:14.930842
+ED   41,71.43%,Adriano Espaillat,(Democratic),332,AD 68,2024-11-07_14:07:14.930842
+ED   41,71.43%,Ruben D. Vargas,(Republican),72,AD 68,2024-11-07_14:07:14.930842
+ED   41,71.43%,Ruben D. Vargas,(Conservative),7,AD 68,2024-11-07_14:07:14.930842
+ED   41,71.43%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   42,71.43%,Adriano Espaillat,(Democratic),266,AD 68,2024-11-07_14:07:14.930842
+ED   42,71.43%,Ruben D. Vargas,(Republican),37,AD 68,2024-11-07_14:07:14.930842
+ED   42,71.43%,Ruben D. Vargas,(Conservative),6,AD 68,2024-11-07_14:07:14.930842
+ED   42,71.43%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   43,71.43%,Adriano Espaillat,(Democratic),397,AD 68,2024-11-07_14:07:14.930842
+ED   43,71.43%,Ruben D. Vargas,(Republican),77,AD 68,2024-11-07_14:07:14.930842
+ED   43,71.43%,Ruben D. Vargas,(Conservative),8,AD 68,2024-11-07_14:07:14.930842
+ED   43,71.43%,WRITE-IN,&nbsp,6,AD 68,2024-11-07_14:07:14.930842
+ED   44,71.43%,Adriano Espaillat,(Democratic),453,AD 68,2024-11-07_14:07:14.930842
+ED   44,71.43%,Ruben D. Vargas,(Republican),105,AD 68,2024-11-07_14:07:14.930842
+ED   44,71.43%,Ruben D. Vargas,(Conservative),13,AD 68,2024-11-07_14:07:14.930842
+ED   44,71.43%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   45,71.43%,Adriano Espaillat,(Democratic),366,AD 68,2024-11-07_14:07:14.930842
+ED   45,71.43%,Ruben D. Vargas,(Republican),88,AD 68,2024-11-07_14:07:14.930842
+ED   45,71.43%,Ruben D. Vargas,(Conservative),12,AD 68,2024-11-07_14:07:14.930842
+ED   45,71.43%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   46,71.43%,Adriano Espaillat,(Democratic),375,AD 68,2024-11-07_14:07:14.930842
+ED   46,71.43%,Ruben D. Vargas,(Republican),77,AD 68,2024-11-07_14:07:14.930842
+ED   46,71.43%,Ruben D. Vargas,(Conservative),16,AD 68,2024-11-07_14:07:14.930842
+ED   46,71.43%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   47,71.43%,Adriano Espaillat,(Democratic),492,AD 68,2024-11-07_14:07:14.930842
+ED   47,71.43%,Ruben D. Vargas,(Republican),90,AD 68,2024-11-07_14:07:14.930842
+ED   47,71.43%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED   47,71.43%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   48,60.00%,Adriano Espaillat,(Democratic),476,AD 68,2024-11-07_14:07:14.930842
+ED   48,60.00%,Ruben D. Vargas,(Republican),77,AD 68,2024-11-07_14:07:14.930842
+ED   48,60.00%,Ruben D. Vargas,(Conservative),10,AD 68,2024-11-07_14:07:14.930842
+ED   48,60.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   49,60.00%,Adriano Espaillat,(Democratic),233,AD 68,2024-11-07_14:07:14.930842
+ED   49,60.00%,Ruben D. Vargas,(Republican),33,AD 68,2024-11-07_14:07:14.930842
+ED   49,60.00%,Ruben D. Vargas,(Conservative),11,AD 68,2024-11-07_14:07:14.930842
+ED   49,60.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   50,60.00%,Adriano Espaillat,(Democratic),206,AD 68,2024-11-07_14:07:14.930842
+ED   50,60.00%,Ruben D. Vargas,(Republican),58,AD 68,2024-11-07_14:07:14.930842
+ED   50,60.00%,Ruben D. Vargas,(Conservative),5,AD 68,2024-11-07_14:07:14.930842
+ED   50,60.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   51,60.00%,Adriano Espaillat,(Democratic),420,AD 68,2024-11-07_14:07:14.930842
+ED   51,60.00%,Ruben D. Vargas,(Republican),90,AD 68,2024-11-07_14:07:14.930842
+ED   51,60.00%,Ruben D. Vargas,(Conservative),12,AD 68,2024-11-07_14:07:14.930842
+ED   51,60.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   56,66.67%,Adriano Espaillat,(Democratic),247,AD 68,2024-11-07_14:07:14.930842
+ED   56,66.67%,Ruben D. Vargas,(Republican),42,AD 68,2024-11-07_14:07:14.930842
+ED   56,66.67%,Ruben D. Vargas,(Conservative),6,AD 68,2024-11-07_14:07:14.930842
+ED   56,66.67%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   57,66.67%,Adriano Espaillat,(Democratic),319,AD 68,2024-11-07_14:07:14.930842
+ED   57,66.67%,Ruben D. Vargas,(Republican),48,AD 68,2024-11-07_14:07:14.930842
+ED   57,66.67%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED   57,66.67%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   58,66.67%,Adriano Espaillat,(Democratic),340,AD 68,2024-11-07_14:07:14.930842
+ED   58,66.67%,Ruben D. Vargas,(Republican),71,AD 68,2024-11-07_14:07:14.930842
+ED   58,66.67%,Ruben D. Vargas,(Conservative),10,AD 68,2024-11-07_14:07:14.930842
+ED   58,66.67%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   59,66.67%,Adriano Espaillat,(Democratic),256,AD 68,2024-11-07_14:07:14.930842
+ED   59,66.67%,Ruben D. Vargas,(Republican),41,AD 68,2024-11-07_14:07:14.930842
+ED   59,66.67%,Ruben D. Vargas,(Conservative),9,AD 68,2024-11-07_14:07:14.930842
+ED   59,66.67%,WRITE-IN,&nbsp,4,AD 68,2024-11-07_14:07:14.930842
+ED   60,71.43%,Adriano Espaillat,(Democratic),308,AD 68,2024-11-07_14:07:14.930842
+ED   60,71.43%,Ruben D. Vargas,(Republican),42,AD 68,2024-11-07_14:07:14.930842
+ED   60,71.43%,Ruben D. Vargas,(Conservative),7,AD 68,2024-11-07_14:07:14.930842
+ED   60,71.43%,WRITE-IN,&nbsp,3,AD 68,2024-11-07_14:07:14.930842
+ED   61,60.00%,Adriano Espaillat,(Democratic),185,AD 68,2024-11-07_14:07:14.930842
+ED   61,60.00%,Ruben D. Vargas,(Republican),45,AD 68,2024-11-07_14:07:14.930842
+ED   61,60.00%,Ruben D. Vargas,(Conservative),4,AD 68,2024-11-07_14:07:14.930842
+ED   61,60.00%,WRITE-IN,&nbsp,2,AD 68,2024-11-07_14:07:14.930842
+ED   72,99.00%,Adriano Espaillat,(Democratic),111,AD 68,2024-11-07_14:07:14.930842
+ED   72,99.00%,Ruben D. Vargas,(Republican),18,AD 68,2024-11-07_14:07:14.930842
+ED   72,99.00%,Ruben D. Vargas,(Conservative),1,AD 68,2024-11-07_14:07:14.930842
+ED   72,99.00%,WRITE-IN,&nbsp,1,AD 68,2024-11-07_14:07:14.930842
+ED   73,99.00%,Adriano Espaillat,(Democratic),161,AD 68,2024-11-07_14:07:14.930842
+ED   73,99.00%,Ruben D. Vargas,(Republican),20,AD 68,2024-11-07_14:07:14.930842
+ED   73,99.00%,Ruben D. Vargas,(Conservative),6,AD 68,2024-11-07_14:07:14.930842
+ED   73,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   77,99.00%,Adriano Espaillat,(Democratic),0,AD 68,2024-11-07_14:07:14.930842
+ED   77,99.00%,Ruben D. Vargas,(Republican),0,AD 68,2024-11-07_14:07:14.930842
+ED   77,99.00%,Ruben D. Vargas,(Conservative),0,AD 68,2024-11-07_14:07:14.930842
+ED   77,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   78,99.00%,Adriano Espaillat,(Democratic),0,AD 68,2024-11-07_14:07:14.930842
+ED   78,99.00%,Ruben D. Vargas,(Republican),0,AD 68,2024-11-07_14:07:14.930842
+ED   78,99.00%,Ruben D. Vargas,(Conservative),0,AD 68,2024-11-07_14:07:14.930842
+ED   78,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   80,99.00%,Adriano Espaillat,(Democratic),0,AD 68,2024-11-07_14:07:14.930842
+ED   80,99.00%,Ruben D. Vargas,(Republican),0,AD 68,2024-11-07_14:07:14.930842
+ED   80,99.00%,Ruben D. Vargas,(Conservative),0,AD 68,2024-11-07_14:07:14.930842
+ED   80,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+ED   81,99.00%,Adriano Espaillat,(Democratic),0,AD 68,2024-11-07_14:07:14.930842
+ED   81,99.00%,Ruben D. Vargas,(Republican),0,AD 68,2024-11-07_14:07:14.930842
+ED   81,99.00%,Ruben D. Vargas,(Conservative),0,AD 68,2024-11-07_14:07:14.930842
+ED   81,99.00%,WRITE-IN,&nbsp,0,AD 68,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),21372,AD 68,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),3474,AD 68,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),527,AD 68,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,109,AD 68,2024-11-07_14:07:14.930842
+ED    1,99.00%,Adriano Espaillat,(Democratic),270,AD 69,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Republican),47,AD 69,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Conservative),6,AD 69,2024-11-07_14:07:14.930842
+ED    1,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:07:14.930842
+ED    2,99.00%,Adriano Espaillat,(Democratic),540,AD 69,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Republican),57,AD 69,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Conservative),7,AD 69,2024-11-07_14:07:14.930842
+ED    2,99.00%,WRITE-IN,&nbsp,5,AD 69,2024-11-07_14:07:14.930842
+ED    3,99.00%,Adriano Espaillat,(Democratic),377,AD 69,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Republican),54,AD 69,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Conservative),10,AD 69,2024-11-07_14:07:14.930842
+ED    3,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:07:14.930842
+ED    4,60.00%,Adriano Espaillat,(Democratic),50,AD 69,2024-11-07_14:07:14.930842
+ED    4,60.00%,Ruben D. Vargas,(Republican),8,AD 69,2024-11-07_14:07:14.930842
+ED    4,60.00%,Ruben D. Vargas,(Conservative),2,AD 69,2024-11-07_14:07:14.930842
+ED    4,60.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:07:14.930842
+ED    5,99.00%,Adriano Espaillat,(Democratic),533,AD 69,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Republican),55,AD 69,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Conservative),6,AD 69,2024-11-07_14:07:14.930842
+ED    5,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:07:14.930842
+ED    6,99.00%,Adriano Espaillat,(Democratic),923,AD 69,2024-11-07_14:07:14.930842
+ED    6,99.00%,Ruben D. Vargas,(Republican),68,AD 69,2024-11-07_14:07:14.930842
+ED    6,99.00%,Ruben D. Vargas,(Conservative),8,AD 69,2024-11-07_14:07:14.930842
+ED    6,99.00%,WRITE-IN,&nbsp,8,AD 69,2024-11-07_14:07:14.930842
+ED    7,99.00%,Adriano Espaillat,(Democratic),590,AD 69,2024-11-07_14:07:14.930842
+ED    7,99.00%,Ruben D. Vargas,(Republican),47,AD 69,2024-11-07_14:07:14.930842
+ED    7,99.00%,Ruben D. Vargas,(Conservative),8,AD 69,2024-11-07_14:07:14.930842
+ED    7,99.00%,WRITE-IN,&nbsp,8,AD 69,2024-11-07_14:07:14.930842
+ED    8,99.00%,Adriano Espaillat,(Democratic),516,AD 69,2024-11-07_14:07:14.930842
+ED    8,99.00%,Ruben D. Vargas,(Republican),27,AD 69,2024-11-07_14:07:14.930842
+ED    8,99.00%,Ruben D. Vargas,(Conservative),7,AD 69,2024-11-07_14:07:14.930842
+ED    8,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:07:14.930842
+ED    9,99.00%,Adriano Espaillat,(Democratic),501,AD 69,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Republican),45,AD 69,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Conservative),5,AD 69,2024-11-07_14:07:14.930842
+ED    9,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:07:14.930842
+ED   10,99.00%,Adriano Espaillat,(Democratic),264,AD 69,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Republican),23,AD 69,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Conservative),2,AD 69,2024-11-07_14:07:14.930842
+ED   10,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:07:14.930842
+ED   11,99.00%,Adriano Espaillat,(Democratic),759,AD 69,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Republican),52,AD 69,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Conservative),5,AD 69,2024-11-07_14:07:14.930842
+ED   11,99.00%,WRITE-IN,&nbsp,11,AD 69,2024-11-07_14:07:14.930842
+ED   13,99.00%,Adriano Espaillat,(Democratic),576,AD 69,2024-11-07_14:07:14.930842
+ED   13,99.00%,Ruben D. Vargas,(Republican),52,AD 69,2024-11-07_14:07:14.930842
+ED   13,99.00%,Ruben D. Vargas,(Conservative),6,AD 69,2024-11-07_14:07:14.930842
+ED   13,99.00%,WRITE-IN,&nbsp,2,AD 69,2024-11-07_14:07:14.930842
+ED   14,99.00%,Adriano Espaillat,(Democratic),698,AD 69,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Republican),60,AD 69,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Conservative),12,AD 69,2024-11-07_14:07:14.930842
+ED   14,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:07:14.930842
+ED   15,99.00%,Adriano Espaillat,(Democratic),660,AD 69,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Republican),105,AD 69,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Conservative),16,AD 69,2024-11-07_14:07:14.930842
+ED   15,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:07:14.930842
+ED   17,99.00%,Adriano Espaillat,(Democratic),390,AD 69,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Republican),45,AD 69,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Conservative),6,AD 69,2024-11-07_14:07:14.930842
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:07:14.930842
+ED   18,99.00%,Adriano Espaillat,(Democratic),749,AD 69,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Republican),115,AD 69,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Conservative),15,AD 69,2024-11-07_14:07:14.930842
+ED   18,99.00%,WRITE-IN,&nbsp,4,AD 69,2024-11-07_14:07:14.930842
+ED   19,99.00%,Adriano Espaillat,(Democratic),377,AD 69,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Republican),53,AD 69,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Conservative),7,AD 69,2024-11-07_14:07:14.930842
+ED   19,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:07:14.930842
+ED   20,99.00%,Adriano Espaillat,(Democratic),595,AD 69,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Republican),64,AD 69,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Conservative),6,AD 69,2024-11-07_14:07:14.930842
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:07:14.930842
+ED   21,99.00%,Adriano Espaillat,(Democratic),417,AD 69,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Republican),46,AD 69,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Conservative),4,AD 69,2024-11-07_14:07:14.930842
+ED   21,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:07:14.930842
+ED   22,99.00%,Adriano Espaillat,(Democratic),744,AD 69,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Republican),71,AD 69,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Conservative),10,AD 69,2024-11-07_14:07:14.930842
+ED   22,99.00%,WRITE-IN,&nbsp,3,AD 69,2024-11-07_14:07:14.930842
+ED   23,99.00%,Adriano Espaillat,(Democratic),699,AD 69,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Republican),86,AD 69,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Conservative),11,AD 69,2024-11-07_14:07:14.930842
+ED   23,99.00%,WRITE-IN,&nbsp,7,AD 69,2024-11-07_14:07:14.930842
+ED   24,99.00%,Adriano Espaillat,(Democratic),446,AD 69,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Republican),64,AD 69,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Conservative),11,AD 69,2024-11-07_14:07:14.930842
+ED   24,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:07:14.930842
+ED   25,99.00%,Adriano Espaillat,(Democratic),544,AD 69,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Republican),80,AD 69,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Conservative),10,AD 69,2024-11-07_14:07:14.930842
+ED   25,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:07:14.930842
+ED   26,99.00%,Adriano Espaillat,(Democratic),271,AD 69,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Republican),55,AD 69,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Conservative),7,AD 69,2024-11-07_14:07:14.930842
+ED   26,99.00%,WRITE-IN,&nbsp,0,AD 69,2024-11-07_14:07:14.930842
+ED   27,99.00%,Adriano Espaillat,(Democratic),508,AD 69,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Republican),86,AD 69,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Conservative),12,AD 69,2024-11-07_14:07:14.930842
+ED   27,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:07:14.930842
+ED   29,99.00%,Adriano Espaillat,(Democratic),834,AD 69,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Republican),91,AD 69,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Conservative),6,AD 69,2024-11-07_14:07:14.930842
+ED   29,99.00%,WRITE-IN,&nbsp,4,AD 69,2024-11-07_14:07:14.930842
+ED   30,99.00%,Adriano Espaillat,(Democratic),828,AD 69,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Republican),101,AD 69,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Conservative),9,AD 69,2024-11-07_14:07:14.930842
+ED   30,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:07:14.930842
+ED   40,99.00%,Adriano Espaillat,(Democratic),507,AD 69,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Republican),49,AD 69,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Conservative),5,AD 69,2024-11-07_14:07:14.930842
+ED   40,99.00%,WRITE-IN,&nbsp,1,AD 69,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),15166,AD 69,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),1706,AD 69,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),219,AD 69,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,76,AD 69,2024-11-07_14:07:14.930842
+ED    1,99.00%,Adriano Espaillat,(Democratic),560,AD 70,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Republican),99,AD 70,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Conservative),12,AD 70,2024-11-07_14:07:14.930842
+ED    1,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED    2,99.00%,Adriano Espaillat,(Democratic),354,AD 70,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Republican),66,AD 70,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED    2,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED    3,99.00%,Adriano Espaillat,(Democratic),492,AD 70,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Republican),71,AD 70,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Conservative),8,AD 70,2024-11-07_14:07:14.930842
+ED    3,99.00%,WRITE-IN,&nbsp,5,AD 70,2024-11-07_14:07:14.930842
+ED    4,99.00%,Adriano Espaillat,(Democratic),600,AD 70,2024-11-07_14:07:14.930842
+ED    4,99.00%,Ruben D. Vargas,(Republican),89,AD 70,2024-11-07_14:07:14.930842
+ED    4,99.00%,Ruben D. Vargas,(Conservative),7,AD 70,2024-11-07_14:07:14.930842
+ED    4,99.00%,WRITE-IN,&nbsp,6,AD 70,2024-11-07_14:07:14.930842
+ED    5,99.00%,Adriano Espaillat,(Democratic),399,AD 70,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Republican),81,AD 70,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Conservative),7,AD 70,2024-11-07_14:07:14.930842
+ED    5,99.00%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+ED    6,99.00%,Adriano Espaillat,(Democratic),406,AD 70,2024-11-07_14:07:14.930842
+ED    6,99.00%,Ruben D. Vargas,(Republican),88,AD 70,2024-11-07_14:07:14.930842
+ED    6,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED    6,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED    7,99.00%,Adriano Espaillat,(Democratic),346,AD 70,2024-11-07_14:07:14.930842
+ED    7,99.00%,Ruben D. Vargas,(Republican),51,AD 70,2024-11-07_14:07:14.930842
+ED    7,99.00%,Ruben D. Vargas,(Conservative),3,AD 70,2024-11-07_14:07:14.930842
+ED    7,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED    8,99.00%,Adriano Espaillat,(Democratic),296,AD 70,2024-11-07_14:07:14.930842
+ED    8,99.00%,Ruben D. Vargas,(Republican),42,AD 70,2024-11-07_14:07:14.930842
+ED    8,99.00%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED    8,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED    9,99.00%,Adriano Espaillat,(Democratic),370,AD 70,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Republican),72,AD 70,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Conservative),9,AD 70,2024-11-07_14:07:14.930842
+ED    9,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   10,99.00%,Adriano Espaillat,(Democratic),423,AD 70,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Republican),88,AD 70,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   10,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED   11,99.00%,Adriano Espaillat,(Democratic),451,AD 70,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Republican),74,AD 70,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Conservative),14,AD 70,2024-11-07_14:07:14.930842
+ED   11,99.00%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+ED   12,99.00%,Adriano Espaillat,(Democratic),363,AD 70,2024-11-07_14:07:14.930842
+ED   12,99.00%,Ruben D. Vargas,(Republican),71,AD 70,2024-11-07_14:07:14.930842
+ED   12,99.00%,Ruben D. Vargas,(Conservative),4,AD 70,2024-11-07_14:07:14.930842
+ED   12,99.00%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+ED   13,99.00%,Adriano Espaillat,(Democratic),712,AD 70,2024-11-07_14:07:14.930842
+ED   13,99.00%,Ruben D. Vargas,(Republican),56,AD 70,2024-11-07_14:07:14.930842
+ED   13,99.00%,Ruben D. Vargas,(Conservative),7,AD 70,2024-11-07_14:07:14.930842
+ED   13,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   14,99.00%,Adriano Espaillat,(Democratic),484,AD 70,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Republican),26,AD 70,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED   14,99.00%,WRITE-IN,&nbsp,2,AD 70,2024-11-07_14:07:14.930842
+ED   15,99.00%,Adriano Espaillat,(Democratic),429,AD 70,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Republican),54,AD 70,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Conservative),8,AD 70,2024-11-07_14:07:14.930842
+ED   15,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   16,88.89%,Adriano Espaillat,(Democratic),785,AD 70,2024-11-07_14:07:14.930842
+ED   16,88.89%,Ruben D. Vargas,(Republican),42,AD 70,2024-11-07_14:07:14.930842
+ED   16,88.89%,Ruben D. Vargas,(Conservative),16,AD 70,2024-11-07_14:07:14.930842
+ED   16,88.89%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   17,99.00%,Adriano Espaillat,(Democratic),274,AD 70,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Republican),44,AD 70,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Conservative),4,AD 70,2024-11-07_14:07:14.930842
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+ED   18,99.00%,Adriano Espaillat,(Democratic),562,AD 70,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Republican),45,AD 70,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   18,99.00%,WRITE-IN,&nbsp,8,AD 70,2024-11-07_14:07:14.930842
+ED   19,99.00%,Adriano Espaillat,(Democratic),527,AD 70,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Republican),47,AD 70,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   19,99.00%,WRITE-IN,&nbsp,5,AD 70,2024-11-07_14:07:14.930842
+ED   20,99.00%,Adriano Espaillat,(Democratic),800,AD 70,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Republican),33,AD 70,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Conservative),4,AD 70,2024-11-07_14:07:14.930842
+ED   20,99.00%,WRITE-IN,&nbsp,7,AD 70,2024-11-07_14:07:14.930842
+ED   21,99.00%,Adriano Espaillat,(Democratic),632,AD 70,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Republican),64,AD 70,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Conservative),4,AD 70,2024-11-07_14:07:14.930842
+ED   21,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED   22,99.00%,Adriano Espaillat,(Democratic),713,AD 70,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Republican),64,AD 70,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Conservative),8,AD 70,2024-11-07_14:07:14.930842
+ED   22,99.00%,WRITE-IN,&nbsp,8,AD 70,2024-11-07_14:07:14.930842
+ED   23,99.00%,Adriano Espaillat,(Democratic),493,AD 70,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Republican),52,AD 70,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Conservative),4,AD 70,2024-11-07_14:07:14.930842
+ED   23,99.00%,WRITE-IN,&nbsp,2,AD 70,2024-11-07_14:07:14.930842
+ED   24,99.00%,Adriano Espaillat,(Democratic),509,AD 70,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Republican),58,AD 70,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Conservative),13,AD 70,2024-11-07_14:07:14.930842
+ED   24,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   25,99.00%,Adriano Espaillat,(Democratic),433,AD 70,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Republican),35,AD 70,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED   25,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   26,99.00%,Adriano Espaillat,(Democratic),687,AD 70,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Republican),18,AD 70,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Conservative),3,AD 70,2024-11-07_14:07:14.930842
+ED   26,99.00%,WRITE-IN,&nbsp,7,AD 70,2024-11-07_14:07:14.930842
+ED   27,99.00%,Adriano Espaillat,(Democratic),631,AD 70,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Republican),33,AD 70,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Conservative),8,AD 70,2024-11-07_14:07:14.930842
+ED   27,99.00%,WRITE-IN,&nbsp,5,AD 70,2024-11-07_14:07:14.930842
+ED   28,99.00%,Adriano Espaillat,(Democratic),648,AD 70,2024-11-07_14:07:14.930842
+ED   28,99.00%,Ruben D. Vargas,(Republican),33,AD 70,2024-11-07_14:07:14.930842
+ED   28,99.00%,Ruben D. Vargas,(Conservative),3,AD 70,2024-11-07_14:07:14.930842
+ED   28,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED   29,99.00%,Adriano Espaillat,(Democratic),963,AD 70,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Republican),56,AD 70,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   29,99.00%,WRITE-IN,&nbsp,9,AD 70,2024-11-07_14:07:14.930842
+ED   30,99.00%,Adriano Espaillat,(Democratic),835,AD 70,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Republican),79,AD 70,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Conservative),12,AD 70,2024-11-07_14:07:14.930842
+ED   30,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   31,99.00%,Adriano Espaillat,(Democratic),693,AD 70,2024-11-07_14:07:14.930842
+ED   31,99.00%,Ruben D. Vargas,(Republican),56,AD 70,2024-11-07_14:07:14.930842
+ED   31,99.00%,Ruben D. Vargas,(Conservative),11,AD 70,2024-11-07_14:07:14.930842
+ED   31,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED   32,99.00%,Adriano Espaillat,(Democratic),504,AD 70,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Republican),36,AD 70,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Conservative),4,AD 70,2024-11-07_14:07:14.930842
+ED   32,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   33,99.00%,Adriano Espaillat,(Democratic),570,AD 70,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Republican),43,AD 70,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Conservative),7,AD 70,2024-11-07_14:07:14.930842
+ED   33,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   34,99.00%,Adriano Espaillat,(Democratic),614,AD 70,2024-11-07_14:07:14.930842
+ED   34,99.00%,Ruben D. Vargas,(Republican),57,AD 70,2024-11-07_14:07:14.930842
+ED   34,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   34,99.00%,WRITE-IN,&nbsp,6,AD 70,2024-11-07_14:07:14.930842
+ED   35,99.00%,Adriano Espaillat,(Democratic),1014,AD 70,2024-11-07_14:07:14.930842
+ED   35,99.00%,Ruben D. Vargas,(Republican),89,AD 70,2024-11-07_14:07:14.930842
+ED   35,99.00%,Ruben D. Vargas,(Conservative),14,AD 70,2024-11-07_14:07:14.930842
+ED   35,99.00%,WRITE-IN,&nbsp,6,AD 70,2024-11-07_14:07:14.930842
+ED   36,99.00%,Adriano Espaillat,(Democratic),612,AD 70,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Republican),34,AD 70,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   36,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   37,99.00%,Adriano Espaillat,(Democratic),305,AD 70,2024-11-07_14:07:14.930842
+ED   37,99.00%,Ruben D. Vargas,(Republican),32,AD 70,2024-11-07_14:07:14.930842
+ED   37,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   37,99.00%,WRITE-IN,&nbsp,2,AD 70,2024-11-07_14:07:14.930842
+ED   38,99.00%,Adriano Espaillat,(Democratic),479,AD 70,2024-11-07_14:07:14.930842
+ED   38,99.00%,Ruben D. Vargas,(Republican),37,AD 70,2024-11-07_14:07:14.930842
+ED   38,99.00%,Ruben D. Vargas,(Conservative),3,AD 70,2024-11-07_14:07:14.930842
+ED   38,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED   39,99.00%,Adriano Espaillat,(Democratic),594,AD 70,2024-11-07_14:07:14.930842
+ED   39,99.00%,Ruben D. Vargas,(Republican),38,AD 70,2024-11-07_14:07:14.930842
+ED   39,99.00%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED   39,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   40,99.00%,Adriano Espaillat,(Democratic),593,AD 70,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Republican),42,AD 70,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Conservative),12,AD 70,2024-11-07_14:07:14.930842
+ED   40,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   41,99.00%,Adriano Espaillat,(Democratic),790,AD 70,2024-11-07_14:07:14.930842
+ED   41,99.00%,Ruben D. Vargas,(Republican),52,AD 70,2024-11-07_14:07:14.930842
+ED   41,99.00%,Ruben D. Vargas,(Conservative),12,AD 70,2024-11-07_14:07:14.930842
+ED   41,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   42,99.00%,Adriano Espaillat,(Democratic),262,AD 70,2024-11-07_14:07:14.930842
+ED   42,99.00%,Ruben D. Vargas,(Republican),24,AD 70,2024-11-07_14:07:14.930842
+ED   42,99.00%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED   42,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   43,99.00%,Adriano Espaillat,(Democratic),486,AD 70,2024-11-07_14:07:14.930842
+ED   43,99.00%,Ruben D. Vargas,(Republican),21,AD 70,2024-11-07_14:07:14.930842
+ED   43,99.00%,Ruben D. Vargas,(Conservative),4,AD 70,2024-11-07_14:07:14.930842
+ED   43,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   44,99.00%,Adriano Espaillat,(Democratic),840,AD 70,2024-11-07_14:07:14.930842
+ED   44,99.00%,Ruben D. Vargas,(Republican),41,AD 70,2024-11-07_14:07:14.930842
+ED   44,99.00%,Ruben D. Vargas,(Conservative),11,AD 70,2024-11-07_14:07:14.930842
+ED   44,99.00%,WRITE-IN,&nbsp,7,AD 70,2024-11-07_14:07:14.930842
+ED   45,99.00%,Adriano Espaillat,(Democratic),303,AD 70,2024-11-07_14:07:14.930842
+ED   45,99.00%,Ruben D. Vargas,(Republican),53,AD 70,2024-11-07_14:07:14.930842
+ED   45,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   45,99.00%,WRITE-IN,&nbsp,5,AD 70,2024-11-07_14:07:14.930842
+ED   46,99.00%,Adriano Espaillat,(Democratic),379,AD 70,2024-11-07_14:07:14.930842
+ED   46,99.00%,Ruben D. Vargas,(Republican),47,AD 70,2024-11-07_14:07:14.930842
+ED   46,99.00%,Ruben D. Vargas,(Conservative),10,AD 70,2024-11-07_14:07:14.930842
+ED   46,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   47,99.00%,Adriano Espaillat,(Democratic),497,AD 70,2024-11-07_14:07:14.930842
+ED   47,99.00%,Ruben D. Vargas,(Republican),36,AD 70,2024-11-07_14:07:14.930842
+ED   47,99.00%,Ruben D. Vargas,(Conservative),7,AD 70,2024-11-07_14:07:14.930842
+ED   47,99.00%,WRITE-IN,&nbsp,5,AD 70,2024-11-07_14:07:14.930842
+ED   48,99.00%,Adriano Espaillat,(Democratic),442,AD 70,2024-11-07_14:07:14.930842
+ED   48,99.00%,Ruben D. Vargas,(Republican),27,AD 70,2024-11-07_14:07:14.930842
+ED   48,99.00%,Ruben D. Vargas,(Conservative),7,AD 70,2024-11-07_14:07:14.930842
+ED   48,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   49,88.89%,Adriano Espaillat,(Democratic),422,AD 70,2024-11-07_14:07:14.930842
+ED   49,88.89%,Ruben D. Vargas,(Republican),45,AD 70,2024-11-07_14:07:14.930842
+ED   49,88.89%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED   49,88.89%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   50,99.00%,Adriano Espaillat,(Democratic),410,AD 70,2024-11-07_14:07:14.930842
+ED   50,99.00%,Ruben D. Vargas,(Republican),39,AD 70,2024-11-07_14:07:14.930842
+ED   50,99.00%,Ruben D. Vargas,(Conservative),10,AD 70,2024-11-07_14:07:14.930842
+ED   50,99.00%,WRITE-IN,&nbsp,6,AD 70,2024-11-07_14:07:14.930842
+ED   51,99.00%,Adriano Espaillat,(Democratic),366,AD 70,2024-11-07_14:07:14.930842
+ED   51,99.00%,Ruben D. Vargas,(Republican),55,AD 70,2024-11-07_14:07:14.930842
+ED   51,99.00%,Ruben D. Vargas,(Conservative),10,AD 70,2024-11-07_14:07:14.930842
+ED   51,99.00%,WRITE-IN,&nbsp,1,AD 70,2024-11-07_14:07:14.930842
+ED   52,88.89%,Adriano Espaillat,(Democratic),293,AD 70,2024-11-07_14:07:14.930842
+ED   52,88.89%,Ruben D. Vargas,(Republican),33,AD 70,2024-11-07_14:07:14.930842
+ED   52,88.89%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED   52,88.89%,WRITE-IN,&nbsp,2,AD 70,2024-11-07_14:07:14.930842
+ED   53,88.89%,Adriano Espaillat,(Democratic),525,AD 70,2024-11-07_14:07:14.930842
+ED   53,88.89%,Ruben D. Vargas,(Republican),43,AD 70,2024-11-07_14:07:14.930842
+ED   53,88.89%,Ruben D. Vargas,(Conservative),8,AD 70,2024-11-07_14:07:14.930842
+ED   53,88.89%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   54,88.89%,Adriano Espaillat,(Democratic),739,AD 70,2024-11-07_14:07:14.930842
+ED   54,88.89%,Ruben D. Vargas,(Republican),49,AD 70,2024-11-07_14:07:14.930842
+ED   54,88.89%,Ruben D. Vargas,(Conservative),11,AD 70,2024-11-07_14:07:14.930842
+ED   54,88.89%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   55,99.00%,Adriano Espaillat,(Democratic),673,AD 70,2024-11-07_14:07:14.930842
+ED   55,99.00%,Ruben D. Vargas,(Republican),45,AD 70,2024-11-07_14:07:14.930842
+ED   55,99.00%,Ruben D. Vargas,(Conservative),11,AD 70,2024-11-07_14:07:14.930842
+ED   55,99.00%,WRITE-IN,&nbsp,5,AD 70,2024-11-07_14:07:14.930842
+ED   56,99.00%,Adriano Espaillat,(Democratic),594,AD 70,2024-11-07_14:07:14.930842
+ED   56,99.00%,Ruben D. Vargas,(Republican),64,AD 70,2024-11-07_14:07:14.930842
+ED   56,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   56,99.00%,WRITE-IN,&nbsp,5,AD 70,2024-11-07_14:07:14.930842
+ED   57,99.00%,Adriano Espaillat,(Democratic),440,AD 70,2024-11-07_14:07:14.930842
+ED   57,99.00%,Ruben D. Vargas,(Republican),37,AD 70,2024-11-07_14:07:14.930842
+ED   57,99.00%,Ruben D. Vargas,(Conservative),6,AD 70,2024-11-07_14:07:14.930842
+ED   57,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED   58,99.00%,Adriano Espaillat,(Democratic),770,AD 70,2024-11-07_14:07:14.930842
+ED   58,99.00%,Ruben D. Vargas,(Republican),45,AD 70,2024-11-07_14:07:14.930842
+ED   58,99.00%,Ruben D. Vargas,(Conservative),10,AD 70,2024-11-07_14:07:14.930842
+ED   58,99.00%,WRITE-IN,&nbsp,9,AD 70,2024-11-07_14:07:14.930842
+ED   59,99.00%,Adriano Espaillat,(Democratic),564,AD 70,2024-11-07_14:07:14.930842
+ED   59,99.00%,Ruben D. Vargas,(Republican),56,AD 70,2024-11-07_14:07:14.930842
+ED   59,99.00%,Ruben D. Vargas,(Conservative),13,AD 70,2024-11-07_14:07:14.930842
+ED   59,99.00%,WRITE-IN,&nbsp,8,AD 70,2024-11-07_14:07:14.930842
+ED   60,88.89%,Adriano Espaillat,(Democratic),784,AD 70,2024-11-07_14:07:14.930842
+ED   60,88.89%,Ruben D. Vargas,(Republican),43,AD 70,2024-11-07_14:07:14.930842
+ED   60,88.89%,Ruben D. Vargas,(Conservative),8,AD 70,2024-11-07_14:07:14.930842
+ED   60,88.89%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+ED   61,83.33%,Adriano Espaillat,(Democratic),603,AD 70,2024-11-07_14:07:14.930842
+ED   61,83.33%,Ruben D. Vargas,(Republican),52,AD 70,2024-11-07_14:07:14.930842
+ED   61,83.33%,Ruben D. Vargas,(Conservative),9,AD 70,2024-11-07_14:07:14.930842
+ED   61,83.33%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   62,83.33%,Adriano Espaillat,(Democratic),766,AD 70,2024-11-07_14:07:14.930842
+ED   62,83.33%,Ruben D. Vargas,(Republican),55,AD 70,2024-11-07_14:07:14.930842
+ED   62,83.33%,Ruben D. Vargas,(Conservative),9,AD 70,2024-11-07_14:07:14.930842
+ED   62,83.33%,WRITE-IN,&nbsp,8,AD 70,2024-11-07_14:07:14.930842
+ED   63,99.00%,Adriano Espaillat,(Democratic),573,AD 70,2024-11-07_14:07:14.930842
+ED   63,99.00%,Ruben D. Vargas,(Republican),50,AD 70,2024-11-07_14:07:14.930842
+ED   63,99.00%,Ruben D. Vargas,(Conservative),7,AD 70,2024-11-07_14:07:14.930842
+ED   63,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   64,99.00%,Adriano Espaillat,(Democratic),764,AD 70,2024-11-07_14:07:14.930842
+ED   64,99.00%,Ruben D. Vargas,(Republican),50,AD 70,2024-11-07_14:07:14.930842
+ED   64,99.00%,Ruben D. Vargas,(Conservative),11,AD 70,2024-11-07_14:07:14.930842
+ED   64,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED   65,99.00%,Adriano Espaillat,(Democratic),663,AD 70,2024-11-07_14:07:14.930842
+ED   65,99.00%,Ruben D. Vargas,(Republican),65,AD 70,2024-11-07_14:07:14.930842
+ED   65,99.00%,Ruben D. Vargas,(Conservative),11,AD 70,2024-11-07_14:07:14.930842
+ED   65,99.00%,WRITE-IN,&nbsp,4,AD 70,2024-11-07_14:07:14.930842
+ED   66,99.00%,Adriano Espaillat,(Democratic),855,AD 70,2024-11-07_14:07:14.930842
+ED   66,99.00%,Ruben D. Vargas,(Republican),83,AD 70,2024-11-07_14:07:14.930842
+ED   66,99.00%,Ruben D. Vargas,(Conservative),11,AD 70,2024-11-07_14:07:14.930842
+ED   66,99.00%,WRITE-IN,&nbsp,9,AD 70,2024-11-07_14:07:14.930842
+ED   67,99.00%,Adriano Espaillat,(Democratic),489,AD 70,2024-11-07_14:07:14.930842
+ED   67,99.00%,Ruben D. Vargas,(Republican),72,AD 70,2024-11-07_14:07:14.930842
+ED   67,99.00%,Ruben D. Vargas,(Conservative),10,AD 70,2024-11-07_14:07:14.930842
+ED   67,99.00%,WRITE-IN,&nbsp,3,AD 70,2024-11-07_14:07:14.930842
+ED   68,99.00%,Adriano Espaillat,(Democratic),414,AD 70,2024-11-07_14:07:14.930842
+ED   68,99.00%,Ruben D. Vargas,(Republican),46,AD 70,2024-11-07_14:07:14.930842
+ED   68,99.00%,Ruben D. Vargas,(Conservative),5,AD 70,2024-11-07_14:07:14.930842
+ED   68,99.00%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+ED   69,99.00%,Adriano Espaillat,(Democratic),1047,AD 70,2024-11-07_14:07:14.930842
+ED   69,99.00%,Ruben D. Vargas,(Republican),50,AD 70,2024-11-07_14:07:14.930842
+ED   69,99.00%,Ruben D. Vargas,(Conservative),8,AD 70,2024-11-07_14:07:14.930842
+ED   69,99.00%,WRITE-IN,&nbsp,9,AD 70,2024-11-07_14:07:14.930842
+ED   70,99.00%,Adriano Espaillat,(Democratic),0,AD 70,2024-11-07_14:07:14.930842
+ED   70,99.00%,Ruben D. Vargas,(Republican),0,AD 70,2024-11-07_14:07:14.930842
+ED   70,99.00%,Ruben D. Vargas,(Conservative),0,AD 70,2024-11-07_14:07:14.930842
+ED   70,99.00%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+ED   71,99.00%,Adriano Espaillat,(Democratic),0,AD 70,2024-11-07_14:07:14.930842
+ED   71,99.00%,Ruben D. Vargas,(Republican),0,AD 70,2024-11-07_14:07:14.930842
+ED   71,99.00%,Ruben D. Vargas,(Conservative),0,AD 70,2024-11-07_14:07:14.930842
+ED   71,99.00%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+ED   72,99.00%,Adriano Espaillat,(Democratic),0,AD 70,2024-11-07_14:07:14.930842
+ED   72,99.00%,Ruben D. Vargas,(Republican),0,AD 70,2024-11-07_14:07:14.930842
+ED   72,99.00%,Ruben D. Vargas,(Conservative),0,AD 70,2024-11-07_14:07:14.930842
+ED   72,99.00%,WRITE-IN,&nbsp,0,AD 70,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),38908,AD 70,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),3573,AD 70,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),528,AD 70,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,263,AD 70,2024-11-07_14:07:14.930842
+ED    1,99.00%,Adriano Espaillat,(Democratic),718,AD 71,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Republican),104,AD 71,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Conservative),15,AD 71,2024-11-07_14:07:14.930842
+ED    1,99.00%,WRITE-IN,&nbsp,35,AD 71,2024-11-07_14:07:14.930842
+ED    2,99.00%,Adriano Espaillat,(Democratic),629,AD 71,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Republican),120,AD 71,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Conservative),13,AD 71,2024-11-07_14:07:14.930842
+ED    2,99.00%,WRITE-IN,&nbsp,20,AD 71,2024-11-07_14:07:14.930842
+ED    3,90.00%,Adriano Espaillat,(Democratic),830,AD 71,2024-11-07_14:07:14.930842
+ED    3,90.00%,Ruben D. Vargas,(Republican),108,AD 71,2024-11-07_14:07:14.930842
+ED    3,90.00%,Ruben D. Vargas,(Conservative),13,AD 71,2024-11-07_14:07:14.930842
+ED    3,90.00%,WRITE-IN,&nbsp,14,AD 71,2024-11-07_14:07:14.930842
+ED    4,90.00%,Adriano Espaillat,(Democratic),942,AD 71,2024-11-07_14:07:14.930842
+ED    4,90.00%,Ruben D. Vargas,(Republican),91,AD 71,2024-11-07_14:07:14.930842
+ED    4,90.00%,Ruben D. Vargas,(Conservative),12,AD 71,2024-11-07_14:07:14.930842
+ED    4,90.00%,WRITE-IN,&nbsp,16,AD 71,2024-11-07_14:07:14.930842
+ED    5,90.00%,Adriano Espaillat,(Democratic),822,AD 71,2024-11-07_14:07:14.930842
+ED    5,90.00%,Ruben D. Vargas,(Republican),67,AD 71,2024-11-07_14:07:14.930842
+ED    5,90.00%,Ruben D. Vargas,(Conservative),11,AD 71,2024-11-07_14:07:14.930842
+ED    5,90.00%,WRITE-IN,&nbsp,6,AD 71,2024-11-07_14:07:14.930842
+ED    6,90.00%,Adriano Espaillat,(Democratic),755,AD 71,2024-11-07_14:07:14.930842
+ED    6,90.00%,Ruben D. Vargas,(Republican),71,AD 71,2024-11-07_14:07:14.930842
+ED    6,90.00%,Ruben D. Vargas,(Conservative),11,AD 71,2024-11-07_14:07:14.930842
+ED    6,90.00%,WRITE-IN,&nbsp,5,AD 71,2024-11-07_14:07:14.930842
+ED    7,90.00%,Adriano Espaillat,(Democratic),687,AD 71,2024-11-07_14:07:14.930842
+ED    7,90.00%,Ruben D. Vargas,(Republican),76,AD 71,2024-11-07_14:07:14.930842
+ED    7,90.00%,Ruben D. Vargas,(Conservative),8,AD 71,2024-11-07_14:07:14.930842
+ED    7,90.00%,WRITE-IN,&nbsp,13,AD 71,2024-11-07_14:07:14.930842
+ED    8,83.33%,Adriano Espaillat,(Democratic),528,AD 71,2024-11-07_14:07:14.930842
+ED    8,83.33%,Ruben D. Vargas,(Republican),100,AD 71,2024-11-07_14:07:14.930842
+ED    8,83.33%,Ruben D. Vargas,(Conservative),4,AD 71,2024-11-07_14:07:14.930842
+ED    8,83.33%,WRITE-IN,&nbsp,13,AD 71,2024-11-07_14:07:14.930842
+ED    9,87.50%,Adriano Espaillat,(Democratic),630,AD 71,2024-11-07_14:07:14.930842
+ED    9,87.50%,Ruben D. Vargas,(Republican),97,AD 71,2024-11-07_14:07:14.930842
+ED    9,87.50%,Ruben D. Vargas,(Conservative),14,AD 71,2024-11-07_14:07:14.930842
+ED    9,87.50%,WRITE-IN,&nbsp,12,AD 71,2024-11-07_14:07:14.930842
+ED   10,87.50%,Adriano Espaillat,(Democratic),493,AD 71,2024-11-07_14:07:14.930842
+ED   10,87.50%,Ruben D. Vargas,(Republican),62,AD 71,2024-11-07_14:07:14.930842
+ED   10,87.50%,Ruben D. Vargas,(Conservative),8,AD 71,2024-11-07_14:07:14.930842
+ED   10,87.50%,WRITE-IN,&nbsp,9,AD 71,2024-11-07_14:07:14.930842
+ED   11,87.50%,Adriano Espaillat,(Democratic),386,AD 71,2024-11-07_14:07:14.930842
+ED   11,87.50%,Ruben D. Vargas,(Republican),57,AD 71,2024-11-07_14:07:14.930842
+ED   11,87.50%,Ruben D. Vargas,(Conservative),4,AD 71,2024-11-07_14:07:14.930842
+ED   11,87.50%,WRITE-IN,&nbsp,9,AD 71,2024-11-07_14:07:14.930842
+ED   12,87.50%,Adriano Espaillat,(Democratic),430,AD 71,2024-11-07_14:07:14.930842
+ED   12,87.50%,Ruben D. Vargas,(Republican),102,AD 71,2024-11-07_14:07:14.930842
+ED   12,87.50%,Ruben D. Vargas,(Conservative),12,AD 71,2024-11-07_14:07:14.930842
+ED   12,87.50%,WRITE-IN,&nbsp,7,AD 71,2024-11-07_14:07:14.930842
+ED   13,81.82%,Adriano Espaillat,(Democratic),400,AD 71,2024-11-07_14:07:14.930842
+ED   13,81.82%,Ruben D. Vargas,(Republican),87,AD 71,2024-11-07_14:07:14.930842
+ED   13,81.82%,Ruben D. Vargas,(Conservative),12,AD 71,2024-11-07_14:07:14.930842
+ED   13,81.82%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   14,81.82%,Adriano Espaillat,(Democratic),413,AD 71,2024-11-07_14:07:14.930842
+ED   14,81.82%,Ruben D. Vargas,(Republican),110,AD 71,2024-11-07_14:07:14.930842
+ED   14,81.82%,Ruben D. Vargas,(Conservative),8,AD 71,2024-11-07_14:07:14.930842
+ED   14,81.82%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   15,81.82%,Adriano Espaillat,(Democratic),378,AD 71,2024-11-07_14:07:14.930842
+ED   15,81.82%,Ruben D. Vargas,(Republican),58,AD 71,2024-11-07_14:07:14.930842
+ED   15,81.82%,Ruben D. Vargas,(Conservative),5,AD 71,2024-11-07_14:07:14.930842
+ED   15,81.82%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   16,81.82%,Adriano Espaillat,(Democratic),370,AD 71,2024-11-07_14:07:14.930842
+ED   16,81.82%,Ruben D. Vargas,(Republican),111,AD 71,2024-11-07_14:07:14.930842
+ED   16,81.82%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   16,81.82%,WRITE-IN,&nbsp,2,AD 71,2024-11-07_14:07:14.930842
+ED   17,81.82%,Adriano Espaillat,(Democratic),424,AD 71,2024-11-07_14:07:14.930842
+ED   17,81.82%,Ruben D. Vargas,(Republican),87,AD 71,2024-11-07_14:07:14.930842
+ED   17,81.82%,Ruben D. Vargas,(Conservative),13,AD 71,2024-11-07_14:07:14.930842
+ED   17,81.82%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   18,99.00%,Adriano Espaillat,(Democratic),515,AD 71,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Republican),86,AD 71,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Conservative),8,AD 71,2024-11-07_14:07:14.930842
+ED   18,99.00%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   19,99.00%,Adriano Espaillat,(Democratic),351,AD 71,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Republican),51,AD 71,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Conservative),3,AD 71,2024-11-07_14:07:14.930842
+ED   19,99.00%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   20,99.00%,Adriano Espaillat,(Democratic),432,AD 71,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Republican),108,AD 71,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Conservative),6,AD 71,2024-11-07_14:07:14.930842
+ED   20,99.00%,WRITE-IN,&nbsp,6,AD 71,2024-11-07_14:07:14.930842
+ED   21,99.00%,Adriano Espaillat,(Democratic),491,AD 71,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Republican),84,AD 71,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   21,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   22,99.00%,Adriano Espaillat,(Democratic),454,AD 71,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Republican),90,AD 71,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Conservative),13,AD 71,2024-11-07_14:07:14.930842
+ED   22,99.00%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   23,99.00%,Adriano Espaillat,(Democratic),499,AD 71,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Republican),103,AD 71,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Conservative),11,AD 71,2024-11-07_14:07:14.930842
+ED   23,99.00%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   24,99.00%,Adriano Espaillat,(Democratic),775,AD 71,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Republican),118,AD 71,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Conservative),16,AD 71,2024-11-07_14:07:14.930842
+ED   24,99.00%,WRITE-IN,&nbsp,7,AD 71,2024-11-07_14:07:14.930842
+ED   25,99.00%,Adriano Espaillat,(Democratic),352,AD 71,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Republican),72,AD 71,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Conservative),7,AD 71,2024-11-07_14:07:14.930842
+ED   25,99.00%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   26,99.00%,Adriano Espaillat,(Democratic),474,AD 71,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Republican),45,AD 71,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Conservative),7,AD 71,2024-11-07_14:07:14.930842
+ED   26,99.00%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   27,99.00%,Adriano Espaillat,(Democratic),503,AD 71,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Republican),58,AD 71,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   27,99.00%,WRITE-IN,&nbsp,9,AD 71,2024-11-07_14:07:14.930842
+ED   28,99.00%,Adriano Espaillat,(Democratic),478,AD 71,2024-11-07_14:07:14.930842
+ED   28,99.00%,Ruben D. Vargas,(Republican),114,AD 71,2024-11-07_14:07:14.930842
+ED   28,99.00%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   28,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   29,99.00%,Adriano Espaillat,(Democratic),467,AD 71,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Republican),81,AD 71,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Conservative),11,AD 71,2024-11-07_14:07:14.930842
+ED   29,99.00%,WRITE-IN,&nbsp,2,AD 71,2024-11-07_14:07:14.930842
+ED   30,99.00%,Adriano Espaillat,(Democratic),494,AD 71,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Republican),69,AD 71,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   30,99.00%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   31,99.00%,Adriano Espaillat,(Democratic),303,AD 71,2024-11-07_14:07:14.930842
+ED   31,99.00%,Ruben D. Vargas,(Republican),38,AD 71,2024-11-07_14:07:14.930842
+ED   31,99.00%,Ruben D. Vargas,(Conservative),5,AD 71,2024-11-07_14:07:14.930842
+ED   31,99.00%,WRITE-IN,&nbsp,1,AD 71,2024-11-07_14:07:14.930842
+ED   32,99.00%,Adriano Espaillat,(Democratic),495,AD 71,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Republican),66,AD 71,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Conservative),11,AD 71,2024-11-07_14:07:14.930842
+ED   32,99.00%,WRITE-IN,&nbsp,1,AD 71,2024-11-07_14:07:14.930842
+ED   33,99.00%,Adriano Espaillat,(Democratic),117,AD 71,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Republican),25,AD 71,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Conservative),4,AD 71,2024-11-07_14:07:14.930842
+ED   33,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   34,99.00%,Adriano Espaillat,(Democratic),386,AD 71,2024-11-07_14:07:14.930842
+ED   34,99.00%,Ruben D. Vargas,(Republican),79,AD 71,2024-11-07_14:07:14.930842
+ED   34,99.00%,Ruben D. Vargas,(Conservative),8,AD 71,2024-11-07_14:07:14.930842
+ED   34,99.00%,WRITE-IN,&nbsp,1,AD 71,2024-11-07_14:07:14.930842
+ED   35,99.00%,Adriano Espaillat,(Democratic),544,AD 71,2024-11-07_14:07:14.930842
+ED   35,99.00%,Ruben D. Vargas,(Republican),61,AD 71,2024-11-07_14:07:14.930842
+ED   35,99.00%,Ruben D. Vargas,(Conservative),12,AD 71,2024-11-07_14:07:14.930842
+ED   35,99.00%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   36,99.00%,Adriano Espaillat,(Democratic),533,AD 71,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Republican),79,AD 71,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Conservative),11,AD 71,2024-11-07_14:07:14.930842
+ED   36,99.00%,WRITE-IN,&nbsp,6,AD 71,2024-11-07_14:07:14.930842
+ED   37,99.00%,Adriano Espaillat,(Democratic),574,AD 71,2024-11-07_14:07:14.930842
+ED   37,99.00%,Ruben D. Vargas,(Republican),99,AD 71,2024-11-07_14:07:14.930842
+ED   37,99.00%,Ruben D. Vargas,(Conservative),10,AD 71,2024-11-07_14:07:14.930842
+ED   37,99.00%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   38,99.00%,Adriano Espaillat,(Democratic),580,AD 71,2024-11-07_14:07:14.930842
+ED   38,99.00%,Ruben D. Vargas,(Republican),52,AD 71,2024-11-07_14:07:14.930842
+ED   38,99.00%,Ruben D. Vargas,(Conservative),8,AD 71,2024-11-07_14:07:14.930842
+ED   38,99.00%,WRITE-IN,&nbsp,9,AD 71,2024-11-07_14:07:14.930842
+ED   39,99.00%,Adriano Espaillat,(Democratic),571,AD 71,2024-11-07_14:07:14.930842
+ED   39,99.00%,Ruben D. Vargas,(Republican),76,AD 71,2024-11-07_14:07:14.930842
+ED   39,99.00%,Ruben D. Vargas,(Conservative),11,AD 71,2024-11-07_14:07:14.930842
+ED   39,99.00%,WRITE-IN,&nbsp,5,AD 71,2024-11-07_14:07:14.930842
+ED   40,99.00%,Adriano Espaillat,(Democratic),566,AD 71,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Republican),63,AD 71,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Conservative),10,AD 71,2024-11-07_14:07:14.930842
+ED   40,99.00%,WRITE-IN,&nbsp,6,AD 71,2024-11-07_14:07:14.930842
+ED   41,99.00%,Adriano Espaillat,(Democratic),595,AD 71,2024-11-07_14:07:14.930842
+ED   41,99.00%,Ruben D. Vargas,(Republican),64,AD 71,2024-11-07_14:07:14.930842
+ED   41,99.00%,Ruben D. Vargas,(Conservative),6,AD 71,2024-11-07_14:07:14.930842
+ED   41,99.00%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   42,99.00%,Adriano Espaillat,(Democratic),650,AD 71,2024-11-07_14:07:14.930842
+ED   42,99.00%,Ruben D. Vargas,(Republican),72,AD 71,2024-11-07_14:07:14.930842
+ED   42,99.00%,Ruben D. Vargas,(Conservative),16,AD 71,2024-11-07_14:07:14.930842
+ED   42,99.00%,WRITE-IN,&nbsp,8,AD 71,2024-11-07_14:07:14.930842
+ED   43,99.00%,Adriano Espaillat,(Democratic),370,AD 71,2024-11-07_14:07:14.930842
+ED   43,99.00%,Ruben D. Vargas,(Republican),45,AD 71,2024-11-07_14:07:14.930842
+ED   43,99.00%,Ruben D. Vargas,(Conservative),2,AD 71,2024-11-07_14:07:14.930842
+ED   43,99.00%,WRITE-IN,&nbsp,2,AD 71,2024-11-07_14:07:14.930842
+ED   44,99.00%,Adriano Espaillat,(Democratic),491,AD 71,2024-11-07_14:07:14.930842
+ED   44,99.00%,Ruben D. Vargas,(Republican),88,AD 71,2024-11-07_14:07:14.930842
+ED   44,99.00%,Ruben D. Vargas,(Conservative),6,AD 71,2024-11-07_14:07:14.930842
+ED   44,99.00%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   45,99.00%,Adriano Espaillat,(Democratic),398,AD 71,2024-11-07_14:07:14.930842
+ED   45,99.00%,Ruben D. Vargas,(Republican),66,AD 71,2024-11-07_14:07:14.930842
+ED   45,99.00%,Ruben D. Vargas,(Conservative),7,AD 71,2024-11-07_14:07:14.930842
+ED   45,99.00%,WRITE-IN,&nbsp,1,AD 71,2024-11-07_14:07:14.930842
+ED   46,99.00%,Adriano Espaillat,(Democratic),506,AD 71,2024-11-07_14:07:14.930842
+ED   46,99.00%,Ruben D. Vargas,(Republican),92,AD 71,2024-11-07_14:07:14.930842
+ED   46,99.00%,Ruben D. Vargas,(Conservative),7,AD 71,2024-11-07_14:07:14.930842
+ED   46,99.00%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   47,99.00%,Adriano Espaillat,(Democratic),346,AD 71,2024-11-07_14:07:14.930842
+ED   47,99.00%,Ruben D. Vargas,(Republican),80,AD 71,2024-11-07_14:07:14.930842
+ED   47,99.00%,Ruben D. Vargas,(Conservative),7,AD 71,2024-11-07_14:07:14.930842
+ED   47,99.00%,WRITE-IN,&nbsp,1,AD 71,2024-11-07_14:07:14.930842
+ED   48,99.00%,Adriano Espaillat,(Democratic),577,AD 71,2024-11-07_14:07:14.930842
+ED   48,99.00%,Ruben D. Vargas,(Republican),74,AD 71,2024-11-07_14:07:14.930842
+ED   48,99.00%,Ruben D. Vargas,(Conservative),10,AD 71,2024-11-07_14:07:14.930842
+ED   48,99.00%,WRITE-IN,&nbsp,6,AD 71,2024-11-07_14:07:14.930842
+ED   49,99.00%,Adriano Espaillat,(Democratic),656,AD 71,2024-11-07_14:07:14.930842
+ED   49,99.00%,Ruben D. Vargas,(Republican),75,AD 71,2024-11-07_14:07:14.930842
+ED   49,99.00%,Ruben D. Vargas,(Conservative),10,AD 71,2024-11-07_14:07:14.930842
+ED   49,99.00%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   50,99.00%,Adriano Espaillat,(Democratic),440,AD 71,2024-11-07_14:07:14.930842
+ED   50,99.00%,Ruben D. Vargas,(Republican),61,AD 71,2024-11-07_14:07:14.930842
+ED   50,99.00%,Ruben D. Vargas,(Conservative),7,AD 71,2024-11-07_14:07:14.930842
+ED   50,99.00%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   51,99.00%,Adriano Espaillat,(Democratic),739,AD 71,2024-11-07_14:07:14.930842
+ED   51,99.00%,Ruben D. Vargas,(Republican),56,AD 71,2024-11-07_14:07:14.930842
+ED   51,99.00%,Ruben D. Vargas,(Conservative),8,AD 71,2024-11-07_14:07:14.930842
+ED   51,99.00%,WRITE-IN,&nbsp,4,AD 71,2024-11-07_14:07:14.930842
+ED   52,99.00%,Adriano Espaillat,(Democratic),812,AD 71,2024-11-07_14:07:14.930842
+ED   52,99.00%,Ruben D. Vargas,(Republican),77,AD 71,2024-11-07_14:07:14.930842
+ED   52,99.00%,Ruben D. Vargas,(Conservative),10,AD 71,2024-11-07_14:07:14.930842
+ED   52,99.00%,WRITE-IN,&nbsp,6,AD 71,2024-11-07_14:07:14.930842
+ED   53,99.00%,Adriano Espaillat,(Democratic),351,AD 71,2024-11-07_14:07:14.930842
+ED   53,99.00%,Ruben D. Vargas,(Republican),24,AD 71,2024-11-07_14:07:14.930842
+ED   53,99.00%,Ruben D. Vargas,(Conservative),6,AD 71,2024-11-07_14:07:14.930842
+ED   53,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   54,99.00%,Adriano Espaillat,(Democratic),472,AD 71,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Republican),57,AD 71,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   54,99.00%,WRITE-IN,&nbsp,2,AD 71,2024-11-07_14:07:14.930842
+ED   55,99.00%,Adriano Espaillat,(Democratic),740,AD 71,2024-11-07_14:07:14.930842
+ED   55,99.00%,Ruben D. Vargas,(Republican),77,AD 71,2024-11-07_14:07:14.930842
+ED   55,99.00%,Ruben D. Vargas,(Conservative),13,AD 71,2024-11-07_14:07:14.930842
+ED   55,99.00%,WRITE-IN,&nbsp,3,AD 71,2024-11-07_14:07:14.930842
+ED   56,99.00%,Adriano Espaillat,(Democratic),558,AD 71,2024-11-07_14:07:14.930842
+ED   56,99.00%,Ruben D. Vargas,(Republican),53,AD 71,2024-11-07_14:07:14.930842
+ED   56,99.00%,Ruben D. Vargas,(Conservative),11,AD 71,2024-11-07_14:07:14.930842
+ED   56,99.00%,WRITE-IN,&nbsp,1,AD 71,2024-11-07_14:07:14.930842
+ED   57,99.00%,Adriano Espaillat,(Democratic),555,AD 71,2024-11-07_14:07:14.930842
+ED   57,99.00%,Ruben D. Vargas,(Republican),53,AD 71,2024-11-07_14:07:14.930842
+ED   57,99.00%,Ruben D. Vargas,(Conservative),6,AD 71,2024-11-07_14:07:14.930842
+ED   57,99.00%,WRITE-IN,&nbsp,5,AD 71,2024-11-07_14:07:14.930842
+ED   58,99.00%,Adriano Espaillat,(Democratic),602,AD 71,2024-11-07_14:07:14.930842
+ED   58,99.00%,Ruben D. Vargas,(Republican),61,AD 71,2024-11-07_14:07:14.930842
+ED   58,99.00%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   58,99.00%,WRITE-IN,&nbsp,2,AD 71,2024-11-07_14:07:14.930842
+ED   59,99.00%,Adriano Espaillat,(Democratic),734,AD 71,2024-11-07_14:07:14.930842
+ED   59,99.00%,Ruben D. Vargas,(Republican),64,AD 71,2024-11-07_14:07:14.930842
+ED   59,99.00%,Ruben D. Vargas,(Conservative),15,AD 71,2024-11-07_14:07:14.930842
+ED   59,99.00%,WRITE-IN,&nbsp,5,AD 71,2024-11-07_14:07:14.930842
+ED   60,99.00%,Adriano Espaillat,(Democratic),565,AD 71,2024-11-07_14:07:14.930842
+ED   60,99.00%,Ruben D. Vargas,(Republican),40,AD 71,2024-11-07_14:07:14.930842
+ED   60,99.00%,Ruben D. Vargas,(Conservative),4,AD 71,2024-11-07_14:07:14.930842
+ED   60,99.00%,WRITE-IN,&nbsp,5,AD 71,2024-11-07_14:07:14.930842
+ED   61,99.00%,Adriano Espaillat,(Democratic),819,AD 71,2024-11-07_14:07:14.930842
+ED   61,99.00%,Ruben D. Vargas,(Republican),30,AD 71,2024-11-07_14:07:14.930842
+ED   61,99.00%,Ruben D. Vargas,(Conservative),8,AD 71,2024-11-07_14:07:14.930842
+ED   61,99.00%,WRITE-IN,&nbsp,1,AD 71,2024-11-07_14:07:14.930842
+ED   62,99.00%,Adriano Espaillat,(Democratic),563,AD 71,2024-11-07_14:07:14.930842
+ED   62,99.00%,Ruben D. Vargas,(Republican),17,AD 71,2024-11-07_14:07:14.930842
+ED   62,99.00%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   62,99.00%,WRITE-IN,&nbsp,1,AD 71,2024-11-07_14:07:14.930842
+ED   63,99.00%,Adriano Espaillat,(Democratic),536,AD 71,2024-11-07_14:07:14.930842
+ED   63,99.00%,Ruben D. Vargas,(Republican),41,AD 71,2024-11-07_14:07:14.930842
+ED   63,99.00%,Ruben D. Vargas,(Conservative),9,AD 71,2024-11-07_14:07:14.930842
+ED   63,99.00%,WRITE-IN,&nbsp,2,AD 71,2024-11-07_14:07:14.930842
+ED   64,99.00%,Adriano Espaillat,(Democratic),560,AD 71,2024-11-07_14:07:14.930842
+ED   64,99.00%,Ruben D. Vargas,(Republican),67,AD 71,2024-11-07_14:07:14.930842
+ED   64,99.00%,Ruben D. Vargas,(Conservative),12,AD 71,2024-11-07_14:07:14.930842
+ED   64,99.00%,WRITE-IN,&nbsp,2,AD 71,2024-11-07_14:07:14.930842
+ED   65,99.00%,Adriano Espaillat,(Democratic),93,AD 71,2024-11-07_14:07:14.930842
+ED   65,99.00%,Ruben D. Vargas,(Republican),17,AD 71,2024-11-07_14:07:14.930842
+ED   65,99.00%,Ruben D. Vargas,(Conservative),2,AD 71,2024-11-07_14:07:14.930842
+ED   65,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   66,99.00%,Adriano Espaillat,(Democratic),0,AD 71,2024-11-07_14:07:14.930842
+ED   66,99.00%,Ruben D. Vargas,(Republican),0,AD 71,2024-11-07_14:07:14.930842
+ED   66,99.00%,Ruben D. Vargas,(Conservative),0,AD 71,2024-11-07_14:07:14.930842
+ED   66,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   67,90.00%,Adriano Espaillat,(Democratic),0,AD 71,2024-11-07_14:07:14.930842
+ED   67,90.00%,Ruben D. Vargas,(Republican),0,AD 71,2024-11-07_14:07:14.930842
+ED   67,90.00%,Ruben D. Vargas,(Conservative),0,AD 71,2024-11-07_14:07:14.930842
+ED   67,90.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   68,99.00%,Adriano Espaillat,(Democratic),0,AD 71,2024-11-07_14:07:14.930842
+ED   68,99.00%,Ruben D. Vargas,(Republican),0,AD 71,2024-11-07_14:07:14.930842
+ED   68,99.00%,Ruben D. Vargas,(Conservative),0,AD 71,2024-11-07_14:07:14.930842
+ED   68,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   69,99.00%,Adriano Espaillat,(Democratic),0,AD 71,2024-11-07_14:07:14.930842
+ED   69,99.00%,Ruben D. Vargas,(Republican),0,AD 71,2024-11-07_14:07:14.930842
+ED   69,99.00%,Ruben D. Vargas,(Conservative),0,AD 71,2024-11-07_14:07:14.930842
+ED   69,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   70,99.00%,Adriano Espaillat,(Democratic),0,AD 71,2024-11-07_14:07:14.930842
+ED   70,99.00%,Ruben D. Vargas,(Republican),0,AD 71,2024-11-07_14:07:14.930842
+ED   70,99.00%,Ruben D. Vargas,(Conservative),0,AD 71,2024-11-07_14:07:14.930842
+ED   70,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+ED   71,99.00%,Adriano Espaillat,(Democratic),0,AD 71,2024-11-07_14:07:14.930842
+ED   71,99.00%,Ruben D. Vargas,(Republican),0,AD 71,2024-11-07_14:07:14.930842
+ED   71,99.00%,Ruben D. Vargas,(Conservative),0,AD 71,2024-11-07_14:07:14.930842
+ED   71,99.00%,WRITE-IN,&nbsp,0,AD 71,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),34517,AD 71,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),4676,AD 71,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),589,AD 71,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,334,AD 71,2024-11-07_14:07:14.930842
+ED    1,99.00%,Adriano Espaillat,(Democratic),467,AD 72,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Republican),80,AD 72,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Conservative),10,AD 72,2024-11-07_14:07:14.930842
+ED    1,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED    2,99.00%,Adriano Espaillat,(Democratic),455,AD 72,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Republican),111,AD 72,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED    2,99.00%,WRITE-IN,&nbsp,3,AD 72,2024-11-07_14:07:14.930842
+ED    3,99.00%,Adriano Espaillat,(Democratic),518,AD 72,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Republican),135,AD 72,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED    3,99.00%,WRITE-IN,&nbsp,3,AD 72,2024-11-07_14:07:14.930842
+ED    4,87.50%,Adriano Espaillat,(Democratic),798,AD 72,2024-11-07_14:07:14.930842
+ED    4,87.50%,Ruben D. Vargas,(Republican),76,AD 72,2024-11-07_14:07:14.930842
+ED    4,87.50%,Ruben D. Vargas,(Conservative),18,AD 72,2024-11-07_14:07:14.930842
+ED    4,87.50%,WRITE-IN,&nbsp,17,AD 72,2024-11-07_14:07:14.930842
+ED    5,87.50%,Adriano Espaillat,(Democratic),750,AD 72,2024-11-07_14:07:14.930842
+ED    5,87.50%,Ruben D. Vargas,(Republican),97,AD 72,2024-11-07_14:07:14.930842
+ED    5,87.50%,Ruben D. Vargas,(Conservative),20,AD 72,2024-11-07_14:07:14.930842
+ED    5,87.50%,WRITE-IN,&nbsp,18,AD 72,2024-11-07_14:07:14.930842
+ED    6,87.50%,Adriano Espaillat,(Democratic),571,AD 72,2024-11-07_14:07:14.930842
+ED    6,87.50%,Ruben D. Vargas,(Republican),106,AD 72,2024-11-07_14:07:14.930842
+ED    6,87.50%,Ruben D. Vargas,(Conservative),17,AD 72,2024-11-07_14:07:14.930842
+ED    6,87.50%,WRITE-IN,&nbsp,11,AD 72,2024-11-07_14:07:14.930842
+ED    7,87.50%,Adriano Espaillat,(Democratic),402,AD 72,2024-11-07_14:07:14.930842
+ED    7,87.50%,Ruben D. Vargas,(Republican),122,AD 72,2024-11-07_14:07:14.930842
+ED    7,87.50%,Ruben D. Vargas,(Conservative),13,AD 72,2024-11-07_14:07:14.930842
+ED    7,87.50%,WRITE-IN,&nbsp,5,AD 72,2024-11-07_14:07:14.930842
+ED    8,87.50%,Adriano Espaillat,(Democratic),546,AD 72,2024-11-07_14:07:14.930842
+ED    8,87.50%,Ruben D. Vargas,(Republican),85,AD 72,2024-11-07_14:07:14.930842
+ED    8,87.50%,Ruben D. Vargas,(Conservative),13,AD 72,2024-11-07_14:07:14.930842
+ED    8,87.50%,WRITE-IN,&nbsp,15,AD 72,2024-11-07_14:07:14.930842
+ED    9,99.00%,Adriano Espaillat,(Democratic),728,AD 72,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Republican),142,AD 72,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Conservative),25,AD 72,2024-11-07_14:07:14.930842
+ED    9,99.00%,WRITE-IN,&nbsp,16,AD 72,2024-11-07_14:07:14.930842
+ED   10,99.00%,Adriano Espaillat,(Democratic),631,AD 72,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Republican),117,AD 72,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Conservative),15,AD 72,2024-11-07_14:07:14.930842
+ED   10,99.00%,WRITE-IN,&nbsp,14,AD 72,2024-11-07_14:07:14.930842
+ED   11,99.00%,Adriano Espaillat,(Democratic),467,AD 72,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Republican),129,AD 72,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED   11,99.00%,WRITE-IN,&nbsp,2,AD 72,2024-11-07_14:07:14.930842
+ED   12,99.00%,Adriano Espaillat,(Democratic),464,AD 72,2024-11-07_14:07:14.930842
+ED   12,99.00%,Ruben D. Vargas,(Republican),129,AD 72,2024-11-07_14:07:14.930842
+ED   12,99.00%,Ruben D. Vargas,(Conservative),14,AD 72,2024-11-07_14:07:14.930842
+ED   12,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED   13,99.00%,Adriano Espaillat,(Democratic),452,AD 72,2024-11-07_14:07:14.930842
+ED   13,99.00%,Ruben D. Vargas,(Republican),123,AD 72,2024-11-07_14:07:14.930842
+ED   13,99.00%,Ruben D. Vargas,(Conservative),10,AD 72,2024-11-07_14:07:14.930842
+ED   13,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   14,99.00%,Adriano Espaillat,(Democratic),462,AD 72,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Republican),108,AD 72,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Conservative),6,AD 72,2024-11-07_14:07:14.930842
+ED   14,99.00%,WRITE-IN,&nbsp,4,AD 72,2024-11-07_14:07:14.930842
+ED   15,99.00%,Adriano Espaillat,(Democratic),531,AD 72,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Republican),118,AD 72,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Conservative),11,AD 72,2024-11-07_14:07:14.930842
+ED   15,99.00%,WRITE-IN,&nbsp,4,AD 72,2024-11-07_14:07:14.930842
+ED   16,99.00%,Adriano Espaillat,(Democratic),331,AD 72,2024-11-07_14:07:14.930842
+ED   16,99.00%,Ruben D. Vargas,(Republican),82,AD 72,2024-11-07_14:07:14.930842
+ED   16,99.00%,Ruben D. Vargas,(Conservative),6,AD 72,2024-11-07_14:07:14.930842
+ED   16,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED   17,99.00%,Adriano Espaillat,(Democratic),398,AD 72,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Republican),117,AD 72,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Conservative),7,AD 72,2024-11-07_14:07:14.930842
+ED   17,99.00%,WRITE-IN,&nbsp,3,AD 72,2024-11-07_14:07:14.930842
+ED   18,99.00%,Adriano Espaillat,(Democratic),349,AD 72,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Republican),112,AD 72,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Conservative),5,AD 72,2024-11-07_14:07:14.930842
+ED   18,99.00%,WRITE-IN,&nbsp,11,AD 72,2024-11-07_14:07:14.930842
+ED   19,99.00%,Adriano Espaillat,(Democratic),452,AD 72,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Republican),74,AD 72,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Conservative),5,AD 72,2024-11-07_14:07:14.930842
+ED   19,99.00%,WRITE-IN,&nbsp,5,AD 72,2024-11-07_14:07:14.930842
+ED   20,99.00%,Adriano Espaillat,(Democratic),368,AD 72,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Republican),109,AD 72,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Conservative),8,AD 72,2024-11-07_14:07:14.930842
+ED   20,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   21,99.00%,Adriano Espaillat,(Democratic),325,AD 72,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Republican),76,AD 72,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Conservative),4,AD 72,2024-11-07_14:07:14.930842
+ED   21,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   22,99.00%,Adriano Espaillat,(Democratic),281,AD 72,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Republican),105,AD 72,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Conservative),5,AD 72,2024-11-07_14:07:14.930842
+ED   22,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED   23,99.00%,Adriano Espaillat,(Democratic),404,AD 72,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Republican),125,AD 72,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED   23,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   24,99.00%,Adriano Espaillat,(Democratic),362,AD 72,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Republican),79,AD 72,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Conservative),13,AD 72,2024-11-07_14:07:14.930842
+ED   24,99.00%,WRITE-IN,&nbsp,6,AD 72,2024-11-07_14:07:14.930842
+ED   25,60.00%,Adriano Espaillat,(Democratic),140,AD 72,2024-11-07_14:07:14.930842
+ED   25,60.00%,Ruben D. Vargas,(Republican),26,AD 72,2024-11-07_14:07:14.930842
+ED   25,60.00%,Ruben D. Vargas,(Conservative),2,AD 72,2024-11-07_14:07:14.930842
+ED   25,60.00%,WRITE-IN,&nbsp,4,AD 72,2024-11-07_14:07:14.930842
+ED   26,99.00%,Adriano Espaillat,(Democratic),690,AD 72,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Republican),119,AD 72,2024-11-07_14:07:14.930842
+ED   26,99.00%,Ruben D. Vargas,(Conservative),11,AD 72,2024-11-07_14:07:14.930842
+ED   26,99.00%,WRITE-IN,&nbsp,15,AD 72,2024-11-07_14:07:14.930842
+ED   27,99.00%,Adriano Espaillat,(Democratic),381,AD 72,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Republican),109,AD 72,2024-11-07_14:07:14.930842
+ED   27,99.00%,Ruben D. Vargas,(Conservative),15,AD 72,2024-11-07_14:07:14.930842
+ED   27,99.00%,WRITE-IN,&nbsp,6,AD 72,2024-11-07_14:07:14.930842
+ED   28,83.33%,Adriano Espaillat,(Democratic),224,AD 72,2024-11-07_14:07:14.930842
+ED   28,83.33%,Ruben D. Vargas,(Republican),40,AD 72,2024-11-07_14:07:14.930842
+ED   28,83.33%,Ruben D. Vargas,(Conservative),0,AD 72,2024-11-07_14:07:14.930842
+ED   28,83.33%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   29,99.00%,Adriano Espaillat,(Democratic),517,AD 72,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Republican),101,AD 72,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Conservative),10,AD 72,2024-11-07_14:07:14.930842
+ED   29,99.00%,WRITE-IN,&nbsp,4,AD 72,2024-11-07_14:07:14.930842
+ED   30,99.00%,Adriano Espaillat,(Democratic),435,AD 72,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Republican),94,AD 72,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Conservative),7,AD 72,2024-11-07_14:07:14.930842
+ED   30,99.00%,WRITE-IN,&nbsp,6,AD 72,2024-11-07_14:07:14.930842
+ED   31,60.00%,Adriano Espaillat,(Democratic),130,AD 72,2024-11-07_14:07:14.930842
+ED   31,60.00%,Ruben D. Vargas,(Republican),36,AD 72,2024-11-07_14:07:14.930842
+ED   31,60.00%,Ruben D. Vargas,(Conservative),4,AD 72,2024-11-07_14:07:14.930842
+ED   31,60.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED   32,99.00%,Adriano Espaillat,(Democratic),483,AD 72,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Republican),92,AD 72,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Conservative),14,AD 72,2024-11-07_14:07:14.930842
+ED   32,99.00%,WRITE-IN,&nbsp,10,AD 72,2024-11-07_14:07:14.930842
+ED   33,99.00%,Adriano Espaillat,(Democratic),424,AD 72,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Republican),82,AD 72,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Conservative),6,AD 72,2024-11-07_14:07:14.930842
+ED   33,99.00%,WRITE-IN,&nbsp,5,AD 72,2024-11-07_14:07:14.930842
+ED   34,99.00%,Adriano Espaillat,(Democratic),299,AD 72,2024-11-07_14:07:14.930842
+ED   34,99.00%,Ruben D. Vargas,(Republican),92,AD 72,2024-11-07_14:07:14.930842
+ED   34,99.00%,Ruben D. Vargas,(Conservative),4,AD 72,2024-11-07_14:07:14.930842
+ED   34,99.00%,WRITE-IN,&nbsp,3,AD 72,2024-11-07_14:07:14.930842
+ED   35,99.00%,Adriano Espaillat,(Democratic),381,AD 72,2024-11-07_14:07:14.930842
+ED   35,99.00%,Ruben D. Vargas,(Republican),97,AD 72,2024-11-07_14:07:14.930842
+ED   35,99.00%,Ruben D. Vargas,(Conservative),24,AD 72,2024-11-07_14:07:14.930842
+ED   35,99.00%,WRITE-IN,&nbsp,3,AD 72,2024-11-07_14:07:14.930842
+ED   36,99.00%,Adriano Espaillat,(Democratic),297,AD 72,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Republican),129,AD 72,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Conservative),7,AD 72,2024-11-07_14:07:14.930842
+ED   36,99.00%,WRITE-IN,&nbsp,2,AD 72,2024-11-07_14:07:14.930842
+ED   37,99.00%,Adriano Espaillat,(Democratic),456,AD 72,2024-11-07_14:07:14.930842
+ED   37,99.00%,Ruben D. Vargas,(Republican),125,AD 72,2024-11-07_14:07:14.930842
+ED   37,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED   37,99.00%,WRITE-IN,&nbsp,5,AD 72,2024-11-07_14:07:14.930842
+ED   38,99.00%,Adriano Espaillat,(Democratic),412,AD 72,2024-11-07_14:07:14.930842
+ED   38,99.00%,Ruben D. Vargas,(Republican),116,AD 72,2024-11-07_14:07:14.930842
+ED   38,99.00%,Ruben D. Vargas,(Conservative),10,AD 72,2024-11-07_14:07:14.930842
+ED   38,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   39,99.00%,Adriano Espaillat,(Democratic),434,AD 72,2024-11-07_14:07:14.930842
+ED   39,99.00%,Ruben D. Vargas,(Republican),122,AD 72,2024-11-07_14:07:14.930842
+ED   39,99.00%,Ruben D. Vargas,(Conservative),10,AD 72,2024-11-07_14:07:14.930842
+ED   39,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED   40,99.00%,Adriano Espaillat,(Democratic),389,AD 72,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Republican),119,AD 72,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Conservative),10,AD 72,2024-11-07_14:07:14.930842
+ED   40,99.00%,WRITE-IN,&nbsp,2,AD 72,2024-11-07_14:07:14.930842
+ED   41,99.00%,Adriano Espaillat,(Democratic),520,AD 72,2024-11-07_14:07:14.930842
+ED   41,99.00%,Ruben D. Vargas,(Republican),139,AD 72,2024-11-07_14:07:14.930842
+ED   41,99.00%,Ruben D. Vargas,(Conservative),14,AD 72,2024-11-07_14:07:14.930842
+ED   41,99.00%,WRITE-IN,&nbsp,8,AD 72,2024-11-07_14:07:14.930842
+ED   42,99.00%,Adriano Espaillat,(Democratic),371,AD 72,2024-11-07_14:07:14.930842
+ED   42,99.00%,Ruben D. Vargas,(Republican),132,AD 72,2024-11-07_14:07:14.930842
+ED   42,99.00%,Ruben D. Vargas,(Conservative),12,AD 72,2024-11-07_14:07:14.930842
+ED   42,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   43,99.00%,Adriano Espaillat,(Democratic),414,AD 72,2024-11-07_14:07:14.930842
+ED   43,99.00%,Ruben D. Vargas,(Republican),96,AD 72,2024-11-07_14:07:14.930842
+ED   43,99.00%,Ruben D. Vargas,(Conservative),12,AD 72,2024-11-07_14:07:14.930842
+ED   43,99.00%,WRITE-IN,&nbsp,4,AD 72,2024-11-07_14:07:14.930842
+ED   44,99.00%,Adriano Espaillat,(Democratic),470,AD 72,2024-11-07_14:07:14.930842
+ED   44,99.00%,Ruben D. Vargas,(Republican),106,AD 72,2024-11-07_14:07:14.930842
+ED   44,99.00%,Ruben D. Vargas,(Conservative),8,AD 72,2024-11-07_14:07:14.930842
+ED   44,99.00%,WRITE-IN,&nbsp,3,AD 72,2024-11-07_14:07:14.930842
+ED   45,99.00%,Adriano Espaillat,(Democratic),302,AD 72,2024-11-07_14:07:14.930842
+ED   45,99.00%,Ruben D. Vargas,(Republican),77,AD 72,2024-11-07_14:07:14.930842
+ED   45,99.00%,Ruben D. Vargas,(Conservative),7,AD 72,2024-11-07_14:07:14.930842
+ED   45,99.00%,WRITE-IN,&nbsp,3,AD 72,2024-11-07_14:07:14.930842
+ED   46,99.00%,Adriano Espaillat,(Democratic),321,AD 72,2024-11-07_14:07:14.930842
+ED   46,99.00%,Ruben D. Vargas,(Republican),116,AD 72,2024-11-07_14:07:14.930842
+ED   46,99.00%,Ruben D. Vargas,(Conservative),7,AD 72,2024-11-07_14:07:14.930842
+ED   46,99.00%,WRITE-IN,&nbsp,5,AD 72,2024-11-07_14:07:14.930842
+ED   47,99.00%,Adriano Espaillat,(Democratic),313,AD 72,2024-11-07_14:07:14.930842
+ED   47,99.00%,Ruben D. Vargas,(Republican),60,AD 72,2024-11-07_14:07:14.930842
+ED   47,99.00%,Ruben D. Vargas,(Conservative),12,AD 72,2024-11-07_14:07:14.930842
+ED   47,99.00%,WRITE-IN,&nbsp,2,AD 72,2024-11-07_14:07:14.930842
+ED   48,99.00%,Adriano Espaillat,(Democratic),399,AD 72,2024-11-07_14:07:14.930842
+ED   48,99.00%,Ruben D. Vargas,(Republican),106,AD 72,2024-11-07_14:07:14.930842
+ED   48,99.00%,Ruben D. Vargas,(Conservative),17,AD 72,2024-11-07_14:07:14.930842
+ED   48,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   49,81.82%,Adriano Espaillat,(Democratic),272,AD 72,2024-11-07_14:07:14.930842
+ED   49,81.82%,Ruben D. Vargas,(Republican),76,AD 72,2024-11-07_14:07:14.930842
+ED   49,81.82%,Ruben D. Vargas,(Conservative),8,AD 72,2024-11-07_14:07:14.930842
+ED   49,81.82%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   50,99.00%,Adriano Espaillat,(Democratic),356,AD 72,2024-11-07_14:07:14.930842
+ED   50,99.00%,Ruben D. Vargas,(Republican),87,AD 72,2024-11-07_14:07:14.930842
+ED   50,99.00%,Ruben D. Vargas,(Conservative),7,AD 72,2024-11-07_14:07:14.930842
+ED   50,99.00%,WRITE-IN,&nbsp,6,AD 72,2024-11-07_14:07:14.930842
+ED   51,99.00%,Adriano Espaillat,(Democratic),294,AD 72,2024-11-07_14:07:14.930842
+ED   51,99.00%,Ruben D. Vargas,(Republican),87,AD 72,2024-11-07_14:07:14.930842
+ED   51,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED   51,99.00%,WRITE-IN,&nbsp,2,AD 72,2024-11-07_14:07:14.930842
+ED   52,81.82%,Adriano Espaillat,(Democratic),349,AD 72,2024-11-07_14:07:14.930842
+ED   52,81.82%,Ruben D. Vargas,(Republican),105,AD 72,2024-11-07_14:07:14.930842
+ED   52,81.82%,Ruben D. Vargas,(Conservative),10,AD 72,2024-11-07_14:07:14.930842
+ED   52,81.82%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   53,99.00%,Adriano Espaillat,(Democratic),415,AD 72,2024-11-07_14:07:14.930842
+ED   53,99.00%,Ruben D. Vargas,(Republican),106,AD 72,2024-11-07_14:07:14.930842
+ED   53,99.00%,Ruben D. Vargas,(Conservative),14,AD 72,2024-11-07_14:07:14.930842
+ED   53,99.00%,WRITE-IN,&nbsp,2,AD 72,2024-11-07_14:07:14.930842
+ED   54,99.00%,Adriano Espaillat,(Democratic),319,AD 72,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Republican),84,AD 72,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED   54,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED   55,99.00%,Adriano Espaillat,(Democratic),400,AD 72,2024-11-07_14:07:14.930842
+ED   55,99.00%,Ruben D. Vargas,(Republican),90,AD 72,2024-11-07_14:07:14.930842
+ED   55,99.00%,Ruben D. Vargas,(Conservative),6,AD 72,2024-11-07_14:07:14.930842
+ED   55,99.00%,WRITE-IN,&nbsp,6,AD 72,2024-11-07_14:07:14.930842
+ED   56,99.00%,Adriano Espaillat,(Democratic),351,AD 72,2024-11-07_14:07:14.930842
+ED   56,99.00%,Ruben D. Vargas,(Republican),77,AD 72,2024-11-07_14:07:14.930842
+ED   56,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED   56,99.00%,WRITE-IN,&nbsp,3,AD 72,2024-11-07_14:07:14.930842
+ED   57,99.00%,Adriano Espaillat,(Democratic),375,AD 72,2024-11-07_14:07:14.930842
+ED   57,99.00%,Ruben D. Vargas,(Republican),104,AD 72,2024-11-07_14:07:14.930842
+ED   57,99.00%,Ruben D. Vargas,(Conservative),11,AD 72,2024-11-07_14:07:14.930842
+ED   57,99.00%,WRITE-IN,&nbsp,5,AD 72,2024-11-07_14:07:14.930842
+ED   58,99.00%,Adriano Espaillat,(Democratic),637,AD 72,2024-11-07_14:07:14.930842
+ED   58,99.00%,Ruben D. Vargas,(Republican),95,AD 72,2024-11-07_14:07:14.930842
+ED   58,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED   58,99.00%,WRITE-IN,&nbsp,5,AD 72,2024-11-07_14:07:14.930842
+ED   59,99.00%,Adriano Espaillat,(Democratic),401,AD 72,2024-11-07_14:07:14.930842
+ED   59,99.00%,Ruben D. Vargas,(Republican),101,AD 72,2024-11-07_14:07:14.930842
+ED   59,99.00%,Ruben D. Vargas,(Conservative),8,AD 72,2024-11-07_14:07:14.930842
+ED   59,99.00%,WRITE-IN,&nbsp,2,AD 72,2024-11-07_14:07:14.930842
+ED   60,99.00%,Adriano Espaillat,(Democratic),365,AD 72,2024-11-07_14:07:14.930842
+ED   60,99.00%,Ruben D. Vargas,(Republican),100,AD 72,2024-11-07_14:07:14.930842
+ED   60,99.00%,Ruben D. Vargas,(Conservative),11,AD 72,2024-11-07_14:07:14.930842
+ED   60,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   61,99.00%,Adriano Espaillat,(Democratic),368,AD 72,2024-11-07_14:07:14.930842
+ED   61,99.00%,Ruben D. Vargas,(Republican),73,AD 72,2024-11-07_14:07:14.930842
+ED   61,99.00%,Ruben D. Vargas,(Conservative),10,AD 72,2024-11-07_14:07:14.930842
+ED   61,99.00%,WRITE-IN,&nbsp,4,AD 72,2024-11-07_14:07:14.930842
+ED   62,99.00%,Adriano Espaillat,(Democratic),390,AD 72,2024-11-07_14:07:14.930842
+ED   62,99.00%,Ruben D. Vargas,(Republican),112,AD 72,2024-11-07_14:07:14.930842
+ED   62,99.00%,Ruben D. Vargas,(Conservative),9,AD 72,2024-11-07_14:07:14.930842
+ED   62,99.00%,WRITE-IN,&nbsp,1,AD 72,2024-11-07_14:07:14.930842
+ED   63,99.00%,Adriano Espaillat,(Democratic),351,AD 72,2024-11-07_14:07:14.930842
+ED   63,99.00%,Ruben D. Vargas,(Republican),60,AD 72,2024-11-07_14:07:14.930842
+ED   63,99.00%,Ruben D. Vargas,(Conservative),7,AD 72,2024-11-07_14:07:14.930842
+ED   63,99.00%,WRITE-IN,&nbsp,2,AD 72,2024-11-07_14:07:14.930842
+ED   64,99.00%,Adriano Espaillat,(Democratic),0,AD 72,2024-11-07_14:07:14.930842
+ED   64,99.00%,Ruben D. Vargas,(Republican),0,AD 72,2024-11-07_14:07:14.930842
+ED   64,99.00%,Ruben D. Vargas,(Conservative),0,AD 72,2024-11-07_14:07:14.930842
+ED   64,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED   65,99.00%,Adriano Espaillat,(Democratic),0,AD 72,2024-11-07_14:07:14.930842
+ED   65,99.00%,Ruben D. Vargas,(Republican),0,AD 72,2024-11-07_14:07:14.930842
+ED   65,99.00%,Ruben D. Vargas,(Conservative),0,AD 72,2024-11-07_14:07:14.930842
+ED   65,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+ED   66,99.00%,Adriano Espaillat,(Democratic),0,AD 72,2024-11-07_14:07:14.930842
+ED   66,99.00%,Ruben D. Vargas,(Republican),0,AD 72,2024-11-07_14:07:14.930842
+ED   66,99.00%,Ruben D. Vargas,(Conservative),0,AD 72,2024-11-07_14:07:14.930842
+ED   66,99.00%,WRITE-IN,&nbsp,0,AD 72,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),26357,AD 72,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),6245,AD 72,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),630,AD 72,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,276,AD 72,2024-11-07_14:07:14.930842
+ED   15,99.00%,Adriano Espaillat,(Democratic),37,AD 77,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Republican),12,AD 77,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Conservative),1,AD 77,2024-11-07_14:07:14.930842
+ED   15,99.00%,WRITE-IN,&nbsp,0,AD 77,2024-11-07_14:07:14.930842
+ED   17,99.00%,Adriano Espaillat,(Democratic),312,AD 77,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Republican),60,AD 77,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Conservative),6,AD 77,2024-11-07_14:07:14.930842
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 77,2024-11-07_14:07:14.930842
+ED   18,99.00%,Adriano Espaillat,(Democratic),315,AD 77,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Republican),66,AD 77,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Conservative),9,AD 77,2024-11-07_14:07:14.930842
+ED   18,99.00%,WRITE-IN,&nbsp,2,AD 77,2024-11-07_14:07:14.930842
+ED   19,99.00%,Adriano Espaillat,(Democratic),389,AD 77,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Republican),74,AD 77,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Conservative),7,AD 77,2024-11-07_14:07:14.930842
+ED   19,99.00%,WRITE-IN,&nbsp,3,AD 77,2024-11-07_14:07:14.930842
+ED   20,99.00%,Adriano Espaillat,(Democratic),138,AD 77,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Republican),38,AD 77,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Conservative),4,AD 77,2024-11-07_14:07:14.930842
+ED   20,99.00%,WRITE-IN,&nbsp,1,AD 77,2024-11-07_14:07:14.930842
+ED   25,99.00%,Adriano Espaillat,(Democratic),249,AD 77,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Republican),66,AD 77,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Conservative),3,AD 77,2024-11-07_14:07:14.930842
+ED   25,99.00%,WRITE-IN,&nbsp,0,AD 77,2024-11-07_14:07:14.930842
+ED   62,99.00%,Adriano Espaillat,(Democratic),0,AD 77,2024-11-07_14:07:14.930842
+ED   62,99.00%,Ruben D. Vargas,(Republican),0,AD 77,2024-11-07_14:07:14.930842
+ED   62,99.00%,Ruben D. Vargas,(Conservative),0,AD 77,2024-11-07_14:07:14.930842
+ED   62,99.00%,WRITE-IN,&nbsp,0,AD 77,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),1440,AD 77,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),316,AD 77,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),30,AD 77,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,6,AD 77,2024-11-07_14:07:14.930842
+ED   12,87.50%,Adriano Espaillat,(Democratic),267,AD 78,2024-11-07_14:07:14.930842
+ED   12,87.50%,Ruben D. Vargas,(Republican),91,AD 78,2024-11-07_14:07:14.930842
+ED   12,87.50%,Ruben D. Vargas,(Conservative),5,AD 78,2024-11-07_14:07:14.930842
+ED   12,87.50%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   13,87.50%,Adriano Espaillat,(Democratic),235,AD 78,2024-11-07_14:07:14.930842
+ED   13,87.50%,Ruben D. Vargas,(Republican),55,AD 78,2024-11-07_14:07:14.930842
+ED   13,87.50%,Ruben D. Vargas,(Conservative),5,AD 78,2024-11-07_14:07:14.930842
+ED   13,87.50%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   14,99.00%,Adriano Espaillat,(Democratic),336,AD 78,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Republican),118,AD 78,2024-11-07_14:07:14.930842
+ED   14,99.00%,Ruben D. Vargas,(Conservative),12,AD 78,2024-11-07_14:07:14.930842
+ED   14,99.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   17,99.00%,Adriano Espaillat,(Democratic),419,AD 78,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Republican),158,AD 78,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Conservative),7,AD 78,2024-11-07_14:07:14.930842
+ED   17,99.00%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   18,99.00%,Adriano Espaillat,(Democratic),378,AD 78,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Republican),151,AD 78,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Conservative),16,AD 78,2024-11-07_14:07:14.930842
+ED   18,99.00%,WRITE-IN,&nbsp,0,AD 78,2024-11-07_14:07:14.930842
+ED   19,99.00%,Adriano Espaillat,(Democratic),362,AD 78,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Republican),99,AD 78,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Conservative),12,AD 78,2024-11-07_14:07:14.930842
+ED   19,99.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   20,99.00%,Adriano Espaillat,(Democratic),420,AD 78,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Republican),122,AD 78,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Conservative),17,AD 78,2024-11-07_14:07:14.930842
+ED   20,99.00%,WRITE-IN,&nbsp,4,AD 78,2024-11-07_14:07:14.930842
+ED   21,99.00%,Adriano Espaillat,(Democratic),328,AD 78,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Republican),124,AD 78,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Conservative),10,AD 78,2024-11-07_14:07:14.930842
+ED   21,99.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   22,99.00%,Adriano Espaillat,(Democratic),379,AD 78,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Republican),148,AD 78,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Conservative),24,AD 78,2024-11-07_14:07:14.930842
+ED   22,99.00%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   23,87.50%,Adriano Espaillat,(Democratic),382,AD 78,2024-11-07_14:07:14.930842
+ED   23,87.50%,Ruben D. Vargas,(Republican),111,AD 78,2024-11-07_14:07:14.930842
+ED   23,87.50%,Ruben D. Vargas,(Conservative),12,AD 78,2024-11-07_14:07:14.930842
+ED   23,87.50%,WRITE-IN,&nbsp,0,AD 78,2024-11-07_14:07:14.930842
+ED   26,87.50%,Adriano Espaillat,(Democratic),307,AD 78,2024-11-07_14:07:14.930842
+ED   26,87.50%,Ruben D. Vargas,(Republican),83,AD 78,2024-11-07_14:07:14.930842
+ED   26,87.50%,Ruben D. Vargas,(Conservative),9,AD 78,2024-11-07_14:07:14.930842
+ED   26,87.50%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   27,87.50%,Adriano Espaillat,(Democratic),407,AD 78,2024-11-07_14:07:14.930842
+ED   27,87.50%,Ruben D. Vargas,(Republican),140,AD 78,2024-11-07_14:07:14.930842
+ED   27,87.50%,Ruben D. Vargas,(Conservative),11,AD 78,2024-11-07_14:07:14.930842
+ED   27,87.50%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   28,99.00%,Adriano Espaillat,(Democratic),538,AD 78,2024-11-07_14:07:14.930842
+ED   28,99.00%,Ruben D. Vargas,(Republican),190,AD 78,2024-11-07_14:07:14.930842
+ED   28,99.00%,Ruben D. Vargas,(Conservative),24,AD 78,2024-11-07_14:07:14.930842
+ED   28,99.00%,WRITE-IN,&nbsp,3,AD 78,2024-11-07_14:07:14.930842
+ED   29,99.00%,Adriano Espaillat,(Democratic),491,AD 78,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Republican),195,AD 78,2024-11-07_14:07:14.930842
+ED   29,99.00%,Ruben D. Vargas,(Conservative),14,AD 78,2024-11-07_14:07:14.930842
+ED   29,99.00%,WRITE-IN,&nbsp,0,AD 78,2024-11-07_14:07:14.930842
+ED   30,99.00%,Adriano Espaillat,(Democratic),477,AD 78,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Republican),126,AD 78,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Conservative),15,AD 78,2024-11-07_14:07:14.930842
+ED   30,99.00%,WRITE-IN,&nbsp,3,AD 78,2024-11-07_14:07:14.930842
+ED   31,99.00%,Adriano Espaillat,(Democratic),256,AD 78,2024-11-07_14:07:14.930842
+ED   31,99.00%,Ruben D. Vargas,(Republican),73,AD 78,2024-11-07_14:07:14.930842
+ED   31,99.00%,Ruben D. Vargas,(Conservative),9,AD 78,2024-11-07_14:07:14.930842
+ED   31,99.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   32,99.00%,Adriano Espaillat,(Democratic),496,AD 78,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Republican),90,AD 78,2024-11-07_14:07:14.930842
+ED   32,99.00%,Ruben D. Vargas,(Conservative),2,AD 78,2024-11-07_14:07:14.930842
+ED   32,99.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   33,90.00%,Adriano Espaillat,(Democratic),374,AD 78,2024-11-07_14:07:14.930842
+ED   33,90.00%,Ruben D. Vargas,(Republican),143,AD 78,2024-11-07_14:07:14.930842
+ED   33,90.00%,Ruben D. Vargas,(Conservative),12,AD 78,2024-11-07_14:07:14.930842
+ED   33,90.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   34,90.00%,Adriano Espaillat,(Democratic),351,AD 78,2024-11-07_14:07:14.930842
+ED   34,90.00%,Ruben D. Vargas,(Republican),118,AD 78,2024-11-07_14:07:14.930842
+ED   34,90.00%,Ruben D. Vargas,(Conservative),9,AD 78,2024-11-07_14:07:14.930842
+ED   34,90.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   35,90.00%,Adriano Espaillat,(Democratic),281,AD 78,2024-11-07_14:07:14.930842
+ED   35,90.00%,Ruben D. Vargas,(Republican),136,AD 78,2024-11-07_14:07:14.930842
+ED   35,90.00%,Ruben D. Vargas,(Conservative),13,AD 78,2024-11-07_14:07:14.930842
+ED   35,90.00%,WRITE-IN,&nbsp,0,AD 78,2024-11-07_14:07:14.930842
+ED   36,99.00%,Adriano Espaillat,(Democratic),518,AD 78,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Republican),145,AD 78,2024-11-07_14:07:14.930842
+ED   36,99.00%,Ruben D. Vargas,(Conservative),18,AD 78,2024-11-07_14:07:14.930842
+ED   36,99.00%,WRITE-IN,&nbsp,5,AD 78,2024-11-07_14:07:14.930842
+ED   37,99.00%,Adriano Espaillat,(Democratic),438,AD 78,2024-11-07_14:07:14.930842
+ED   37,99.00%,Ruben D. Vargas,(Republican),152,AD 78,2024-11-07_14:07:14.930842
+ED   37,99.00%,Ruben D. Vargas,(Conservative),9,AD 78,2024-11-07_14:07:14.930842
+ED   37,99.00%,WRITE-IN,&nbsp,3,AD 78,2024-11-07_14:07:14.930842
+ED   38,90.00%,Adriano Espaillat,(Democratic),236,AD 78,2024-11-07_14:07:14.930842
+ED   38,90.00%,Ruben D. Vargas,(Republican),84,AD 78,2024-11-07_14:07:14.930842
+ED   38,90.00%,Ruben D. Vargas,(Conservative),6,AD 78,2024-11-07_14:07:14.930842
+ED   38,90.00%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   39,99.00%,Adriano Espaillat,(Democratic),411,AD 78,2024-11-07_14:07:14.930842
+ED   39,99.00%,Ruben D. Vargas,(Republican),141,AD 78,2024-11-07_14:07:14.930842
+ED   39,99.00%,Ruben D. Vargas,(Conservative),6,AD 78,2024-11-07_14:07:14.930842
+ED   39,99.00%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   40,99.00%,Adriano Espaillat,(Democratic),316,AD 78,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Republican),110,AD 78,2024-11-07_14:07:14.930842
+ED   40,99.00%,Ruben D. Vargas,(Conservative),5,AD 78,2024-11-07_14:07:14.930842
+ED   40,99.00%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   41,99.00%,Adriano Espaillat,(Democratic),351,AD 78,2024-11-07_14:07:14.930842
+ED   41,99.00%,Ruben D. Vargas,(Republican),133,AD 78,2024-11-07_14:07:14.930842
+ED   41,99.00%,Ruben D. Vargas,(Conservative),14,AD 78,2024-11-07_14:07:14.930842
+ED   41,99.00%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   42,99.00%,Adriano Espaillat,(Democratic),388,AD 78,2024-11-07_14:07:14.930842
+ED   42,99.00%,Ruben D. Vargas,(Republican),104,AD 78,2024-11-07_14:07:14.930842
+ED   42,99.00%,Ruben D. Vargas,(Conservative),4,AD 78,2024-11-07_14:07:14.930842
+ED   42,99.00%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   43,99.00%,Adriano Espaillat,(Democratic),353,AD 78,2024-11-07_14:07:14.930842
+ED   43,99.00%,Ruben D. Vargas,(Republican),177,AD 78,2024-11-07_14:07:14.930842
+ED   43,99.00%,Ruben D. Vargas,(Conservative),15,AD 78,2024-11-07_14:07:14.930842
+ED   43,99.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   44,99.00%,Adriano Espaillat,(Democratic),299,AD 78,2024-11-07_14:07:14.930842
+ED   44,99.00%,Ruben D. Vargas,(Republican),110,AD 78,2024-11-07_14:07:14.930842
+ED   44,99.00%,Ruben D. Vargas,(Conservative),11,AD 78,2024-11-07_14:07:14.930842
+ED   44,99.00%,WRITE-IN,&nbsp,0,AD 78,2024-11-07_14:07:14.930842
+ED   45,99.00%,Adriano Espaillat,(Democratic),250,AD 78,2024-11-07_14:07:14.930842
+ED   45,99.00%,Ruben D. Vargas,(Republican),86,AD 78,2024-11-07_14:07:14.930842
+ED   45,99.00%,Ruben D. Vargas,(Conservative),5,AD 78,2024-11-07_14:07:14.930842
+ED   45,99.00%,WRITE-IN,&nbsp,0,AD 78,2024-11-07_14:07:14.930842
+ED   46,99.00%,Adriano Espaillat,(Democratic),346,AD 78,2024-11-07_14:07:14.930842
+ED   46,99.00%,Ruben D. Vargas,(Republican),92,AD 78,2024-11-07_14:07:14.930842
+ED   46,99.00%,Ruben D. Vargas,(Conservative),11,AD 78,2024-11-07_14:07:14.930842
+ED   46,99.00%,WRITE-IN,&nbsp,1,AD 78,2024-11-07_14:07:14.930842
+ED   47,99.00%,Adriano Espaillat,(Democratic),375,AD 78,2024-11-07_14:07:14.930842
+ED   47,99.00%,Ruben D. Vargas,(Republican),147,AD 78,2024-11-07_14:07:14.930842
+ED   47,99.00%,Ruben D. Vargas,(Conservative),8,AD 78,2024-11-07_14:07:14.930842
+ED   47,99.00%,WRITE-IN,&nbsp,2,AD 78,2024-11-07_14:07:14.930842
+ED   50,99.00%,Adriano Espaillat,(Democratic),157,AD 78,2024-11-07_14:07:14.930842
+ED   50,99.00%,Ruben D. Vargas,(Republican),76,AD 78,2024-11-07_14:07:14.930842
+ED   50,99.00%,Ruben D. Vargas,(Conservative),6,AD 78,2024-11-07_14:07:14.930842
+ED   50,99.00%,WRITE-IN,&nbsp,0,AD 78,2024-11-07_14:07:14.930842
+ED   52,99.00%,Adriano Espaillat,(Democratic),0,AD 78,2024-11-07_14:07:14.930842
+ED   52,99.00%,Ruben D. Vargas,(Republican),0,AD 78,2024-11-07_14:07:14.930842
+ED   52,99.00%,Ruben D. Vargas,(Conservative),0,AD 78,2024-11-07_14:07:14.930842
+ED   52,99.00%,WRITE-IN,&nbsp,0,AD 78,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),11922,AD 78,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),4028,AD 78,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),356,AD 78,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,48,AD 78,2024-11-07_14:07:14.930842
+ED   25,99.00%,Adriano Espaillat,(Democratic),214,AD 80,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Republican),81,AD 80,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Conservative),8,AD 80,2024-11-07_14:07:14.930842
+ED   25,99.00%,WRITE-IN,&nbsp,0,AD 80,2024-11-07_14:07:14.930842
+ED   54,99.00%,Adriano Espaillat,(Democratic),840,AD 80,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Republican),92,AD 80,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Conservative),9,AD 80,2024-11-07_14:07:14.930842
+ED   54,99.00%,WRITE-IN,&nbsp,1,AD 80,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),1054,AD 80,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),173,AD 80,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),17,AD 80,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,1,AD 80,2024-11-07_14:07:14.930842
+ED    1,99.00%,Adriano Espaillat,(Democratic),336,AD 81,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Republican),110,AD 81,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Conservative),12,AD 81,2024-11-07_14:07:14.930842
+ED    1,99.00%,WRITE-IN,&nbsp,1,AD 81,2024-11-07_14:07:14.930842
+ED    2,99.00%,Adriano Espaillat,(Democratic),458,AD 81,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Republican),150,AD 81,2024-11-07_14:07:14.930842
+ED    2,99.00%,Ruben D. Vargas,(Conservative),16,AD 81,2024-11-07_14:07:14.930842
+ED    2,99.00%,WRITE-IN,&nbsp,1,AD 81,2024-11-07_14:07:14.930842
+ED    3,99.00%,Adriano Espaillat,(Democratic),230,AD 81,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Republican),134,AD 81,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Conservative),9,AD 81,2024-11-07_14:07:14.930842
+ED    3,99.00%,WRITE-IN,&nbsp,4,AD 81,2024-11-07_14:07:14.930842
+ED    4,99.00%,Adriano Espaillat,(Democratic),248,AD 81,2024-11-07_14:07:14.930842
+ED    4,99.00%,Ruben D. Vargas,(Republican),54,AD 81,2024-11-07_14:07:14.930842
+ED    4,99.00%,Ruben D. Vargas,(Conservative),6,AD 81,2024-11-07_14:07:14.930842
+ED    4,99.00%,WRITE-IN,&nbsp,0,AD 81,2024-11-07_14:07:14.930842
+ED    5,99.00%,Adriano Espaillat,(Democratic),266,AD 81,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Republican),103,AD 81,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Conservative),11,AD 81,2024-11-07_14:07:14.930842
+ED    5,99.00%,WRITE-IN,&nbsp,7,AD 81,2024-11-07_14:07:14.930842
+ED    6,99.00%,Adriano Espaillat,(Democratic),417,AD 81,2024-11-07_14:07:14.930842
+ED    6,99.00%,Ruben D. Vargas,(Republican),120,AD 81,2024-11-07_14:07:14.930842
+ED    6,99.00%,Ruben D. Vargas,(Conservative),11,AD 81,2024-11-07_14:07:14.930842
+ED    6,99.00%,WRITE-IN,&nbsp,2,AD 81,2024-11-07_14:07:14.930842
+ED    7,99.00%,Adriano Espaillat,(Democratic),289,AD 81,2024-11-07_14:07:14.930842
+ED    7,99.00%,Ruben D. Vargas,(Republican),75,AD 81,2024-11-07_14:07:14.930842
+ED    7,99.00%,Ruben D. Vargas,(Conservative),8,AD 81,2024-11-07_14:07:14.930842
+ED    7,99.00%,WRITE-IN,&nbsp,3,AD 81,2024-11-07_14:07:14.930842
+ED    8,99.00%,Adriano Espaillat,(Democratic),390,AD 81,2024-11-07_14:07:14.930842
+ED    8,99.00%,Ruben D. Vargas,(Republican),108,AD 81,2024-11-07_14:07:14.930842
+ED    8,99.00%,Ruben D. Vargas,(Conservative),19,AD 81,2024-11-07_14:07:14.930842
+ED    8,99.00%,WRITE-IN,&nbsp,5,AD 81,2024-11-07_14:07:14.930842
+ED    9,99.00%,Adriano Espaillat,(Democratic),314,AD 81,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Republican),118,AD 81,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Conservative),11,AD 81,2024-11-07_14:07:14.930842
+ED    9,99.00%,WRITE-IN,&nbsp,1,AD 81,2024-11-07_14:07:14.930842
+ED   10,99.00%,Adriano Espaillat,(Democratic),469,AD 81,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Republican),197,AD 81,2024-11-07_14:07:14.930842
+ED   10,99.00%,Ruben D. Vargas,(Conservative),23,AD 81,2024-11-07_14:07:14.930842
+ED   10,99.00%,WRITE-IN,&nbsp,3,AD 81,2024-11-07_14:07:14.930842
+ED   11,99.00%,Adriano Espaillat,(Democratic),640,AD 81,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Republican),205,AD 81,2024-11-07_14:07:14.930842
+ED   11,99.00%,Ruben D. Vargas,(Conservative),20,AD 81,2024-11-07_14:07:14.930842
+ED   11,99.00%,WRITE-IN,&nbsp,7,AD 81,2024-11-07_14:07:14.930842
+ED   53,99.00%,Adriano Espaillat,(Democratic),472,AD 81,2024-11-07_14:07:14.930842
+ED   53,99.00%,Ruben D. Vargas,(Republican),197,AD 81,2024-11-07_14:07:14.930842
+ED   53,99.00%,Ruben D. Vargas,(Conservative),26,AD 81,2024-11-07_14:07:14.930842
+ED   53,99.00%,WRITE-IN,&nbsp,12,AD 81,2024-11-07_14:07:14.930842
+ED   54,99.00%,Adriano Espaillat,(Democratic),662,AD 81,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Republican),206,AD 81,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Conservative),18,AD 81,2024-11-07_14:07:14.930842
+ED   54,99.00%,WRITE-IN,&nbsp,6,AD 81,2024-11-07_14:07:14.930842
+ED   55,99.00%,Adriano Espaillat,(Democratic),157,AD 81,2024-11-07_14:07:14.930842
+ED   55,99.00%,Ruben D. Vargas,(Republican),42,AD 81,2024-11-07_14:07:14.930842
+ED   55,99.00%,Ruben D. Vargas,(Conservative),6,AD 81,2024-11-07_14:07:14.930842
+ED   55,99.00%,WRITE-IN,&nbsp,1,AD 81,2024-11-07_14:07:14.930842
+ED   56,99.00%,Adriano Espaillat,(Democratic),347,AD 81,2024-11-07_14:07:14.930842
+ED   56,99.00%,Ruben D. Vargas,(Republican),91,AD 81,2024-11-07_14:07:14.930842
+ED   56,99.00%,Ruben D. Vargas,(Conservative),21,AD 81,2024-11-07_14:07:14.930842
+ED   56,99.00%,WRITE-IN,&nbsp,4,AD 81,2024-11-07_14:07:14.930842
+ED   63,99.00%,Adriano Espaillat,(Democratic),1,AD 81,2024-11-07_14:07:14.930842
+ED   63,99.00%,Ruben D. Vargas,(Republican),0,AD 81,2024-11-07_14:07:14.930842
+ED   63,99.00%,Ruben D. Vargas,(Conservative),0,AD 81,2024-11-07_14:07:14.930842
+ED   63,99.00%,WRITE-IN,&nbsp,0,AD 81,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),5696,AD 81,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),1910,AD 81,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),217,AD 81,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,57,AD 81,2024-11-07_14:07:14.930842
+ED    1,99.00%,Adriano Espaillat,(Democratic),349,AD 86,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Republican),107,AD 86,2024-11-07_14:07:14.930842
+ED    1,99.00%,Ruben D. Vargas,(Conservative),5,AD 86,2024-11-07_14:07:14.930842
+ED    1,99.00%,WRITE-IN,&nbsp,1,AD 86,2024-11-07_14:07:14.930842
+ED    3,99.00%,Adriano Espaillat,(Democratic),50,AD 86,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Republican),10,AD 86,2024-11-07_14:07:14.930842
+ED    3,99.00%,Ruben D. Vargas,(Conservative),0,AD 86,2024-11-07_14:07:14.930842
+ED    3,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED    4,99.00%,Adriano Espaillat,(Democratic),345,AD 86,2024-11-07_14:07:14.930842
+ED    4,99.00%,Ruben D. Vargas,(Republican),100,AD 86,2024-11-07_14:07:14.930842
+ED    4,99.00%,Ruben D. Vargas,(Conservative),6,AD 86,2024-11-07_14:07:14.930842
+ED    4,99.00%,WRITE-IN,&nbsp,2,AD 86,2024-11-07_14:07:14.930842
+ED    5,99.00%,Adriano Espaillat,(Democratic),350,AD 86,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Republican),128,AD 86,2024-11-07_14:07:14.930842
+ED    5,99.00%,Ruben D. Vargas,(Conservative),8,AD 86,2024-11-07_14:07:14.930842
+ED    5,99.00%,WRITE-IN,&nbsp,2,AD 86,2024-11-07_14:07:14.930842
+ED    6,99.00%,Adriano Espaillat,(Democratic),319,AD 86,2024-11-07_14:07:14.930842
+ED    6,99.00%,Ruben D. Vargas,(Republican),120,AD 86,2024-11-07_14:07:14.930842
+ED    6,99.00%,Ruben D. Vargas,(Conservative),9,AD 86,2024-11-07_14:07:14.930842
+ED    6,99.00%,WRITE-IN,&nbsp,2,AD 86,2024-11-07_14:07:14.930842
+ED    7,99.00%,Adriano Espaillat,(Democratic),446,AD 86,2024-11-07_14:07:14.930842
+ED    7,99.00%,Ruben D. Vargas,(Republican),158,AD 86,2024-11-07_14:07:14.930842
+ED    7,99.00%,Ruben D. Vargas,(Conservative),13,AD 86,2024-11-07_14:07:14.930842
+ED    7,99.00%,WRITE-IN,&nbsp,6,AD 86,2024-11-07_14:07:14.930842
+ED    8,99.00%,Adriano Espaillat,(Democratic),327,AD 86,2024-11-07_14:07:14.930842
+ED    8,99.00%,Ruben D. Vargas,(Republican),125,AD 86,2024-11-07_14:07:14.930842
+ED    8,99.00%,Ruben D. Vargas,(Conservative),7,AD 86,2024-11-07_14:07:14.930842
+ED    8,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED    9,99.00%,Adriano Espaillat,(Democratic),486,AD 86,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Republican),168,AD 86,2024-11-07_14:07:14.930842
+ED    9,99.00%,Ruben D. Vargas,(Conservative),14,AD 86,2024-11-07_14:07:14.930842
+ED    9,99.00%,WRITE-IN,&nbsp,1,AD 86,2024-11-07_14:07:14.930842
+ED   15,99.00%,Adriano Espaillat,(Democratic),245,AD 86,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Republican),67,AD 86,2024-11-07_14:07:14.930842
+ED   15,99.00%,Ruben D. Vargas,(Conservative),7,AD 86,2024-11-07_14:07:14.930842
+ED   15,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   16,99.00%,Adriano Espaillat,(Democratic),411,AD 86,2024-11-07_14:07:14.930842
+ED   16,99.00%,Ruben D. Vargas,(Republican),149,AD 86,2024-11-07_14:07:14.930842
+ED   16,99.00%,Ruben D. Vargas,(Conservative),11,AD 86,2024-11-07_14:07:14.930842
+ED   16,99.00%,WRITE-IN,&nbsp,6,AD 86,2024-11-07_14:07:14.930842
+ED   17,99.00%,Adriano Espaillat,(Democratic),284,AD 86,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Republican),87,AD 86,2024-11-07_14:07:14.930842
+ED   17,99.00%,Ruben D. Vargas,(Conservative),5,AD 86,2024-11-07_14:07:14.930842
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   18,99.00%,Adriano Espaillat,(Democratic),361,AD 86,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Republican),132,AD 86,2024-11-07_14:07:14.930842
+ED   18,99.00%,Ruben D. Vargas,(Conservative),14,AD 86,2024-11-07_14:07:14.930842
+ED   18,99.00%,WRITE-IN,&nbsp,1,AD 86,2024-11-07_14:07:14.930842
+ED   19,99.00%,Adriano Espaillat,(Democratic),327,AD 86,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Republican),109,AD 86,2024-11-07_14:07:14.930842
+ED   19,99.00%,Ruben D. Vargas,(Conservative),10,AD 86,2024-11-07_14:07:14.930842
+ED   19,99.00%,WRITE-IN,&nbsp,2,AD 86,2024-11-07_14:07:14.930842
+ED   20,99.00%,Adriano Espaillat,(Democratic),299,AD 86,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Republican),112,AD 86,2024-11-07_14:07:14.930842
+ED   20,99.00%,Ruben D. Vargas,(Conservative),5,AD 86,2024-11-07_14:07:14.930842
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   21,99.00%,Adriano Espaillat,(Democratic),333,AD 86,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Republican),141,AD 86,2024-11-07_14:07:14.930842
+ED   21,99.00%,Ruben D. Vargas,(Conservative),15,AD 86,2024-11-07_14:07:14.930842
+ED   21,99.00%,WRITE-IN,&nbsp,1,AD 86,2024-11-07_14:07:14.930842
+ED   22,99.00%,Adriano Espaillat,(Democratic),300,AD 86,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Republican),86,AD 86,2024-11-07_14:07:14.930842
+ED   22,99.00%,Ruben D. Vargas,(Conservative),9,AD 86,2024-11-07_14:07:14.930842
+ED   22,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   23,99.00%,Adriano Espaillat,(Democratic),301,AD 86,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Republican),105,AD 86,2024-11-07_14:07:14.930842
+ED   23,99.00%,Ruben D. Vargas,(Conservative),5,AD 86,2024-11-07_14:07:14.930842
+ED   23,99.00%,WRITE-IN,&nbsp,2,AD 86,2024-11-07_14:07:14.930842
+ED   24,99.00%,Adriano Espaillat,(Democratic),254,AD 86,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Republican),126,AD 86,2024-11-07_14:07:14.930842
+ED   24,99.00%,Ruben D. Vargas,(Conservative),11,AD 86,2024-11-07_14:07:14.930842
+ED   24,99.00%,WRITE-IN,&nbsp,1,AD 86,2024-11-07_14:07:14.930842
+ED   25,99.00%,Adriano Espaillat,(Democratic),241,AD 86,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Republican),136,AD 86,2024-11-07_14:07:14.930842
+ED   25,99.00%,Ruben D. Vargas,(Conservative),13,AD 86,2024-11-07_14:07:14.930842
+ED   25,99.00%,WRITE-IN,&nbsp,1,AD 86,2024-11-07_14:07:14.930842
+ED   26,90.00%,Adriano Espaillat,(Democratic),358,AD 86,2024-11-07_14:07:14.930842
+ED   26,90.00%,Ruben D. Vargas,(Republican),129,AD 86,2024-11-07_14:07:14.930842
+ED   26,90.00%,Ruben D. Vargas,(Conservative),12,AD 86,2024-11-07_14:07:14.930842
+ED   26,90.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   27,90.00%,Adriano Espaillat,(Democratic),265,AD 86,2024-11-07_14:07:14.930842
+ED   27,90.00%,Ruben D. Vargas,(Republican),94,AD 86,2024-11-07_14:07:14.930842
+ED   27,90.00%,Ruben D. Vargas,(Conservative),7,AD 86,2024-11-07_14:07:14.930842
+ED   27,90.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   28,90.00%,Adriano Espaillat,(Democratic),263,AD 86,2024-11-07_14:07:14.930842
+ED   28,90.00%,Ruben D. Vargas,(Republican),82,AD 86,2024-11-07_14:07:14.930842
+ED   28,90.00%,Ruben D. Vargas,(Conservative),11,AD 86,2024-11-07_14:07:14.930842
+ED   28,90.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   29,90.00%,Adriano Espaillat,(Democratic),252,AD 86,2024-11-07_14:07:14.930842
+ED   29,90.00%,Ruben D. Vargas,(Republican),88,AD 86,2024-11-07_14:07:14.930842
+ED   29,90.00%,Ruben D. Vargas,(Conservative),8,AD 86,2024-11-07_14:07:14.930842
+ED   29,90.00%,WRITE-IN,&nbsp,1,AD 86,2024-11-07_14:07:14.930842
+ED   30,99.00%,Adriano Espaillat,(Democratic),361,AD 86,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Republican),154,AD 86,2024-11-07_14:07:14.930842
+ED   30,99.00%,Ruben D. Vargas,(Conservative),16,AD 86,2024-11-07_14:07:14.930842
+ED   30,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   33,99.00%,Adriano Espaillat,(Democratic),443,AD 86,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Republican),151,AD 86,2024-11-07_14:07:14.930842
+ED   33,99.00%,Ruben D. Vargas,(Conservative),17,AD 86,2024-11-07_14:07:14.930842
+ED   33,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+ED   54,99.00%,Adriano Espaillat,(Democratic),0,AD 86,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Republican),0,AD 86,2024-11-07_14:07:14.930842
+ED   54,99.00%,Ruben D. Vargas,(Conservative),0,AD 86,2024-11-07_14:07:14.930842
+ED   54,99.00%,WRITE-IN,&nbsp,0,AD 86,2024-11-07_14:07:14.930842
+Total,,Adriano Espaillat,(Democratic),7970,AD 86,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Republican),2864,AD 86,2024-11-07_14:07:14.930842
+Total,,Ruben D. Vargas,(Conservative),238,AD 86,2024-11-07_14:07:14.930842
+Total,,WRITE-IN,&nbsp,29,AD 86,2024-11-07_14:07:14.930842

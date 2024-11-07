@@ -20,7 +20,7 @@ prez_page <- read_page_results(prez_url)
 process_results_table <- function(page_tables) {
   results_table <- page_tables %>% .[3] %>% html_table(fill = F) %>% as.data.frame()
   new_colnames <- paste(results_table[1, ], results_table[2, ], sep = "_")
-  if("Queens" %in% results_table[[1]]) {
+  if(any(c("New York", "Queens", "Kings", "Richmond", "Bronx") %in% results_table[[1]])) {
     new_colnames[1] <- "boro"
   } else if("AD" %in% str_sub(results_table[[1]],1,2)) {
     new_colnames[1] <- "AD_num"
