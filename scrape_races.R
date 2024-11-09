@@ -176,3 +176,7 @@ walk2(race_ads$race, race_ads$link, ~scrape_race(.x,.y))
 
 
 
+
+
+
+
