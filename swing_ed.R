@@ -15,7 +15,7 @@ twenty20_clean <- twenty20 %>%
   filter(str_detect(`X21`, "Joseph R. Biden|Donald J. Trump")) %>% 
   separate(`X21`, sep = " \\(", into = c("candidate", "party")) %>% 
   group_by(candidate, ed_code) %>% 
-  summarize(votes20 = sum(`X22`)) %>% 
+  summarize(votes20 = sum(`X22`, na.rm=T)) %>% 
   pivot_wider(names_from = "candidate", values_from = "votes20") %>% 
   mutate(
     total = `Joseph R. Biden / Kamala D. Harris` + `Donald J. Trump / Michael R. Pence`,
@@ -29,7 +29,7 @@ prez_24_clean <- prez_24 %>%
          ad_num = str_pad(str_extract(ad_num, "\\d+"), width = 3, side = "left", pad = "0"),
          ed_code = paste0(ad_num, ed_num)) %>% 
   group_by(ed_code, candidate, ed_num, ad_num) %>% 
-  summarize(votes = sum(votes)) %>% 
+  summarize(votes = sum(votes, na.rm = T)) %>% 
   filter(candidate != "WRITE-IN") %>% 
   pivot_wider(names_from = "candidate", values_from = "votes") %>% 
   mutate(
@@ -51,6 +51,10 @@ swing_nyc_map_data <- eds_results %>%
 
 write_csv(swing_nyc_map_data, "analysis/swing_map.csv")
 
-
+ggplot(eds_results)+
+  geom_sf(mapping = aes(fill = two_party_swing_r), color = NA)+
+  scale_fill_gradient2(low = "blue", mid = "beige", high = "red", name = "Swing to Trump\n(percentage point)", na.value = "lightgray")+
+  labs(caption = "Note: Percentage point change in two party vote share 2020-2024")+
+  theme_void()
 
 
