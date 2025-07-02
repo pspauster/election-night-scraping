@@ -1,0 +1,666 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED   71,80.00%,Vanessa Aronson,(Democratic),0,AD 37,2025-07-02_13:53:26.456354
+ED   71,80.00%,Lukas Florczak,(Democratic),0,AD 37,2025-07-02_13:53:26.456354
+ED   71,80.00%,Benjamin D. Wetzler,(Democratic),0,AD 37,2025-07-02_13:53:26.456354
+ED   71,80.00%,Rachel J. Storch,(Democratic),0,AD 37,2025-07-02_13:53:26.456354
+ED   71,80.00%,Faith A. Bondy,(Democratic),0,AD 37,2025-07-02_13:53:26.456354
+ED   71,80.00%,Virginia Maloney,(Democratic),0,AD 37,2025-07-02_13:53:26.456354
+ED   71,80.00%,WRITE-IN,&nbsp,0,AD 37,2025-07-02_13:53:26.456354
+Total,,Vanessa Aronson,(Democratic),-,AD 37,2025-07-02_13:53:26.456354
+Total,,Lukas Florczak,(Democratic),-,AD 37,2025-07-02_13:53:26.456354
+Total,,Benjamin D. Wetzler,(Democratic),-,AD 37,2025-07-02_13:53:26.456354
+Total,,Rachel J. Storch,(Democratic),-,AD 37,2025-07-02_13:53:26.456354
+Total,,Faith A. Bondy,(Democratic),-,AD 37,2025-07-02_13:53:26.456354
+Total,,Virginia Maloney,(Democratic),-,AD 37,2025-07-02_13:53:26.456354
+Total,,WRITE-IN,&nbsp,-,AD 37,2025-07-02_13:53:26.456354
+ED    1,40.00%,Vanessa Aronson,(Democratic),58,AD 73,2025-07-02_13:53:26.456354
+ED    1,40.00%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED    1,40.00%,Benjamin D. Wetzler,(Democratic),29,AD 73,2025-07-02_13:53:26.456354
+ED    1,40.00%,Rachel J. Storch,(Democratic),29,AD 73,2025-07-02_13:53:26.456354
+ED    1,40.00%,Faith A. Bondy,(Democratic),11,AD 73,2025-07-02_13:53:26.456354
+ED    1,40.00%,Virginia Maloney,(Democratic),53,AD 73,2025-07-02_13:53:26.456354
+ED    1,40.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED    2,40.00%,Vanessa Aronson,(Democratic),13,AD 73,2025-07-02_13:53:26.456354
+ED    2,40.00%,Lukas Florczak,(Democratic),1,AD 73,2025-07-02_13:53:26.456354
+ED    2,40.00%,Benjamin D. Wetzler,(Democratic),11,AD 73,2025-07-02_13:53:26.456354
+ED    2,40.00%,Rachel J. Storch,(Democratic),13,AD 73,2025-07-02_13:53:26.456354
+ED    2,40.00%,Faith A. Bondy,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED    2,40.00%,Virginia Maloney,(Democratic),14,AD 73,2025-07-02_13:53:26.456354
+ED    2,40.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED    3,99.00%,Vanessa Aronson,(Democratic),85,AD 73,2025-07-02_13:53:26.456354
+ED    3,99.00%,Lukas Florczak,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED    3,99.00%,Benjamin D. Wetzler,(Democratic),45,AD 73,2025-07-02_13:53:26.456354
+ED    3,99.00%,Rachel J. Storch,(Democratic),65,AD 73,2025-07-02_13:53:26.456354
+ED    3,99.00%,Faith A. Bondy,(Democratic),16,AD 73,2025-07-02_13:53:26.456354
+ED    3,99.00%,Virginia Maloney,(Democratic),63,AD 73,2025-07-02_13:53:26.456354
+ED    3,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED    4,99.00%,Vanessa Aronson,(Democratic),140,AD 73,2025-07-02_13:53:26.456354
+ED    4,99.00%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED    4,99.00%,Benjamin D. Wetzler,(Democratic),65,AD 73,2025-07-02_13:53:26.456354
+ED    4,99.00%,Rachel J. Storch,(Democratic),69,AD 73,2025-07-02_13:53:26.456354
+ED    4,99.00%,Faith A. Bondy,(Democratic),36,AD 73,2025-07-02_13:53:26.456354
+ED    4,99.00%,Virginia Maloney,(Democratic),80,AD 73,2025-07-02_13:53:26.456354
+ED    4,99.00%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED    5,99.00%,Vanessa Aronson,(Democratic),76,AD 73,2025-07-02_13:53:26.456354
+ED    5,99.00%,Lukas Florczak,(Democratic),3,AD 73,2025-07-02_13:53:26.456354
+ED    5,99.00%,Benjamin D. Wetzler,(Democratic),16,AD 73,2025-07-02_13:53:26.456354
+ED    5,99.00%,Rachel J. Storch,(Democratic),39,AD 73,2025-07-02_13:53:26.456354
+ED    5,99.00%,Faith A. Bondy,(Democratic),19,AD 73,2025-07-02_13:53:26.456354
+ED    5,99.00%,Virginia Maloney,(Democratic),54,AD 73,2025-07-02_13:53:26.456354
+ED    5,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED    6,99.00%,Vanessa Aronson,(Democratic),83,AD 73,2025-07-02_13:53:26.456354
+ED    6,99.00%,Lukas Florczak,(Democratic),6,AD 73,2025-07-02_13:53:26.456354
+ED    6,99.00%,Benjamin D. Wetzler,(Democratic),41,AD 73,2025-07-02_13:53:26.456354
+ED    6,99.00%,Rachel J. Storch,(Democratic),78,AD 73,2025-07-02_13:53:26.456354
+ED    6,99.00%,Faith A. Bondy,(Democratic),24,AD 73,2025-07-02_13:53:26.456354
+ED    6,99.00%,Virginia Maloney,(Democratic),92,AD 73,2025-07-02_13:53:26.456354
+ED    6,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED    7,99.00%,Vanessa Aronson,(Democratic),87,AD 73,2025-07-02_13:53:26.456354
+ED    7,99.00%,Lukas Florczak,(Democratic),8,AD 73,2025-07-02_13:53:26.456354
+ED    7,99.00%,Benjamin D. Wetzler,(Democratic),32,AD 73,2025-07-02_13:53:26.456354
+ED    7,99.00%,Rachel J. Storch,(Democratic),45,AD 73,2025-07-02_13:53:26.456354
+ED    7,99.00%,Faith A. Bondy,(Democratic),16,AD 73,2025-07-02_13:53:26.456354
+ED    7,99.00%,Virginia Maloney,(Democratic),66,AD 73,2025-07-02_13:53:26.456354
+ED    7,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED    8,99.00%,Vanessa Aronson,(Democratic),14,AD 73,2025-07-02_13:53:26.456354
+ED    8,99.00%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED    8,99.00%,Benjamin D. Wetzler,(Democratic),23,AD 73,2025-07-02_13:53:26.456354
+ED    8,99.00%,Rachel J. Storch,(Democratic),20,AD 73,2025-07-02_13:53:26.456354
+ED    8,99.00%,Faith A. Bondy,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED    8,99.00%,Virginia Maloney,(Democratic),21,AD 73,2025-07-02_13:53:26.456354
+ED    8,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED    9,99.00%,Vanessa Aronson,(Democratic),35,AD 73,2025-07-02_13:53:26.456354
+ED    9,99.00%,Lukas Florczak,(Democratic),8,AD 73,2025-07-02_13:53:26.456354
+ED    9,99.00%,Benjamin D. Wetzler,(Democratic),16,AD 73,2025-07-02_13:53:26.456354
+ED    9,99.00%,Rachel J. Storch,(Democratic),34,AD 73,2025-07-02_13:53:26.456354
+ED    9,99.00%,Faith A. Bondy,(Democratic),15,AD 73,2025-07-02_13:53:26.456354
+ED    9,99.00%,Virginia Maloney,(Democratic),58,AD 73,2025-07-02_13:53:26.456354
+ED    9,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   10,99.00%,Vanessa Aronson,(Democratic),22,AD 73,2025-07-02_13:53:26.456354
+ED   10,99.00%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   10,99.00%,Benjamin D. Wetzler,(Democratic),12,AD 73,2025-07-02_13:53:26.456354
+ED   10,99.00%,Rachel J. Storch,(Democratic),30,AD 73,2025-07-02_13:53:26.456354
+ED   10,99.00%,Faith A. Bondy,(Democratic),11,AD 73,2025-07-02_13:53:26.456354
+ED   10,99.00%,Virginia Maloney,(Democratic),34,AD 73,2025-07-02_13:53:26.456354
+ED   10,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   11,99.00%,Vanessa Aronson,(Democratic),47,AD 73,2025-07-02_13:53:26.456354
+ED   11,99.00%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   11,99.00%,Benjamin D. Wetzler,(Democratic),34,AD 73,2025-07-02_13:53:26.456354
+ED   11,99.00%,Rachel J. Storch,(Democratic),71,AD 73,2025-07-02_13:53:26.456354
+ED   11,99.00%,Faith A. Bondy,(Democratic),17,AD 73,2025-07-02_13:53:26.456354
+ED   11,99.00%,Virginia Maloney,(Democratic),79,AD 73,2025-07-02_13:53:26.456354
+ED   11,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   12,99.00%,Vanessa Aronson,(Democratic),127,AD 73,2025-07-02_13:53:26.456354
+ED   12,99.00%,Lukas Florczak,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED   12,99.00%,Benjamin D. Wetzler,(Democratic),63,AD 73,2025-07-02_13:53:26.456354
+ED   12,99.00%,Rachel J. Storch,(Democratic),52,AD 73,2025-07-02_13:53:26.456354
+ED   12,99.00%,Faith A. Bondy,(Democratic),40,AD 73,2025-07-02_13:53:26.456354
+ED   12,99.00%,Virginia Maloney,(Democratic),126,AD 73,2025-07-02_13:53:26.456354
+ED   12,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   13,99.00%,Vanessa Aronson,(Democratic),93,AD 73,2025-07-02_13:53:26.456354
+ED   13,99.00%,Lukas Florczak,(Democratic),6,AD 73,2025-07-02_13:53:26.456354
+ED   13,99.00%,Benjamin D. Wetzler,(Democratic),60,AD 73,2025-07-02_13:53:26.456354
+ED   13,99.00%,Rachel J. Storch,(Democratic),74,AD 73,2025-07-02_13:53:26.456354
+ED   13,99.00%,Faith A. Bondy,(Democratic),26,AD 73,2025-07-02_13:53:26.456354
+ED   13,99.00%,Virginia Maloney,(Democratic),120,AD 73,2025-07-02_13:53:26.456354
+ED   13,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   14,99.00%,Vanessa Aronson,(Democratic),64,AD 73,2025-07-02_13:53:26.456354
+ED   14,99.00%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   14,99.00%,Benjamin D. Wetzler,(Democratic),34,AD 73,2025-07-02_13:53:26.456354
+ED   14,99.00%,Rachel J. Storch,(Democratic),38,AD 73,2025-07-02_13:53:26.456354
+ED   14,99.00%,Faith A. Bondy,(Democratic),15,AD 73,2025-07-02_13:53:26.456354
+ED   14,99.00%,Virginia Maloney,(Democratic),44,AD 73,2025-07-02_13:53:26.456354
+ED   14,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   15,99.00%,Vanessa Aronson,(Democratic),98,AD 73,2025-07-02_13:53:26.456354
+ED   15,99.00%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   15,99.00%,Benjamin D. Wetzler,(Democratic),42,AD 73,2025-07-02_13:53:26.456354
+ED   15,99.00%,Rachel J. Storch,(Democratic),61,AD 73,2025-07-02_13:53:26.456354
+ED   15,99.00%,Faith A. Bondy,(Democratic),33,AD 73,2025-07-02_13:53:26.456354
+ED   15,99.00%,Virginia Maloney,(Democratic),68,AD 73,2025-07-02_13:53:26.456354
+ED   15,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   16,99.00%,Vanessa Aronson,(Democratic),80,AD 73,2025-07-02_13:53:26.456354
+ED   16,99.00%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   16,99.00%,Benjamin D. Wetzler,(Democratic),57,AD 73,2025-07-02_13:53:26.456354
+ED   16,99.00%,Rachel J. Storch,(Democratic),40,AD 73,2025-07-02_13:53:26.456354
+ED   16,99.00%,Faith A. Bondy,(Democratic),16,AD 73,2025-07-02_13:53:26.456354
+ED   16,99.00%,Virginia Maloney,(Democratic),72,AD 73,2025-07-02_13:53:26.456354
+ED   16,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   17,99.00%,Vanessa Aronson,(Democratic),88,AD 73,2025-07-02_13:53:26.456354
+ED   17,99.00%,Lukas Florczak,(Democratic),6,AD 73,2025-07-02_13:53:26.456354
+ED   17,99.00%,Benjamin D. Wetzler,(Democratic),37,AD 73,2025-07-02_13:53:26.456354
+ED   17,99.00%,Rachel J. Storch,(Democratic),67,AD 73,2025-07-02_13:53:26.456354
+ED   17,99.00%,Faith A. Bondy,(Democratic),31,AD 73,2025-07-02_13:53:26.456354
+ED   17,99.00%,Virginia Maloney,(Democratic),79,AD 73,2025-07-02_13:53:26.456354
+ED   17,99.00%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED   18,99.00%,Vanessa Aronson,(Democratic),17,AD 73,2025-07-02_13:53:26.456354
+ED   18,99.00%,Lukas Florczak,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   18,99.00%,Benjamin D. Wetzler,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   18,99.00%,Rachel J. Storch,(Democratic),25,AD 73,2025-07-02_13:53:26.456354
+ED   18,99.00%,Faith A. Bondy,(Democratic),13,AD 73,2025-07-02_13:53:26.456354
+ED   18,99.00%,Virginia Maloney,(Democratic),36,AD 73,2025-07-02_13:53:26.456354
+ED   18,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   19,99.00%,Vanessa Aronson,(Democratic),105,AD 73,2025-07-02_13:53:26.456354
+ED   19,99.00%,Lukas Florczak,(Democratic),9,AD 73,2025-07-02_13:53:26.456354
+ED   19,99.00%,Benjamin D. Wetzler,(Democratic),46,AD 73,2025-07-02_13:53:26.456354
+ED   19,99.00%,Rachel J. Storch,(Democratic),84,AD 73,2025-07-02_13:53:26.456354
+ED   19,99.00%,Faith A. Bondy,(Democratic),44,AD 73,2025-07-02_13:53:26.456354
+ED   19,99.00%,Virginia Maloney,(Democratic),119,AD 73,2025-07-02_13:53:26.456354
+ED   19,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   20,99.00%,Vanessa Aronson,(Democratic),96,AD 73,2025-07-02_13:53:26.456354
+ED   20,99.00%,Lukas Florczak,(Democratic),11,AD 73,2025-07-02_13:53:26.456354
+ED   20,99.00%,Benjamin D. Wetzler,(Democratic),50,AD 73,2025-07-02_13:53:26.456354
+ED   20,99.00%,Rachel J. Storch,(Democratic),102,AD 73,2025-07-02_13:53:26.456354
+ED   20,99.00%,Faith A. Bondy,(Democratic),88,AD 73,2025-07-02_13:53:26.456354
+ED   20,99.00%,Virginia Maloney,(Democratic),129,AD 73,2025-07-02_13:53:26.456354
+ED   20,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   21,99.00%,Vanessa Aronson,(Democratic),103,AD 73,2025-07-02_13:53:26.456354
+ED   21,99.00%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   21,99.00%,Benjamin D. Wetzler,(Democratic),49,AD 73,2025-07-02_13:53:26.456354
+ED   21,99.00%,Rachel J. Storch,(Democratic),36,AD 73,2025-07-02_13:53:26.456354
+ED   21,99.00%,Faith A. Bondy,(Democratic),26,AD 73,2025-07-02_13:53:26.456354
+ED   21,99.00%,Virginia Maloney,(Democratic),87,AD 73,2025-07-02_13:53:26.456354
+ED   21,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   22,99.00%,Vanessa Aronson,(Democratic),50,AD 73,2025-07-02_13:53:26.456354
+ED   22,99.00%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   22,99.00%,Benjamin D. Wetzler,(Democratic),22,AD 73,2025-07-02_13:53:26.456354
+ED   22,99.00%,Rachel J. Storch,(Democratic),102,AD 73,2025-07-02_13:53:26.456354
+ED   22,99.00%,Faith A. Bondy,(Democratic),59,AD 73,2025-07-02_13:53:26.456354
+ED   22,99.00%,Virginia Maloney,(Democratic),60,AD 73,2025-07-02_13:53:26.456354
+ED   22,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   23,99.00%,Vanessa Aronson,(Democratic),54,AD 73,2025-07-02_13:53:26.456354
+ED   23,99.00%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   23,99.00%,Benjamin D. Wetzler,(Democratic),32,AD 73,2025-07-02_13:53:26.456354
+ED   23,99.00%,Rachel J. Storch,(Democratic),77,AD 73,2025-07-02_13:53:26.456354
+ED   23,99.00%,Faith A. Bondy,(Democratic),81,AD 73,2025-07-02_13:53:26.456354
+ED   23,99.00%,Virginia Maloney,(Democratic),89,AD 73,2025-07-02_13:53:26.456354
+ED   23,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   24,99.00%,Vanessa Aronson,(Democratic),76,AD 73,2025-07-02_13:53:26.456354
+ED   24,99.00%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   24,99.00%,Benjamin D. Wetzler,(Democratic),34,AD 73,2025-07-02_13:53:26.456354
+ED   24,99.00%,Rachel J. Storch,(Democratic),47,AD 73,2025-07-02_13:53:26.456354
+ED   24,99.00%,Faith A. Bondy,(Democratic),26,AD 73,2025-07-02_13:53:26.456354
+ED   24,99.00%,Virginia Maloney,(Democratic),65,AD 73,2025-07-02_13:53:26.456354
+ED   24,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   25,99.00%,Vanessa Aronson,(Democratic),88,AD 73,2025-07-02_13:53:26.456354
+ED   25,99.00%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   25,99.00%,Benjamin D. Wetzler,(Democratic),49,AD 73,2025-07-02_13:53:26.456354
+ED   25,99.00%,Rachel J. Storch,(Democratic),87,AD 73,2025-07-02_13:53:26.456354
+ED   25,99.00%,Faith A. Bondy,(Democratic),48,AD 73,2025-07-02_13:53:26.456354
+ED   25,99.00%,Virginia Maloney,(Democratic),88,AD 73,2025-07-02_13:53:26.456354
+ED   25,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   26,99.00%,Vanessa Aronson,(Democratic),70,AD 73,2025-07-02_13:53:26.456354
+ED   26,99.00%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   26,99.00%,Benjamin D. Wetzler,(Democratic),27,AD 73,2025-07-02_13:53:26.456354
+ED   26,99.00%,Rachel J. Storch,(Democratic),66,AD 73,2025-07-02_13:53:26.456354
+ED   26,99.00%,Faith A. Bondy,(Democratic),37,AD 73,2025-07-02_13:53:26.456354
+ED   26,99.00%,Virginia Maloney,(Democratic),65,AD 73,2025-07-02_13:53:26.456354
+ED   26,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   27,99.00%,Vanessa Aronson,(Democratic),89,AD 73,2025-07-02_13:53:26.456354
+ED   27,99.00%,Lukas Florczak,(Democratic),9,AD 73,2025-07-02_13:53:26.456354
+ED   27,99.00%,Benjamin D. Wetzler,(Democratic),40,AD 73,2025-07-02_13:53:26.456354
+ED   27,99.00%,Rachel J. Storch,(Democratic),82,AD 73,2025-07-02_13:53:26.456354
+ED   27,99.00%,Faith A. Bondy,(Democratic),47,AD 73,2025-07-02_13:53:26.456354
+ED   27,99.00%,Virginia Maloney,(Democratic),87,AD 73,2025-07-02_13:53:26.456354
+ED   27,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   28,99.00%,Vanessa Aronson,(Democratic),47,AD 73,2025-07-02_13:53:26.456354
+ED   28,99.00%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   28,99.00%,Benjamin D. Wetzler,(Democratic),35,AD 73,2025-07-02_13:53:26.456354
+ED   28,99.00%,Rachel J. Storch,(Democratic),68,AD 73,2025-07-02_13:53:26.456354
+ED   28,99.00%,Faith A. Bondy,(Democratic),32,AD 73,2025-07-02_13:53:26.456354
+ED   28,99.00%,Virginia Maloney,(Democratic),68,AD 73,2025-07-02_13:53:26.456354
+ED   28,99.00%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED   29,99.00%,Vanessa Aronson,(Democratic),51,AD 73,2025-07-02_13:53:26.456354
+ED   29,99.00%,Lukas Florczak,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED   29,99.00%,Benjamin D. Wetzler,(Democratic),33,AD 73,2025-07-02_13:53:26.456354
+ED   29,99.00%,Rachel J. Storch,(Democratic),79,AD 73,2025-07-02_13:53:26.456354
+ED   29,99.00%,Faith A. Bondy,(Democratic),81,AD 73,2025-07-02_13:53:26.456354
+ED   29,99.00%,Virginia Maloney,(Democratic),86,AD 73,2025-07-02_13:53:26.456354
+ED   29,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   30,99.00%,Vanessa Aronson,(Democratic),101,AD 73,2025-07-02_13:53:26.456354
+ED   30,99.00%,Lukas Florczak,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED   30,99.00%,Benjamin D. Wetzler,(Democratic),62,AD 73,2025-07-02_13:53:26.456354
+ED   30,99.00%,Rachel J. Storch,(Democratic),94,AD 73,2025-07-02_13:53:26.456354
+ED   30,99.00%,Faith A. Bondy,(Democratic),75,AD 73,2025-07-02_13:53:26.456354
+ED   30,99.00%,Virginia Maloney,(Democratic),116,AD 73,2025-07-02_13:53:26.456354
+ED   30,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   31,99.00%,Vanessa Aronson,(Democratic),51,AD 73,2025-07-02_13:53:26.456354
+ED   31,99.00%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   31,99.00%,Benjamin D. Wetzler,(Democratic),22,AD 73,2025-07-02_13:53:26.456354
+ED   31,99.00%,Rachel J. Storch,(Democratic),76,AD 73,2025-07-02_13:53:26.456354
+ED   31,99.00%,Faith A. Bondy,(Democratic),120,AD 73,2025-07-02_13:53:26.456354
+ED   31,99.00%,Virginia Maloney,(Democratic),92,AD 73,2025-07-02_13:53:26.456354
+ED   31,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   32,99.00%,Vanessa Aronson,(Democratic),84,AD 73,2025-07-02_13:53:26.456354
+ED   32,99.00%,Lukas Florczak,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED   32,99.00%,Benjamin D. Wetzler,(Democratic),46,AD 73,2025-07-02_13:53:26.456354
+ED   32,99.00%,Rachel J. Storch,(Democratic),89,AD 73,2025-07-02_13:53:26.456354
+ED   32,99.00%,Faith A. Bondy,(Democratic),51,AD 73,2025-07-02_13:53:26.456354
+ED   32,99.00%,Virginia Maloney,(Democratic),86,AD 73,2025-07-02_13:53:26.456354
+ED   32,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   33,99.00%,Vanessa Aronson,(Democratic),64,AD 73,2025-07-02_13:53:26.456354
+ED   33,99.00%,Lukas Florczak,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   33,99.00%,Benjamin D. Wetzler,(Democratic),44,AD 73,2025-07-02_13:53:26.456354
+ED   33,99.00%,Rachel J. Storch,(Democratic),70,AD 73,2025-07-02_13:53:26.456354
+ED   33,99.00%,Faith A. Bondy,(Democratic),65,AD 73,2025-07-02_13:53:26.456354
+ED   33,99.00%,Virginia Maloney,(Democratic),103,AD 73,2025-07-02_13:53:26.456354
+ED   33,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   36,99.00%,Vanessa Aronson,(Democratic),55,AD 73,2025-07-02_13:53:26.456354
+ED   36,99.00%,Lukas Florczak,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED   36,99.00%,Benjamin D. Wetzler,(Democratic),25,AD 73,2025-07-02_13:53:26.456354
+ED   36,99.00%,Rachel J. Storch,(Democratic),61,AD 73,2025-07-02_13:53:26.456354
+ED   36,99.00%,Faith A. Bondy,(Democratic),12,AD 73,2025-07-02_13:53:26.456354
+ED   36,99.00%,Virginia Maloney,(Democratic),65,AD 73,2025-07-02_13:53:26.456354
+ED   36,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   39,99.00%,Vanessa Aronson,(Democratic),80,AD 73,2025-07-02_13:53:26.456354
+ED   39,99.00%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   39,99.00%,Benjamin D. Wetzler,(Democratic),63,AD 73,2025-07-02_13:53:26.456354
+ED   39,99.00%,Rachel J. Storch,(Democratic),124,AD 73,2025-07-02_13:53:26.456354
+ED   39,99.00%,Faith A. Bondy,(Democratic),18,AD 73,2025-07-02_13:53:26.456354
+ED   39,99.00%,Virginia Maloney,(Democratic),79,AD 73,2025-07-02_13:53:26.456354
+ED   39,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   40,99.00%,Vanessa Aronson,(Democratic),45,AD 73,2025-07-02_13:53:26.456354
+ED   40,99.00%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   40,99.00%,Benjamin D. Wetzler,(Democratic),19,AD 73,2025-07-02_13:53:26.456354
+ED   40,99.00%,Rachel J. Storch,(Democratic),82,AD 73,2025-07-02_13:53:26.456354
+ED   40,99.00%,Faith A. Bondy,(Democratic),6,AD 73,2025-07-02_13:53:26.456354
+ED   40,99.00%,Virginia Maloney,(Democratic),81,AD 73,2025-07-02_13:53:26.456354
+ED   40,99.00%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED   41,99.00%,Vanessa Aronson,(Democratic),47,AD 73,2025-07-02_13:53:26.456354
+ED   41,99.00%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   41,99.00%,Benjamin D. Wetzler,(Democratic),32,AD 73,2025-07-02_13:53:26.456354
+ED   41,99.00%,Rachel J. Storch,(Democratic),73,AD 73,2025-07-02_13:53:26.456354
+ED   41,99.00%,Faith A. Bondy,(Democratic),16,AD 73,2025-07-02_13:53:26.456354
+ED   41,99.00%,Virginia Maloney,(Democratic),73,AD 73,2025-07-02_13:53:26.456354
+ED   41,99.00%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED   42,99.00%,Vanessa Aronson,(Democratic),38,AD 73,2025-07-02_13:53:26.456354
+ED   42,99.00%,Lukas Florczak,(Democratic),1,AD 73,2025-07-02_13:53:26.456354
+ED   42,99.00%,Benjamin D. Wetzler,(Democratic),18,AD 73,2025-07-02_13:53:26.456354
+ED   42,99.00%,Rachel J. Storch,(Democratic),100,AD 73,2025-07-02_13:53:26.456354
+ED   42,99.00%,Faith A. Bondy,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   42,99.00%,Virginia Maloney,(Democratic),72,AD 73,2025-07-02_13:53:26.456354
+ED   42,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   43,99.00%,Vanessa Aronson,(Democratic),79,AD 73,2025-07-02_13:53:26.456354
+ED   43,99.00%,Lukas Florczak,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   43,99.00%,Benjamin D. Wetzler,(Democratic),32,AD 73,2025-07-02_13:53:26.456354
+ED   43,99.00%,Rachel J. Storch,(Democratic),117,AD 73,2025-07-02_13:53:26.456354
+ED   43,99.00%,Faith A. Bondy,(Democratic),21,AD 73,2025-07-02_13:53:26.456354
+ED   43,99.00%,Virginia Maloney,(Democratic),92,AD 73,2025-07-02_13:53:26.456354
+ED   43,99.00%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED   44,99.00%,Vanessa Aronson,(Democratic),108,AD 73,2025-07-02_13:53:26.456354
+ED   44,99.00%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   44,99.00%,Benjamin D. Wetzler,(Democratic),26,AD 73,2025-07-02_13:53:26.456354
+ED   44,99.00%,Rachel J. Storch,(Democratic),127,AD 73,2025-07-02_13:53:26.456354
+ED   44,99.00%,Faith A. Bondy,(Democratic),14,AD 73,2025-07-02_13:53:26.456354
+ED   44,99.00%,Virginia Maloney,(Democratic),98,AD 73,2025-07-02_13:53:26.456354
+ED   44,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   45,99.00%,Vanessa Aronson,(Democratic),114,AD 73,2025-07-02_13:53:26.456354
+ED   45,99.00%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   45,99.00%,Benjamin D. Wetzler,(Democratic),60,AD 73,2025-07-02_13:53:26.456354
+ED   45,99.00%,Rachel J. Storch,(Democratic),154,AD 73,2025-07-02_13:53:26.456354
+ED   45,99.00%,Faith A. Bondy,(Democratic),20,AD 73,2025-07-02_13:53:26.456354
+ED   45,99.00%,Virginia Maloney,(Democratic),93,AD 73,2025-07-02_13:53:26.456354
+ED   45,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   46,99.00%,Vanessa Aronson,(Democratic),64,AD 73,2025-07-02_13:53:26.456354
+ED   46,99.00%,Lukas Florczak,(Democratic),3,AD 73,2025-07-02_13:53:26.456354
+ED   46,99.00%,Benjamin D. Wetzler,(Democratic),32,AD 73,2025-07-02_13:53:26.456354
+ED   46,99.00%,Rachel J. Storch,(Democratic),98,AD 73,2025-07-02_13:53:26.456354
+ED   46,99.00%,Faith A. Bondy,(Democratic),17,AD 73,2025-07-02_13:53:26.456354
+ED   46,99.00%,Virginia Maloney,(Democratic),86,AD 73,2025-07-02_13:53:26.456354
+ED   46,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   47,99.00%,Vanessa Aronson,(Democratic),51,AD 73,2025-07-02_13:53:26.456354
+ED   47,99.00%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   47,99.00%,Benjamin D. Wetzler,(Democratic),39,AD 73,2025-07-02_13:53:26.456354
+ED   47,99.00%,Rachel J. Storch,(Democratic),107,AD 73,2025-07-02_13:53:26.456354
+ED   47,99.00%,Faith A. Bondy,(Democratic),8,AD 73,2025-07-02_13:53:26.456354
+ED   47,99.00%,Virginia Maloney,(Democratic),71,AD 73,2025-07-02_13:53:26.456354
+ED   47,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   48,99.00%,Vanessa Aronson,(Democratic),66,AD 73,2025-07-02_13:53:26.456354
+ED   48,99.00%,Lukas Florczak,(Democratic),4,AD 73,2025-07-02_13:53:26.456354
+ED   48,99.00%,Benjamin D. Wetzler,(Democratic),24,AD 73,2025-07-02_13:53:26.456354
+ED   48,99.00%,Rachel J. Storch,(Democratic),128,AD 73,2025-07-02_13:53:26.456354
+ED   48,99.00%,Faith A. Bondy,(Democratic),10,AD 73,2025-07-02_13:53:26.456354
+ED   48,99.00%,Virginia Maloney,(Democratic),97,AD 73,2025-07-02_13:53:26.456354
+ED   48,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   49,88.89%,Vanessa Aronson,(Democratic),37,AD 73,2025-07-02_13:53:26.456354
+ED   49,88.89%,Lukas Florczak,(Democratic),1,AD 73,2025-07-02_13:53:26.456354
+ED   49,88.89%,Benjamin D. Wetzler,(Democratic),36,AD 73,2025-07-02_13:53:26.456354
+ED   49,88.89%,Rachel J. Storch,(Democratic),105,AD 73,2025-07-02_13:53:26.456354
+ED   49,88.89%,Faith A. Bondy,(Democratic),14,AD 73,2025-07-02_13:53:26.456354
+ED   49,88.89%,Virginia Maloney,(Democratic),84,AD 73,2025-07-02_13:53:26.456354
+ED   49,88.89%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   50,88.89%,Vanessa Aronson,(Democratic),78,AD 73,2025-07-02_13:53:26.456354
+ED   50,88.89%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   50,88.89%,Benjamin D. Wetzler,(Democratic),55,AD 73,2025-07-02_13:53:26.456354
+ED   50,88.89%,Rachel J. Storch,(Democratic),136,AD 73,2025-07-02_13:53:26.456354
+ED   50,88.89%,Faith A. Bondy,(Democratic),19,AD 73,2025-07-02_13:53:26.456354
+ED   50,88.89%,Virginia Maloney,(Democratic),113,AD 73,2025-07-02_13:53:26.456354
+ED   50,88.89%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED   51,88.89%,Vanessa Aronson,(Democratic),83,AD 73,2025-07-02_13:53:26.456354
+ED   51,88.89%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   51,88.89%,Benjamin D. Wetzler,(Democratic),38,AD 73,2025-07-02_13:53:26.456354
+ED   51,88.89%,Rachel J. Storch,(Democratic),150,AD 73,2025-07-02_13:53:26.456354
+ED   51,88.89%,Faith A. Bondy,(Democratic),14,AD 73,2025-07-02_13:53:26.456354
+ED   51,88.89%,Virginia Maloney,(Democratic),122,AD 73,2025-07-02_13:53:26.456354
+ED   51,88.89%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   52,88.89%,Vanessa Aronson,(Democratic),81,AD 73,2025-07-02_13:53:26.456354
+ED   52,88.89%,Lukas Florczak,(Democratic),3,AD 73,2025-07-02_13:53:26.456354
+ED   52,88.89%,Benjamin D. Wetzler,(Democratic),38,AD 73,2025-07-02_13:53:26.456354
+ED   52,88.89%,Rachel J. Storch,(Democratic),134,AD 73,2025-07-02_13:53:26.456354
+ED   52,88.89%,Faith A. Bondy,(Democratic),16,AD 73,2025-07-02_13:53:26.456354
+ED   52,88.89%,Virginia Maloney,(Democratic),112,AD 73,2025-07-02_13:53:26.456354
+ED   52,88.89%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   53,99.00%,Vanessa Aronson,(Democratic),56,AD 73,2025-07-02_13:53:26.456354
+ED   53,99.00%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   53,99.00%,Benjamin D. Wetzler,(Democratic),36,AD 73,2025-07-02_13:53:26.456354
+ED   53,99.00%,Rachel J. Storch,(Democratic),91,AD 73,2025-07-02_13:53:26.456354
+ED   53,99.00%,Faith A. Bondy,(Democratic),12,AD 73,2025-07-02_13:53:26.456354
+ED   53,99.00%,Virginia Maloney,(Democratic),112,AD 73,2025-07-02_13:53:26.456354
+ED   53,99.00%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED   54,99.00%,Vanessa Aronson,(Democratic),90,AD 73,2025-07-02_13:53:26.456354
+ED   54,99.00%,Lukas Florczak,(Democratic),3,AD 73,2025-07-02_13:53:26.456354
+ED   54,99.00%,Benjamin D. Wetzler,(Democratic),37,AD 73,2025-07-02_13:53:26.456354
+ED   54,99.00%,Rachel J. Storch,(Democratic),182,AD 73,2025-07-02_13:53:26.456354
+ED   54,99.00%,Faith A. Bondy,(Democratic),13,AD 73,2025-07-02_13:53:26.456354
+ED   54,99.00%,Virginia Maloney,(Democratic),149,AD 73,2025-07-02_13:53:26.456354
+ED   54,99.00%,WRITE-IN,&nbsp,3,AD 73,2025-07-02_13:53:26.456354
+ED   55,99.00%,Vanessa Aronson,(Democratic),51,AD 73,2025-07-02_13:53:26.456354
+ED   55,99.00%,Lukas Florczak,(Democratic),3,AD 73,2025-07-02_13:53:26.456354
+ED   55,99.00%,Benjamin D. Wetzler,(Democratic),35,AD 73,2025-07-02_13:53:26.456354
+ED   55,99.00%,Rachel J. Storch,(Democratic),106,AD 73,2025-07-02_13:53:26.456354
+ED   55,99.00%,Faith A. Bondy,(Democratic),15,AD 73,2025-07-02_13:53:26.456354
+ED   55,99.00%,Virginia Maloney,(Democratic),118,AD 73,2025-07-02_13:53:26.456354
+ED   55,99.00%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   56,99.00%,Vanessa Aronson,(Democratic),51,AD 73,2025-07-02_13:53:26.456354
+ED   56,99.00%,Lukas Florczak,(Democratic),1,AD 73,2025-07-02_13:53:26.456354
+ED   56,99.00%,Benjamin D. Wetzler,(Democratic),24,AD 73,2025-07-02_13:53:26.456354
+ED   56,99.00%,Rachel J. Storch,(Democratic),115,AD 73,2025-07-02_13:53:26.456354
+ED   56,99.00%,Faith A. Bondy,(Democratic),14,AD 73,2025-07-02_13:53:26.456354
+ED   56,99.00%,Virginia Maloney,(Democratic),91,AD 73,2025-07-02_13:53:26.456354
+ED   56,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   57,99.00%,Vanessa Aronson,(Democratic),38,AD 73,2025-07-02_13:53:26.456354
+ED   57,99.00%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   57,99.00%,Benjamin D. Wetzler,(Democratic),29,AD 73,2025-07-02_13:53:26.456354
+ED   57,99.00%,Rachel J. Storch,(Democratic),121,AD 73,2025-07-02_13:53:26.456354
+ED   57,99.00%,Faith A. Bondy,(Democratic),12,AD 73,2025-07-02_13:53:26.456354
+ED   57,99.00%,Virginia Maloney,(Democratic),109,AD 73,2025-07-02_13:53:26.456354
+ED   57,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   58,71.43%,Vanessa Aronson,(Democratic),75,AD 73,2025-07-02_13:53:26.456354
+ED   58,71.43%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   58,71.43%,Benjamin D. Wetzler,(Democratic),36,AD 73,2025-07-02_13:53:26.456354
+ED   58,71.43%,Rachel J. Storch,(Democratic),72,AD 73,2025-07-02_13:53:26.456354
+ED   58,71.43%,Faith A. Bondy,(Democratic),9,AD 73,2025-07-02_13:53:26.456354
+ED   58,71.43%,Virginia Maloney,(Democratic),72,AD 73,2025-07-02_13:53:26.456354
+ED   58,71.43%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   63,99.00%,Vanessa Aronson,(Democratic),51,AD 73,2025-07-02_13:53:26.456354
+ED   63,99.00%,Lukas Florczak,(Democratic),6,AD 73,2025-07-02_13:53:26.456354
+ED   63,99.00%,Benjamin D. Wetzler,(Democratic),36,AD 73,2025-07-02_13:53:26.456354
+ED   63,99.00%,Rachel J. Storch,(Democratic),87,AD 73,2025-07-02_13:53:26.456354
+ED   63,99.00%,Faith A. Bondy,(Democratic),14,AD 73,2025-07-02_13:53:26.456354
+ED   63,99.00%,Virginia Maloney,(Democratic),142,AD 73,2025-07-02_13:53:26.456354
+ED   63,99.00%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   65,71.43%,Vanessa Aronson,(Democratic),56,AD 73,2025-07-02_13:53:26.456354
+ED   65,71.43%,Lukas Florczak,(Democratic),7,AD 73,2025-07-02_13:53:26.456354
+ED   65,71.43%,Benjamin D. Wetzler,(Democratic),26,AD 73,2025-07-02_13:53:26.456354
+ED   65,71.43%,Rachel J. Storch,(Democratic),69,AD 73,2025-07-02_13:53:26.456354
+ED   65,71.43%,Faith A. Bondy,(Democratic),11,AD 73,2025-07-02_13:53:26.456354
+ED   65,71.43%,Virginia Maloney,(Democratic),96,AD 73,2025-07-02_13:53:26.456354
+ED   65,71.43%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   66,88.89%,Vanessa Aronson,(Democratic),129,AD 73,2025-07-02_13:53:26.456354
+ED   66,88.89%,Lukas Florczak,(Democratic),5,AD 73,2025-07-02_13:53:26.456354
+ED   66,88.89%,Benjamin D. Wetzler,(Democratic),61,AD 73,2025-07-02_13:53:26.456354
+ED   66,88.89%,Rachel J. Storch,(Democratic),97,AD 73,2025-07-02_13:53:26.456354
+ED   66,88.89%,Faith A. Bondy,(Democratic),22,AD 73,2025-07-02_13:53:26.456354
+ED   66,88.89%,Virginia Maloney,(Democratic),128,AD 73,2025-07-02_13:53:26.456354
+ED   66,88.89%,WRITE-IN,&nbsp,4,AD 73,2025-07-02_13:53:26.456354
+ED   67,88.89%,Vanessa Aronson,(Democratic),126,AD 73,2025-07-02_13:53:26.456354
+ED   67,88.89%,Lukas Florczak,(Democratic),3,AD 73,2025-07-02_13:53:26.456354
+ED   67,88.89%,Benjamin D. Wetzler,(Democratic),52,AD 73,2025-07-02_13:53:26.456354
+ED   67,88.89%,Rachel J. Storch,(Democratic),131,AD 73,2025-07-02_13:53:26.456354
+ED   67,88.89%,Faith A. Bondy,(Democratic),14,AD 73,2025-07-02_13:53:26.456354
+ED   67,88.89%,Virginia Maloney,(Democratic),97,AD 73,2025-07-02_13:53:26.456354
+ED   67,88.89%,WRITE-IN,&nbsp,2,AD 73,2025-07-02_13:53:26.456354
+ED   68,71.43%,Vanessa Aronson,(Democratic),94,AD 73,2025-07-02_13:53:26.456354
+ED   68,71.43%,Lukas Florczak,(Democratic),2,AD 73,2025-07-02_13:53:26.456354
+ED   68,71.43%,Benjamin D. Wetzler,(Democratic),18,AD 73,2025-07-02_13:53:26.456354
+ED   68,71.43%,Rachel J. Storch,(Democratic),97,AD 73,2025-07-02_13:53:26.456354
+ED   68,71.43%,Faith A. Bondy,(Democratic),12,AD 73,2025-07-02_13:53:26.456354
+ED   68,71.43%,Virginia Maloney,(Democratic),47,AD 73,2025-07-02_13:53:26.456354
+ED   68,71.43%,WRITE-IN,&nbsp,1,AD 73,2025-07-02_13:53:26.456354
+ED   71,99.00%,Vanessa Aronson,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   71,99.00%,Lukas Florczak,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   71,99.00%,Benjamin D. Wetzler,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   71,99.00%,Rachel J. Storch,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   71,99.00%,Faith A. Bondy,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   71,99.00%,Virginia Maloney,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   71,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+ED   72,99.00%,Vanessa Aronson,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   72,99.00%,Lukas Florczak,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   72,99.00%,Benjamin D. Wetzler,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   72,99.00%,Rachel J. Storch,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   72,99.00%,Faith A. Bondy,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   72,99.00%,Virginia Maloney,(Democratic),0,AD 73,2025-07-02_13:53:26.456354
+ED   72,99.00%,WRITE-IN,&nbsp,0,AD 73,2025-07-02_13:53:26.456354
+Total,,Vanessa Aronson,(Democratic),4199,AD 73,2025-07-02_13:53:26.456354
+Total,,Lukas Florczak,(Democratic),254,AD 73,2025-07-02_13:53:26.456354
+Total,,Benjamin D. Wetzler,(Democratic),2142,AD 73,2025-07-02_13:53:26.456354
+Total,,Rachel J. Storch,(Democratic),4873,AD 73,2025-07-02_13:53:26.456354
+Total,,Faith A. Bondy,(Democratic),1587,AD 73,2025-07-02_13:53:26.456354
+Total,,Virginia Maloney,(Democratic),4998,AD 73,2025-07-02_13:53:26.456354
+Total,,WRITE-IN,&nbsp,89,AD 73,2025-07-02_13:53:26.456354
+ED    1,99.00%,Vanessa Aronson,(Democratic),86,AD 74,2025-07-02_13:53:26.456354
+ED    1,99.00%,Lukas Florczak,(Democratic),5,AD 74,2025-07-02_13:53:26.456354
+ED    1,99.00%,Benjamin D. Wetzler,(Democratic),59,AD 74,2025-07-02_13:53:26.456354
+ED    1,99.00%,Rachel J. Storch,(Democratic),58,AD 74,2025-07-02_13:53:26.456354
+ED    1,99.00%,Faith A. Bondy,(Democratic),29,AD 74,2025-07-02_13:53:26.456354
+ED    1,99.00%,Virginia Maloney,(Democratic),95,AD 74,2025-07-02_13:53:26.456354
+ED    1,99.00%,WRITE-IN,&nbsp,3,AD 74,2025-07-02_13:53:26.456354
+ED    2,99.00%,Vanessa Aronson,(Democratic),118,AD 74,2025-07-02_13:53:26.456354
+ED    2,99.00%,Lukas Florczak,(Democratic),13,AD 74,2025-07-02_13:53:26.456354
+ED    2,99.00%,Benjamin D. Wetzler,(Democratic),60,AD 74,2025-07-02_13:53:26.456354
+ED    2,99.00%,Rachel J. Storch,(Democratic),67,AD 74,2025-07-02_13:53:26.456354
+ED    2,99.00%,Faith A. Bondy,(Democratic),40,AD 74,2025-07-02_13:53:26.456354
+ED    2,99.00%,Virginia Maloney,(Democratic),135,AD 74,2025-07-02_13:53:26.456354
+ED    2,99.00%,WRITE-IN,&nbsp,1,AD 74,2025-07-02_13:53:26.456354
+ED    3,99.00%,Vanessa Aronson,(Democratic),85,AD 74,2025-07-02_13:53:26.456354
+ED    3,99.00%,Lukas Florczak,(Democratic),30,AD 74,2025-07-02_13:53:26.456354
+ED    3,99.00%,Benjamin D. Wetzler,(Democratic),47,AD 74,2025-07-02_13:53:26.456354
+ED    3,99.00%,Rachel J. Storch,(Democratic),69,AD 74,2025-07-02_13:53:26.456354
+ED    3,99.00%,Faith A. Bondy,(Democratic),26,AD 74,2025-07-02_13:53:26.456354
+ED    3,99.00%,Virginia Maloney,(Democratic),92,AD 74,2025-07-02_13:53:26.456354
+ED    3,99.00%,WRITE-IN,&nbsp,1,AD 74,2025-07-02_13:53:26.456354
+ED    4,99.00%,Vanessa Aronson,(Democratic),72,AD 74,2025-07-02_13:53:26.456354
+ED    4,99.00%,Lukas Florczak,(Democratic),6,AD 74,2025-07-02_13:53:26.456354
+ED    4,99.00%,Benjamin D. Wetzler,(Democratic),45,AD 74,2025-07-02_13:53:26.456354
+ED    4,99.00%,Rachel J. Storch,(Democratic),67,AD 74,2025-07-02_13:53:26.456354
+ED    4,99.00%,Faith A. Bondy,(Democratic),23,AD 74,2025-07-02_13:53:26.456354
+ED    4,99.00%,Virginia Maloney,(Democratic),75,AD 74,2025-07-02_13:53:26.456354
+ED    4,99.00%,WRITE-IN,&nbsp,0,AD 74,2025-07-02_13:53:26.456354
+ED    5,99.00%,Vanessa Aronson,(Democratic),64,AD 74,2025-07-02_13:53:26.456354
+ED    5,99.00%,Lukas Florczak,(Democratic),8,AD 74,2025-07-02_13:53:26.456354
+ED    5,99.00%,Benjamin D. Wetzler,(Democratic),39,AD 74,2025-07-02_13:53:26.456354
+ED    5,99.00%,Rachel J. Storch,(Democratic),41,AD 74,2025-07-02_13:53:26.456354
+ED    5,99.00%,Faith A. Bondy,(Democratic),32,AD 74,2025-07-02_13:53:26.456354
+ED    5,99.00%,Virginia Maloney,(Democratic),71,AD 74,2025-07-02_13:53:26.456354
+ED    5,99.00%,WRITE-IN,&nbsp,0,AD 74,2025-07-02_13:53:26.456354
+ED    6,99.00%,Vanessa Aronson,(Democratic),96,AD 74,2025-07-02_13:53:26.456354
+ED    6,99.00%,Lukas Florczak,(Democratic),5,AD 74,2025-07-02_13:53:26.456354
+ED    6,99.00%,Benjamin D. Wetzler,(Democratic),54,AD 74,2025-07-02_13:53:26.456354
+ED    6,99.00%,Rachel J. Storch,(Democratic),48,AD 74,2025-07-02_13:53:26.456354
+ED    6,99.00%,Faith A. Bondy,(Democratic),12,AD 74,2025-07-02_13:53:26.456354
+ED    6,99.00%,Virginia Maloney,(Democratic),71,AD 74,2025-07-02_13:53:26.456354
+ED    6,99.00%,WRITE-IN,&nbsp,0,AD 74,2025-07-02_13:53:26.456354
+ED    7,99.00%,Vanessa Aronson,(Democratic),80,AD 74,2025-07-02_13:53:26.456354
+ED    7,99.00%,Lukas Florczak,(Democratic),5,AD 74,2025-07-02_13:53:26.456354
+ED    7,99.00%,Benjamin D. Wetzler,(Democratic),62,AD 74,2025-07-02_13:53:26.456354
+ED    7,99.00%,Rachel J. Storch,(Democratic),42,AD 74,2025-07-02_13:53:26.456354
+ED    7,99.00%,Faith A. Bondy,(Democratic),12,AD 74,2025-07-02_13:53:26.456354
+ED    7,99.00%,Virginia Maloney,(Democratic),125,AD 74,2025-07-02_13:53:26.456354
+ED    7,99.00%,WRITE-IN,&nbsp,3,AD 74,2025-07-02_13:53:26.456354
+ED    8,99.00%,Vanessa Aronson,(Democratic),143,AD 74,2025-07-02_13:53:26.456354
+ED    8,99.00%,Lukas Florczak,(Democratic),12,AD 74,2025-07-02_13:53:26.456354
+ED    8,99.00%,Benjamin D. Wetzler,(Democratic),63,AD 74,2025-07-02_13:53:26.456354
+ED    8,99.00%,Rachel J. Storch,(Democratic),80,AD 74,2025-07-02_13:53:26.456354
+ED    8,99.00%,Faith A. Bondy,(Democratic),35,AD 74,2025-07-02_13:53:26.456354
+ED    8,99.00%,Virginia Maloney,(Democratic),95,AD 74,2025-07-02_13:53:26.456354
+ED    8,99.00%,WRITE-IN,&nbsp,0,AD 74,2025-07-02_13:53:26.456354
+ED   11,60.00%,Vanessa Aronson,(Democratic),89,AD 74,2025-07-02_13:53:26.456354
+ED   11,60.00%,Lukas Florczak,(Democratic),7,AD 74,2025-07-02_13:53:26.456354
+ED   11,60.00%,Benjamin D. Wetzler,(Democratic),39,AD 74,2025-07-02_13:53:26.456354
+ED   11,60.00%,Rachel J. Storch,(Democratic),52,AD 74,2025-07-02_13:53:26.456354
+ED   11,60.00%,Faith A. Bondy,(Democratic),27,AD 74,2025-07-02_13:53:26.456354
+ED   11,60.00%,Virginia Maloney,(Democratic),95,AD 74,2025-07-02_13:53:26.456354
+ED   11,60.00%,WRITE-IN,&nbsp,1,AD 74,2025-07-02_13:53:26.456354
+ED   15,99.00%,Vanessa Aronson,(Democratic),142,AD 74,2025-07-02_13:53:26.456354
+ED   15,99.00%,Lukas Florczak,(Democratic),13,AD 74,2025-07-02_13:53:26.456354
+ED   15,99.00%,Benjamin D. Wetzler,(Democratic),127,AD 74,2025-07-02_13:53:26.456354
+ED   15,99.00%,Rachel J. Storch,(Democratic),81,AD 74,2025-07-02_13:53:26.456354
+ED   15,99.00%,Faith A. Bondy,(Democratic),40,AD 74,2025-07-02_13:53:26.456354
+ED   15,99.00%,Virginia Maloney,(Democratic),133,AD 74,2025-07-02_13:53:26.456354
+ED   15,99.00%,WRITE-IN,&nbsp,2,AD 74,2025-07-02_13:53:26.456354
+ED   16,99.00%,Vanessa Aronson,(Democratic),198,AD 74,2025-07-02_13:53:26.456354
+ED   16,99.00%,Lukas Florczak,(Democratic),6,AD 74,2025-07-02_13:53:26.456354
+ED   16,99.00%,Benjamin D. Wetzler,(Democratic),166,AD 74,2025-07-02_13:53:26.456354
+ED   16,99.00%,Rachel J. Storch,(Democratic),83,AD 74,2025-07-02_13:53:26.456354
+ED   16,99.00%,Faith A. Bondy,(Democratic),36,AD 74,2025-07-02_13:53:26.456354
+ED   16,99.00%,Virginia Maloney,(Democratic),145,AD 74,2025-07-02_13:53:26.456354
+ED   16,99.00%,WRITE-IN,&nbsp,3,AD 74,2025-07-02_13:53:26.456354
+ED   17,99.00%,Vanessa Aronson,(Democratic),204,AD 74,2025-07-02_13:53:26.456354
+ED   17,99.00%,Lukas Florczak,(Democratic),13,AD 74,2025-07-02_13:53:26.456354
+ED   17,99.00%,Benjamin D. Wetzler,(Democratic),111,AD 74,2025-07-02_13:53:26.456354
+ED   17,99.00%,Rachel J. Storch,(Democratic),69,AD 74,2025-07-02_13:53:26.456354
+ED   17,99.00%,Faith A. Bondy,(Democratic),30,AD 74,2025-07-02_13:53:26.456354
+ED   17,99.00%,Virginia Maloney,(Democratic),151,AD 74,2025-07-02_13:53:26.456354
+ED   17,99.00%,WRITE-IN,&nbsp,9,AD 74,2025-07-02_13:53:26.456354
+ED   18,99.00%,Vanessa Aronson,(Democratic),221,AD 74,2025-07-02_13:53:26.456354
+ED   18,99.00%,Lukas Florczak,(Democratic),12,AD 74,2025-07-02_13:53:26.456354
+ED   18,99.00%,Benjamin D. Wetzler,(Democratic),164,AD 74,2025-07-02_13:53:26.456354
+ED   18,99.00%,Rachel J. Storch,(Democratic),84,AD 74,2025-07-02_13:53:26.456354
+ED   18,99.00%,Faith A. Bondy,(Democratic),22,AD 74,2025-07-02_13:53:26.456354
+ED   18,99.00%,Virginia Maloney,(Democratic),166,AD 74,2025-07-02_13:53:26.456354
+ED   18,99.00%,WRITE-IN,&nbsp,3,AD 74,2025-07-02_13:53:26.456354
+ED   19,99.00%,Vanessa Aronson,(Democratic),154,AD 74,2025-07-02_13:53:26.456354
+ED   19,99.00%,Lukas Florczak,(Democratic),4,AD 74,2025-07-02_13:53:26.456354
+ED   19,99.00%,Benjamin D. Wetzler,(Democratic),100,AD 74,2025-07-02_13:53:26.456354
+ED   19,99.00%,Rachel J. Storch,(Democratic),80,AD 74,2025-07-02_13:53:26.456354
+ED   19,99.00%,Faith A. Bondy,(Democratic),21,AD 74,2025-07-02_13:53:26.456354
+ED   19,99.00%,Virginia Maloney,(Democratic),81,AD 74,2025-07-02_13:53:26.456354
+ED   19,99.00%,WRITE-IN,&nbsp,3,AD 74,2025-07-02_13:53:26.456354
+ED   20,99.00%,Vanessa Aronson,(Democratic),158,AD 74,2025-07-02_13:53:26.456354
+ED   20,99.00%,Lukas Florczak,(Democratic),4,AD 74,2025-07-02_13:53:26.456354
+ED   20,99.00%,Benjamin D. Wetzler,(Democratic),127,AD 74,2025-07-02_13:53:26.456354
+ED   20,99.00%,Rachel J. Storch,(Democratic),41,AD 74,2025-07-02_13:53:26.456354
+ED   20,99.00%,Faith A. Bondy,(Democratic),25,AD 74,2025-07-02_13:53:26.456354
+ED   20,99.00%,Virginia Maloney,(Democratic),125,AD 74,2025-07-02_13:53:26.456354
+ED   20,99.00%,WRITE-IN,&nbsp,7,AD 74,2025-07-02_13:53:26.456354
+ED   21,99.00%,Vanessa Aronson,(Democratic),101,AD 74,2025-07-02_13:53:26.456354
+ED   21,99.00%,Lukas Florczak,(Democratic),9,AD 74,2025-07-02_13:53:26.456354
+ED   21,99.00%,Benjamin D. Wetzler,(Democratic),103,AD 74,2025-07-02_13:53:26.456354
+ED   21,99.00%,Rachel J. Storch,(Democratic),42,AD 74,2025-07-02_13:53:26.456354
+ED   21,99.00%,Faith A. Bondy,(Democratic),18,AD 74,2025-07-02_13:53:26.456354
+ED   21,99.00%,Virginia Maloney,(Democratic),78,AD 74,2025-07-02_13:53:26.456354
+ED   21,99.00%,WRITE-IN,&nbsp,7,AD 74,2025-07-02_13:53:26.456354
+ED   22,99.00%,Vanessa Aronson,(Democratic),168,AD 74,2025-07-02_13:53:26.456354
+ED   22,99.00%,Lukas Florczak,(Democratic),9,AD 74,2025-07-02_13:53:26.456354
+ED   22,99.00%,Benjamin D. Wetzler,(Democratic),143,AD 74,2025-07-02_13:53:26.456354
+ED   22,99.00%,Rachel J. Storch,(Democratic),70,AD 74,2025-07-02_13:53:26.456354
+ED   22,99.00%,Faith A. Bondy,(Democratic),18,AD 74,2025-07-02_13:53:26.456354
+ED   22,99.00%,Virginia Maloney,(Democratic),133,AD 74,2025-07-02_13:53:26.456354
+ED   22,99.00%,WRITE-IN,&nbsp,5,AD 74,2025-07-02_13:53:26.456354
+ED   23,99.00%,Vanessa Aronson,(Democratic),167,AD 74,2025-07-02_13:53:26.456354
+ED   23,99.00%,Lukas Florczak,(Democratic),5,AD 74,2025-07-02_13:53:26.456354
+ED   23,99.00%,Benjamin D. Wetzler,(Democratic),155,AD 74,2025-07-02_13:53:26.456354
+ED   23,99.00%,Rachel J. Storch,(Democratic),94,AD 74,2025-07-02_13:53:26.456354
+ED   23,99.00%,Faith A. Bondy,(Democratic),36,AD 74,2025-07-02_13:53:26.456354
+ED   23,99.00%,Virginia Maloney,(Democratic),128,AD 74,2025-07-02_13:53:26.456354
+ED   23,99.00%,WRITE-IN,&nbsp,0,AD 74,2025-07-02_13:53:26.456354
+ED   24,99.00%,Vanessa Aronson,(Democratic),161,AD 74,2025-07-02_13:53:26.456354
+ED   24,99.00%,Lukas Florczak,(Democratic),9,AD 74,2025-07-02_13:53:26.456354
+ED   24,99.00%,Benjamin D. Wetzler,(Democratic),153,AD 74,2025-07-02_13:53:26.456354
+ED   24,99.00%,Rachel J. Storch,(Democratic),62,AD 74,2025-07-02_13:53:26.456354
+ED   24,99.00%,Faith A. Bondy,(Democratic),31,AD 74,2025-07-02_13:53:26.456354
+ED   24,99.00%,Virginia Maloney,(Democratic),122,AD 74,2025-07-02_13:53:26.456354
+ED   24,99.00%,WRITE-IN,&nbsp,2,AD 74,2025-07-02_13:53:26.456354
+ED   64,40.00%,Vanessa Aronson,(Democratic),6,AD 74,2025-07-02_13:53:26.456354
+ED   64,40.00%,Lukas Florczak,(Democratic),0,AD 74,2025-07-02_13:53:26.456354
+ED   64,40.00%,Benjamin D. Wetzler,(Democratic),3,AD 74,2025-07-02_13:53:26.456354
+ED   64,40.00%,Rachel J. Storch,(Democratic),2,AD 74,2025-07-02_13:53:26.456354
+ED   64,40.00%,Faith A. Bondy,(Democratic),0,AD 74,2025-07-02_13:53:26.456354
+ED   64,40.00%,Virginia Maloney,(Democratic),4,AD 74,2025-07-02_13:53:26.456354
+ED   64,40.00%,WRITE-IN,&nbsp,0,AD 74,2025-07-02_13:53:26.456354
+ED   70,99.00%,Vanessa Aronson,(Democratic),0,AD 74,2025-07-02_13:53:26.456354
+ED   70,99.00%,Lukas Florczak,(Democratic),0,AD 74,2025-07-02_13:53:26.456354
+ED   70,99.00%,Benjamin D. Wetzler,(Democratic),0,AD 74,2025-07-02_13:53:26.456354
+ED   70,99.00%,Rachel J. Storch,(Democratic),0,AD 74,2025-07-02_13:53:26.456354
+ED   70,99.00%,Faith A. Bondy,(Democratic),0,AD 74,2025-07-02_13:53:26.456354
+ED   70,99.00%,Virginia Maloney,(Democratic),0,AD 74,2025-07-02_13:53:26.456354
+ED   70,99.00%,WRITE-IN,&nbsp,0,AD 74,2025-07-02_13:53:26.456354
+Total,,Vanessa Aronson,(Democratic),2513,AD 74,2025-07-02_13:53:26.456354
+Total,,Lukas Florczak,(Democratic),175,AD 74,2025-07-02_13:53:26.456354
+Total,,Benjamin D. Wetzler,(Democratic),1820,AD 74,2025-07-02_13:53:26.456354
+Total,,Rachel J. Storch,(Democratic),1232,AD 74,2025-07-02_13:53:26.456354
+Total,,Faith A. Bondy,(Democratic),513,AD 74,2025-07-02_13:53:26.456354
+Total,,Virginia Maloney,(Democratic),2120,AD 74,2025-07-02_13:53:26.456354
+Total,,WRITE-IN,&nbsp,50,AD 74,2025-07-02_13:53:26.456354
+ED   13,99.00%,Vanessa Aronson,(Democratic),107,AD 75,2025-07-02_13:53:26.456354
+ED   13,99.00%,Lukas Florczak,(Democratic),10,AD 75,2025-07-02_13:53:26.456354
+ED   13,99.00%,Benjamin D. Wetzler,(Democratic),40,AD 75,2025-07-02_13:53:26.456354
+ED   13,99.00%,Rachel J. Storch,(Democratic),60,AD 75,2025-07-02_13:53:26.456354
+ED   13,99.00%,Faith A. Bondy,(Democratic),23,AD 75,2025-07-02_13:53:26.456354
+ED   13,99.00%,Virginia Maloney,(Democratic),91,AD 75,2025-07-02_13:53:26.456354
+ED   13,99.00%,WRITE-IN,&nbsp,4,AD 75,2025-07-02_13:53:26.456354
+ED   14,99.00%,Vanessa Aronson,(Democratic),45,AD 75,2025-07-02_13:53:26.456354
+ED   14,99.00%,Lukas Florczak,(Democratic),3,AD 75,2025-07-02_13:53:26.456354
+ED   14,99.00%,Benjamin D. Wetzler,(Democratic),9,AD 75,2025-07-02_13:53:26.456354
+ED   14,99.00%,Rachel J. Storch,(Democratic),10,AD 75,2025-07-02_13:53:26.456354
+ED   14,99.00%,Faith A. Bondy,(Democratic),12,AD 75,2025-07-02_13:53:26.456354
+ED   14,99.00%,Virginia Maloney,(Democratic),33,AD 75,2025-07-02_13:53:26.456354
+ED   14,99.00%,WRITE-IN,&nbsp,1,AD 75,2025-07-02_13:53:26.456354
+ED   15,40.00%,Vanessa Aronson,(Democratic),43,AD 75,2025-07-02_13:53:26.456354
+ED   15,40.00%,Lukas Florczak,(Democratic),5,AD 75,2025-07-02_13:53:26.456354
+ED   15,40.00%,Benjamin D. Wetzler,(Democratic),28,AD 75,2025-07-02_13:53:26.456354
+ED   15,40.00%,Rachel J. Storch,(Democratic),16,AD 75,2025-07-02_13:53:26.456354
+ED   15,40.00%,Faith A. Bondy,(Democratic),6,AD 75,2025-07-02_13:53:26.456354
+ED   15,40.00%,Virginia Maloney,(Democratic),28,AD 75,2025-07-02_13:53:26.456354
+ED   15,40.00%,WRITE-IN,&nbsp,1,AD 75,2025-07-02_13:53:26.456354
+ED   19,99.00%,Vanessa Aronson,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   19,99.00%,Lukas Florczak,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   19,99.00%,Benjamin D. Wetzler,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   19,99.00%,Rachel J. Storch,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   19,99.00%,Faith A. Bondy,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   19,99.00%,Virginia Maloney,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   19,99.00%,WRITE-IN,&nbsp,0,AD 75,2025-07-02_13:53:26.456354
+ED   67,40.00%,Vanessa Aronson,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   67,40.00%,Lukas Florczak,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   67,40.00%,Benjamin D. Wetzler,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   67,40.00%,Rachel J. Storch,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   67,40.00%,Faith A. Bondy,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   67,40.00%,Virginia Maloney,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   67,40.00%,WRITE-IN,&nbsp,0,AD 75,2025-07-02_13:53:26.456354
+ED   71,99.00%,Vanessa Aronson,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   71,99.00%,Lukas Florczak,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   71,99.00%,Benjamin D. Wetzler,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   71,99.00%,Rachel J. Storch,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   71,99.00%,Faith A. Bondy,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   71,99.00%,Virginia Maloney,(Democratic),0,AD 75,2025-07-02_13:53:26.456354
+ED   71,99.00%,WRITE-IN,&nbsp,0,AD 75,2025-07-02_13:53:26.456354
+Total,,Vanessa Aronson,(Democratic),195,AD 75,2025-07-02_13:53:26.456354
+Total,,Lukas Florczak,(Democratic),18,AD 75,2025-07-02_13:53:26.456354
+Total,,Benjamin D. Wetzler,(Democratic),77,AD 75,2025-07-02_13:53:26.456354
+Total,,Rachel J. Storch,(Democratic),86,AD 75,2025-07-02_13:53:26.456354
+Total,,Faith A. Bondy,(Democratic),41,AD 75,2025-07-02_13:53:26.456354
+Total,,Virginia Maloney,(Democratic),152,AD 75,2025-07-02_13:53:26.456354
+Total,,WRITE-IN,&nbsp,6,AD 75,2025-07-02_13:53:26.456354
+ED   63,99.00%,Vanessa Aronson,(Democratic),0,AD 76,2025-07-02_13:53:26.456354
+ED   63,99.00%,Lukas Florczak,(Democratic),0,AD 76,2025-07-02_13:53:26.456354
+ED   63,99.00%,Benjamin D. Wetzler,(Democratic),0,AD 76,2025-07-02_13:53:26.456354
+ED   63,99.00%,Rachel J. Storch,(Democratic),0,AD 76,2025-07-02_13:53:26.456354
+ED   63,99.00%,Faith A. Bondy,(Democratic),0,AD 76,2025-07-02_13:53:26.456354
+ED   63,99.00%,Virginia Maloney,(Democratic),0,AD 76,2025-07-02_13:53:26.456354
+ED   63,99.00%,WRITE-IN,&nbsp,0,AD 76,2025-07-02_13:53:26.456354
+Total,,Vanessa Aronson,(Democratic),-,AD 76,2025-07-02_13:53:26.456354
+Total,,Lukas Florczak,(Democratic),-,AD 76,2025-07-02_13:53:26.456354
+Total,,Benjamin D. Wetzler,(Democratic),-,AD 76,2025-07-02_13:53:26.456354
+Total,,Rachel J. Storch,(Democratic),-,AD 76,2025-07-02_13:53:26.456354
+Total,,Faith A. Bondy,(Democratic),-,AD 76,2025-07-02_13:53:26.456354
+Total,,Virginia Maloney,(Democratic),-,AD 76,2025-07-02_13:53:26.456354
+Total,,WRITE-IN,&nbsp,-,AD 76,2025-07-02_13:53:26.456354

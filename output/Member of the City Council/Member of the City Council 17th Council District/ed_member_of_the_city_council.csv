@@ -1,0 +1,496 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    7,99.00%,Antirson R. Ortiz,(Democratic),23,AD 79,2025-07-02_13:53:37.198499
+ED    7,99.00%,Justin E. Sanchez,(Democratic),32,AD 79,2025-07-02_13:53:37.198499
+ED    7,99.00%,Freddy Perez Jr.,(Democratic),11,AD 79,2025-07-02_13:53:37.198499
+ED    7,99.00%,Elvis L. Santana,(Democratic),13,AD 79,2025-07-02_13:53:37.198499
+ED    7,99.00%,WRITE-IN,&nbsp,2,AD 79,2025-07-02_13:53:37.198499
+ED   16,60.00%,Antirson R. Ortiz,(Democratic),5,AD 79,2025-07-02_13:53:37.198499
+ED   16,60.00%,Justin E. Sanchez,(Democratic),3,AD 79,2025-07-02_13:53:37.198499
+ED   16,60.00%,Freddy Perez Jr.,(Democratic),3,AD 79,2025-07-02_13:53:37.198499
+ED   16,60.00%,Elvis L. Santana,(Democratic),2,AD 79,2025-07-02_13:53:37.198499
+ED   16,60.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   20,83.33%,Antirson R. Ortiz,(Democratic),19,AD 79,2025-07-02_13:53:37.198499
+ED   20,83.33%,Justin E. Sanchez,(Democratic),37,AD 79,2025-07-02_13:53:37.198499
+ED   20,83.33%,Freddy Perez Jr.,(Democratic),24,AD 79,2025-07-02_13:53:37.198499
+ED   20,83.33%,Elvis L. Santana,(Democratic),20,AD 79,2025-07-02_13:53:37.198499
+ED   20,83.33%,WRITE-IN,&nbsp,2,AD 79,2025-07-02_13:53:37.198499
+ED   21,83.33%,Antirson R. Ortiz,(Democratic),17,AD 79,2025-07-02_13:53:37.198499
+ED   21,83.33%,Justin E. Sanchez,(Democratic),29,AD 79,2025-07-02_13:53:37.198499
+ED   21,83.33%,Freddy Perez Jr.,(Democratic),11,AD 79,2025-07-02_13:53:37.198499
+ED   21,83.33%,Elvis L. Santana,(Democratic),14,AD 79,2025-07-02_13:53:37.198499
+ED   21,83.33%,WRITE-IN,&nbsp,1,AD 79,2025-07-02_13:53:37.198499
+ED   24,99.00%,Antirson R. Ortiz,(Democratic),25,AD 79,2025-07-02_13:53:37.198499
+ED   24,99.00%,Justin E. Sanchez,(Democratic),44,AD 79,2025-07-02_13:53:37.198499
+ED   24,99.00%,Freddy Perez Jr.,(Democratic),23,AD 79,2025-07-02_13:53:37.198499
+ED   24,99.00%,Elvis L. Santana,(Democratic),17,AD 79,2025-07-02_13:53:37.198499
+ED   24,99.00%,WRITE-IN,&nbsp,2,AD 79,2025-07-02_13:53:37.198499
+ED   25,99.00%,Antirson R. Ortiz,(Democratic),16,AD 79,2025-07-02_13:53:37.198499
+ED   25,99.00%,Justin E. Sanchez,(Democratic),30,AD 79,2025-07-02_13:53:37.198499
+ED   25,99.00%,Freddy Perez Jr.,(Democratic),13,AD 79,2025-07-02_13:53:37.198499
+ED   25,99.00%,Elvis L. Santana,(Democratic),7,AD 79,2025-07-02_13:53:37.198499
+ED   25,99.00%,WRITE-IN,&nbsp,1,AD 79,2025-07-02_13:53:37.198499
+ED   26,99.00%,Antirson R. Ortiz,(Democratic),14,AD 79,2025-07-02_13:53:37.198499
+ED   26,99.00%,Justin E. Sanchez,(Democratic),26,AD 79,2025-07-02_13:53:37.198499
+ED   26,99.00%,Freddy Perez Jr.,(Democratic),6,AD 79,2025-07-02_13:53:37.198499
+ED   26,99.00%,Elvis L. Santana,(Democratic),8,AD 79,2025-07-02_13:53:37.198499
+ED   26,99.00%,WRITE-IN,&nbsp,1,AD 79,2025-07-02_13:53:37.198499
+ED   27,99.00%,Antirson R. Ortiz,(Democratic),31,AD 79,2025-07-02_13:53:37.198499
+ED   27,99.00%,Justin E. Sanchez,(Democratic),56,AD 79,2025-07-02_13:53:37.198499
+ED   27,99.00%,Freddy Perez Jr.,(Democratic),23,AD 79,2025-07-02_13:53:37.198499
+ED   27,99.00%,Elvis L. Santana,(Democratic),26,AD 79,2025-07-02_13:53:37.198499
+ED   27,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   28,99.00%,Antirson R. Ortiz,(Democratic),41,AD 79,2025-07-02_13:53:37.198499
+ED   28,99.00%,Justin E. Sanchez,(Democratic),63,AD 79,2025-07-02_13:53:37.198499
+ED   28,99.00%,Freddy Perez Jr.,(Democratic),26,AD 79,2025-07-02_13:53:37.198499
+ED   28,99.00%,Elvis L. Santana,(Democratic),31,AD 79,2025-07-02_13:53:37.198499
+ED   28,99.00%,WRITE-IN,&nbsp,1,AD 79,2025-07-02_13:53:37.198499
+ED   29,83.33%,Antirson R. Ortiz,(Democratic),25,AD 79,2025-07-02_13:53:37.198499
+ED   29,83.33%,Justin E. Sanchez,(Democratic),45,AD 79,2025-07-02_13:53:37.198499
+ED   29,83.33%,Freddy Perez Jr.,(Democratic),25,AD 79,2025-07-02_13:53:37.198499
+ED   29,83.33%,Elvis L. Santana,(Democratic),17,AD 79,2025-07-02_13:53:37.198499
+ED   29,83.33%,WRITE-IN,&nbsp,1,AD 79,2025-07-02_13:53:37.198499
+ED   30,99.00%,Antirson R. Ortiz,(Democratic),25,AD 79,2025-07-02_13:53:37.198499
+ED   30,99.00%,Justin E. Sanchez,(Democratic),39,AD 79,2025-07-02_13:53:37.198499
+ED   30,99.00%,Freddy Perez Jr.,(Democratic),16,AD 79,2025-07-02_13:53:37.198499
+ED   30,99.00%,Elvis L. Santana,(Democratic),26,AD 79,2025-07-02_13:53:37.198499
+ED   30,99.00%,WRITE-IN,&nbsp,1,AD 79,2025-07-02_13:53:37.198499
+ED   31,99.00%,Antirson R. Ortiz,(Democratic),27,AD 79,2025-07-02_13:53:37.198499
+ED   31,99.00%,Justin E. Sanchez,(Democratic),40,AD 79,2025-07-02_13:53:37.198499
+ED   31,99.00%,Freddy Perez Jr.,(Democratic),11,AD 79,2025-07-02_13:53:37.198499
+ED   31,99.00%,Elvis L. Santana,(Democratic),13,AD 79,2025-07-02_13:53:37.198499
+ED   31,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   32,99.00%,Antirson R. Ortiz,(Democratic),45,AD 79,2025-07-02_13:53:37.198499
+ED   32,99.00%,Justin E. Sanchez,(Democratic),88,AD 79,2025-07-02_13:53:37.198499
+ED   32,99.00%,Freddy Perez Jr.,(Democratic),27,AD 79,2025-07-02_13:53:37.198499
+ED   32,99.00%,Elvis L. Santana,(Democratic),19,AD 79,2025-07-02_13:53:37.198499
+ED   32,99.00%,WRITE-IN,&nbsp,2,AD 79,2025-07-02_13:53:37.198499
+ED   33,99.00%,Antirson R. Ortiz,(Democratic),20,AD 79,2025-07-02_13:53:37.198499
+ED   33,99.00%,Justin E. Sanchez,(Democratic),33,AD 79,2025-07-02_13:53:37.198499
+ED   33,99.00%,Freddy Perez Jr.,(Democratic),15,AD 79,2025-07-02_13:53:37.198499
+ED   33,99.00%,Elvis L. Santana,(Democratic),5,AD 79,2025-07-02_13:53:37.198499
+ED   33,99.00%,WRITE-IN,&nbsp,1,AD 79,2025-07-02_13:53:37.198499
+ED   34,60.00%,Antirson R. Ortiz,(Democratic),6,AD 79,2025-07-02_13:53:37.198499
+ED   34,60.00%,Justin E. Sanchez,(Democratic),8,AD 79,2025-07-02_13:53:37.198499
+ED   34,60.00%,Freddy Perez Jr.,(Democratic),4,AD 79,2025-07-02_13:53:37.198499
+ED   34,60.00%,Elvis L. Santana,(Democratic),3,AD 79,2025-07-02_13:53:37.198499
+ED   34,60.00%,WRITE-IN,&nbsp,3,AD 79,2025-07-02_13:53:37.198499
+ED   36,99.00%,Antirson R. Ortiz,(Democratic),26,AD 79,2025-07-02_13:53:37.198499
+ED   36,99.00%,Justin E. Sanchez,(Democratic),32,AD 79,2025-07-02_13:53:37.198499
+ED   36,99.00%,Freddy Perez Jr.,(Democratic),18,AD 79,2025-07-02_13:53:37.198499
+ED   36,99.00%,Elvis L. Santana,(Democratic),19,AD 79,2025-07-02_13:53:37.198499
+ED   36,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   37,99.00%,Antirson R. Ortiz,(Democratic),32,AD 79,2025-07-02_13:53:37.198499
+ED   37,99.00%,Justin E. Sanchez,(Democratic),60,AD 79,2025-07-02_13:53:37.198499
+ED   37,99.00%,Freddy Perez Jr.,(Democratic),32,AD 79,2025-07-02_13:53:37.198499
+ED   37,99.00%,Elvis L. Santana,(Democratic),31,AD 79,2025-07-02_13:53:37.198499
+ED   37,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   38,99.00%,Antirson R. Ortiz,(Democratic),21,AD 79,2025-07-02_13:53:37.198499
+ED   38,99.00%,Justin E. Sanchez,(Democratic),41,AD 79,2025-07-02_13:53:37.198499
+ED   38,99.00%,Freddy Perez Jr.,(Democratic),16,AD 79,2025-07-02_13:53:37.198499
+ED   38,99.00%,Elvis L. Santana,(Democratic),26,AD 79,2025-07-02_13:53:37.198499
+ED   38,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   39,99.00%,Antirson R. Ortiz,(Democratic),18,AD 79,2025-07-02_13:53:37.198499
+ED   39,99.00%,Justin E. Sanchez,(Democratic),25,AD 79,2025-07-02_13:53:37.198499
+ED   39,99.00%,Freddy Perez Jr.,(Democratic),20,AD 79,2025-07-02_13:53:37.198499
+ED   39,99.00%,Elvis L. Santana,(Democratic),26,AD 79,2025-07-02_13:53:37.198499
+ED   39,99.00%,WRITE-IN,&nbsp,2,AD 79,2025-07-02_13:53:37.198499
+ED   40,99.00%,Antirson R. Ortiz,(Democratic),23,AD 79,2025-07-02_13:53:37.198499
+ED   40,99.00%,Justin E. Sanchez,(Democratic),128,AD 79,2025-07-02_13:53:37.198499
+ED   40,99.00%,Freddy Perez Jr.,(Democratic),23,AD 79,2025-07-02_13:53:37.198499
+ED   40,99.00%,Elvis L. Santana,(Democratic),36,AD 79,2025-07-02_13:53:37.198499
+ED   40,99.00%,WRITE-IN,&nbsp,4,AD 79,2025-07-02_13:53:37.198499
+ED   43,99.00%,Antirson R. Ortiz,(Democratic),21,AD 79,2025-07-02_13:53:37.198499
+ED   43,99.00%,Justin E. Sanchez,(Democratic),101,AD 79,2025-07-02_13:53:37.198499
+ED   43,99.00%,Freddy Perez Jr.,(Democratic),18,AD 79,2025-07-02_13:53:37.198499
+ED   43,99.00%,Elvis L. Santana,(Democratic),27,AD 79,2025-07-02_13:53:37.198499
+ED   43,99.00%,WRITE-IN,&nbsp,2,AD 79,2025-07-02_13:53:37.198499
+ED   44,99.00%,Antirson R. Ortiz,(Democratic),22,AD 79,2025-07-02_13:53:37.198499
+ED   44,99.00%,Justin E. Sanchez,(Democratic),45,AD 79,2025-07-02_13:53:37.198499
+ED   44,99.00%,Freddy Perez Jr.,(Democratic),9,AD 79,2025-07-02_13:53:37.198499
+ED   44,99.00%,Elvis L. Santana,(Democratic),16,AD 79,2025-07-02_13:53:37.198499
+ED   44,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   45,99.00%,Antirson R. Ortiz,(Democratic),31,AD 79,2025-07-02_13:53:37.198499
+ED   45,99.00%,Justin E. Sanchez,(Democratic),95,AD 79,2025-07-02_13:53:37.198499
+ED   45,99.00%,Freddy Perez Jr.,(Democratic),18,AD 79,2025-07-02_13:53:37.198499
+ED   45,99.00%,Elvis L. Santana,(Democratic),12,AD 79,2025-07-02_13:53:37.198499
+ED   45,99.00%,WRITE-IN,&nbsp,2,AD 79,2025-07-02_13:53:37.198499
+ED   46,99.00%,Antirson R. Ortiz,(Democratic),31,AD 79,2025-07-02_13:53:37.198499
+ED   46,99.00%,Justin E. Sanchez,(Democratic),84,AD 79,2025-07-02_13:53:37.198499
+ED   46,99.00%,Freddy Perez Jr.,(Democratic),23,AD 79,2025-07-02_13:53:37.198499
+ED   46,99.00%,Elvis L. Santana,(Democratic),16,AD 79,2025-07-02_13:53:37.198499
+ED   46,99.00%,WRITE-IN,&nbsp,4,AD 79,2025-07-02_13:53:37.198499
+ED   47,99.00%,Antirson R. Ortiz,(Democratic),33,AD 79,2025-07-02_13:53:37.198499
+ED   47,99.00%,Justin E. Sanchez,(Democratic),95,AD 79,2025-07-02_13:53:37.198499
+ED   47,99.00%,Freddy Perez Jr.,(Democratic),38,AD 79,2025-07-02_13:53:37.198499
+ED   47,99.00%,Elvis L. Santana,(Democratic),40,AD 79,2025-07-02_13:53:37.198499
+ED   47,99.00%,WRITE-IN,&nbsp,3,AD 79,2025-07-02_13:53:37.198499
+ED   48,99.00%,Antirson R. Ortiz,(Democratic),4,AD 79,2025-07-02_13:53:37.198499
+ED   48,99.00%,Justin E. Sanchez,(Democratic),11,AD 79,2025-07-02_13:53:37.198499
+ED   48,99.00%,Freddy Perez Jr.,(Democratic),8,AD 79,2025-07-02_13:53:37.198499
+ED   48,99.00%,Elvis L. Santana,(Democratic),2,AD 79,2025-07-02_13:53:37.198499
+ED   48,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   49,99.00%,Antirson R. Ortiz,(Democratic),27,AD 79,2025-07-02_13:53:37.198499
+ED   49,99.00%,Justin E. Sanchez,(Democratic),44,AD 79,2025-07-02_13:53:37.198499
+ED   49,99.00%,Freddy Perez Jr.,(Democratic),23,AD 79,2025-07-02_13:53:37.198499
+ED   49,99.00%,Elvis L. Santana,(Democratic),14,AD 79,2025-07-02_13:53:37.198499
+ED   49,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   50,99.00%,Antirson R. Ortiz,(Democratic),28,AD 79,2025-07-02_13:53:37.198499
+ED   50,99.00%,Justin E. Sanchez,(Democratic),73,AD 79,2025-07-02_13:53:37.198499
+ED   50,99.00%,Freddy Perez Jr.,(Democratic),19,AD 79,2025-07-02_13:53:37.198499
+ED   50,99.00%,Elvis L. Santana,(Democratic),24,AD 79,2025-07-02_13:53:37.198499
+ED   50,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   51,99.00%,Antirson R. Ortiz,(Democratic),30,AD 79,2025-07-02_13:53:37.198499
+ED   51,99.00%,Justin E. Sanchez,(Democratic),68,AD 79,2025-07-02_13:53:37.198499
+ED   51,99.00%,Freddy Perez Jr.,(Democratic),18,AD 79,2025-07-02_13:53:37.198499
+ED   51,99.00%,Elvis L. Santana,(Democratic),33,AD 79,2025-07-02_13:53:37.198499
+ED   51,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   52,99.00%,Antirson R. Ortiz,(Democratic),24,AD 79,2025-07-02_13:53:37.198499
+ED   52,99.00%,Justin E. Sanchez,(Democratic),62,AD 79,2025-07-02_13:53:37.198499
+ED   52,99.00%,Freddy Perez Jr.,(Democratic),19,AD 79,2025-07-02_13:53:37.198499
+ED   52,99.00%,Elvis L. Santana,(Democratic),27,AD 79,2025-07-02_13:53:37.198499
+ED   52,99.00%,WRITE-IN,&nbsp,0,AD 79,2025-07-02_13:53:37.198499
+ED   57,99.00%,Antirson R. Ortiz,(Democratic),17,AD 79,2025-07-02_13:53:37.198499
+ED   57,99.00%,Justin E. Sanchez,(Democratic),25,AD 79,2025-07-02_13:53:37.198499
+ED   57,99.00%,Freddy Perez Jr.,(Democratic),6,AD 79,2025-07-02_13:53:37.198499
+ED   57,99.00%,Elvis L. Santana,(Democratic),11,AD 79,2025-07-02_13:53:37.198499
+ED   57,99.00%,WRITE-IN,&nbsp,2,AD 79,2025-07-02_13:53:37.198499
+Total,,Antirson R. Ortiz,(Democratic),727,AD 79,2025-07-02_13:53:37.198499
+Total,,Justin E. Sanchez,(Democratic),1562,AD 79,2025-07-02_13:53:37.198499
+Total,,Freddy Perez Jr.,(Democratic),546,AD 79,2025-07-02_13:53:37.198499
+Total,,Elvis L. Santana,(Democratic),581,AD 79,2025-07-02_13:53:37.198499
+Total,,WRITE-IN,&nbsp,37,AD 79,2025-07-02_13:53:37.198499
+ED   17,99.00%,Antirson R. Ortiz,(Democratic),27,AD 84,2025-07-02_13:53:37.198499
+ED   17,99.00%,Justin E. Sanchez,(Democratic),83,AD 84,2025-07-02_13:53:37.198499
+ED   17,99.00%,Freddy Perez Jr.,(Democratic),56,AD 84,2025-07-02_13:53:37.198499
+ED   17,99.00%,Elvis L. Santana,(Democratic),26,AD 84,2025-07-02_13:53:37.198499
+ED   17,99.00%,WRITE-IN,&nbsp,7,AD 84,2025-07-02_13:53:37.198499
+ED   18,99.00%,Antirson R. Ortiz,(Democratic),22,AD 84,2025-07-02_13:53:37.198499
+ED   18,99.00%,Justin E. Sanchez,(Democratic),50,AD 84,2025-07-02_13:53:37.198499
+ED   18,99.00%,Freddy Perez Jr.,(Democratic),24,AD 84,2025-07-02_13:53:37.198499
+ED   18,99.00%,Elvis L. Santana,(Democratic),21,AD 84,2025-07-02_13:53:37.198499
+ED   18,99.00%,WRITE-IN,&nbsp,1,AD 84,2025-07-02_13:53:37.198499
+ED   19,99.00%,Antirson R. Ortiz,(Democratic),19,AD 84,2025-07-02_13:53:37.198499
+ED   19,99.00%,Justin E. Sanchez,(Democratic),43,AD 84,2025-07-02_13:53:37.198499
+ED   19,99.00%,Freddy Perez Jr.,(Democratic),25,AD 84,2025-07-02_13:53:37.198499
+ED   19,99.00%,Elvis L. Santana,(Democratic),12,AD 84,2025-07-02_13:53:37.198499
+ED   19,99.00%,WRITE-IN,&nbsp,3,AD 84,2025-07-02_13:53:37.198499
+ED   20,99.00%,Antirson R. Ortiz,(Democratic),31,AD 84,2025-07-02_13:53:37.198499
+ED   20,99.00%,Justin E. Sanchez,(Democratic),93,AD 84,2025-07-02_13:53:37.198499
+ED   20,99.00%,Freddy Perez Jr.,(Democratic),25,AD 84,2025-07-02_13:53:37.198499
+ED   20,99.00%,Elvis L. Santana,(Democratic),30,AD 84,2025-07-02_13:53:37.198499
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 84,2025-07-02_13:53:37.198499
+ED   23,99.00%,Antirson R. Ortiz,(Democratic),49,AD 84,2025-07-02_13:53:37.198499
+ED   23,99.00%,Justin E. Sanchez,(Democratic),50,AD 84,2025-07-02_13:53:37.198499
+ED   23,99.00%,Freddy Perez Jr.,(Democratic),32,AD 84,2025-07-02_13:53:37.198499
+ED   23,99.00%,Elvis L. Santana,(Democratic),9,AD 84,2025-07-02_13:53:37.198499
+ED   23,99.00%,WRITE-IN,&nbsp,0,AD 84,2025-07-02_13:53:37.198499
+ED   24,99.00%,Antirson R. Ortiz,(Democratic),22,AD 84,2025-07-02_13:53:37.198499
+ED   24,99.00%,Justin E. Sanchez,(Democratic),33,AD 84,2025-07-02_13:53:37.198499
+ED   24,99.00%,Freddy Perez Jr.,(Democratic),21,AD 84,2025-07-02_13:53:37.198499
+ED   24,99.00%,Elvis L. Santana,(Democratic),8,AD 84,2025-07-02_13:53:37.198499
+ED   24,99.00%,WRITE-IN,&nbsp,1,AD 84,2025-07-02_13:53:37.198499
+ED   25,99.00%,Antirson R. Ortiz,(Democratic),41,AD 84,2025-07-02_13:53:37.198499
+ED   25,99.00%,Justin E. Sanchez,(Democratic),46,AD 84,2025-07-02_13:53:37.198499
+ED   25,99.00%,Freddy Perez Jr.,(Democratic),79,AD 84,2025-07-02_13:53:37.198499
+ED   25,99.00%,Elvis L. Santana,(Democratic),25,AD 84,2025-07-02_13:53:37.198499
+ED   25,99.00%,WRITE-IN,&nbsp,3,AD 84,2025-07-02_13:53:37.198499
+ED   26,99.00%,Antirson R. Ortiz,(Democratic),17,AD 84,2025-07-02_13:53:37.198499
+ED   26,99.00%,Justin E. Sanchez,(Democratic),46,AD 84,2025-07-02_13:53:37.198499
+ED   26,99.00%,Freddy Perez Jr.,(Democratic),28,AD 84,2025-07-02_13:53:37.198499
+ED   26,99.00%,Elvis L. Santana,(Democratic),14,AD 84,2025-07-02_13:53:37.198499
+ED   26,99.00%,WRITE-IN,&nbsp,4,AD 84,2025-07-02_13:53:37.198499
+ED   53,99.00%,Antirson R. Ortiz,(Democratic),16,AD 84,2025-07-02_13:53:37.198499
+ED   53,99.00%,Justin E. Sanchez,(Democratic),43,AD 84,2025-07-02_13:53:37.198499
+ED   53,99.00%,Freddy Perez Jr.,(Democratic),24,AD 84,2025-07-02_13:53:37.198499
+ED   53,99.00%,Elvis L. Santana,(Democratic),18,AD 84,2025-07-02_13:53:37.198499
+ED   53,99.00%,WRITE-IN,&nbsp,1,AD 84,2025-07-02_13:53:37.198499
+ED   55,99.00%,Antirson R. Ortiz,(Democratic),55,AD 84,2025-07-02_13:53:37.198499
+ED   55,99.00%,Justin E. Sanchez,(Democratic),84,AD 84,2025-07-02_13:53:37.198499
+ED   55,99.00%,Freddy Perez Jr.,(Democratic),29,AD 84,2025-07-02_13:53:37.198499
+ED   55,99.00%,Elvis L. Santana,(Democratic),35,AD 84,2025-07-02_13:53:37.198499
+ED   55,99.00%,WRITE-IN,&nbsp,2,AD 84,2025-07-02_13:53:37.198499
+ED   57,99.00%,Antirson R. Ortiz,(Democratic),50,AD 84,2025-07-02_13:53:37.198499
+ED   57,99.00%,Justin E. Sanchez,(Democratic),58,AD 84,2025-07-02_13:53:37.198499
+ED   57,99.00%,Freddy Perez Jr.,(Democratic),38,AD 84,2025-07-02_13:53:37.198499
+ED   57,99.00%,Elvis L. Santana,(Democratic),18,AD 84,2025-07-02_13:53:37.198499
+ED   57,99.00%,WRITE-IN,&nbsp,1,AD 84,2025-07-02_13:53:37.198499
+Total,,Antirson R. Ortiz,(Democratic),349,AD 84,2025-07-02_13:53:37.198499
+Total,,Justin E. Sanchez,(Democratic),629,AD 84,2025-07-02_13:53:37.198499
+Total,,Freddy Perez Jr.,(Democratic),381,AD 84,2025-07-02_13:53:37.198499
+Total,,Elvis L. Santana,(Democratic),216,AD 84,2025-07-02_13:53:37.198499
+Total,,WRITE-IN,&nbsp,23,AD 84,2025-07-02_13:53:37.198499
+ED    6,99.00%,Antirson R. Ortiz,(Democratic),29,AD 85,2025-07-02_13:53:37.198499
+ED    6,99.00%,Justin E. Sanchez,(Democratic),35,AD 85,2025-07-02_13:53:37.198499
+ED    6,99.00%,Freddy Perez Jr.,(Democratic),11,AD 85,2025-07-02_13:53:37.198499
+ED    6,99.00%,Elvis L. Santana,(Democratic),20,AD 85,2025-07-02_13:53:37.198499
+ED    6,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED    7,99.00%,Antirson R. Ortiz,(Democratic),20,AD 85,2025-07-02_13:53:37.198499
+ED    7,99.00%,Justin E. Sanchez,(Democratic),38,AD 85,2025-07-02_13:53:37.198499
+ED    7,99.00%,Freddy Perez Jr.,(Democratic),9,AD 85,2025-07-02_13:53:37.198499
+ED    7,99.00%,Elvis L. Santana,(Democratic),13,AD 85,2025-07-02_13:53:37.198499
+ED    7,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED    8,99.00%,Antirson R. Ortiz,(Democratic),22,AD 85,2025-07-02_13:53:37.198499
+ED    8,99.00%,Justin E. Sanchez,(Democratic),30,AD 85,2025-07-02_13:53:37.198499
+ED    8,99.00%,Freddy Perez Jr.,(Democratic),9,AD 85,2025-07-02_13:53:37.198499
+ED    8,99.00%,Elvis L. Santana,(Democratic),11,AD 85,2025-07-02_13:53:37.198499
+ED    8,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   23,99.00%,Antirson R. Ortiz,(Democratic),30,AD 85,2025-07-02_13:53:37.198499
+ED   23,99.00%,Justin E. Sanchez,(Democratic),36,AD 85,2025-07-02_13:53:37.198499
+ED   23,99.00%,Freddy Perez Jr.,(Democratic),15,AD 85,2025-07-02_13:53:37.198499
+ED   23,99.00%,Elvis L. Santana,(Democratic),17,AD 85,2025-07-02_13:53:37.198499
+ED   23,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   25,99.00%,Antirson R. Ortiz,(Democratic),37,AD 85,2025-07-02_13:53:37.198499
+ED   25,99.00%,Justin E. Sanchez,(Democratic),67,AD 85,2025-07-02_13:53:37.198499
+ED   25,99.00%,Freddy Perez Jr.,(Democratic),18,AD 85,2025-07-02_13:53:37.198499
+ED   25,99.00%,Elvis L. Santana,(Democratic),21,AD 85,2025-07-02_13:53:37.198499
+ED   25,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   26,99.00%,Antirson R. Ortiz,(Democratic),13,AD 85,2025-07-02_13:53:37.198499
+ED   26,99.00%,Justin E. Sanchez,(Democratic),39,AD 85,2025-07-02_13:53:37.198499
+ED   26,99.00%,Freddy Perez Jr.,(Democratic),20,AD 85,2025-07-02_13:53:37.198499
+ED   26,99.00%,Elvis L. Santana,(Democratic),18,AD 85,2025-07-02_13:53:37.198499
+ED   26,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   27,99.00%,Antirson R. Ortiz,(Democratic),31,AD 85,2025-07-02_13:53:37.198499
+ED   27,99.00%,Justin E. Sanchez,(Democratic),27,AD 85,2025-07-02_13:53:37.198499
+ED   27,99.00%,Freddy Perez Jr.,(Democratic),25,AD 85,2025-07-02_13:53:37.198499
+ED   27,99.00%,Elvis L. Santana,(Democratic),16,AD 85,2025-07-02_13:53:37.198499
+ED   27,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   28,99.00%,Antirson R. Ortiz,(Democratic),37,AD 85,2025-07-02_13:53:37.198499
+ED   28,99.00%,Justin E. Sanchez,(Democratic),66,AD 85,2025-07-02_13:53:37.198499
+ED   28,99.00%,Freddy Perez Jr.,(Democratic),15,AD 85,2025-07-02_13:53:37.198499
+ED   28,99.00%,Elvis L. Santana,(Democratic),30,AD 85,2025-07-02_13:53:37.198499
+ED   28,99.00%,WRITE-IN,&nbsp,2,AD 85,2025-07-02_13:53:37.198499
+ED   29,99.00%,Antirson R. Ortiz,(Democratic),28,AD 85,2025-07-02_13:53:37.198499
+ED   29,99.00%,Justin E. Sanchez,(Democratic),43,AD 85,2025-07-02_13:53:37.198499
+ED   29,99.00%,Freddy Perez Jr.,(Democratic),28,AD 85,2025-07-02_13:53:37.198499
+ED   29,99.00%,Elvis L. Santana,(Democratic),102,AD 85,2025-07-02_13:53:37.198499
+ED   29,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   30,99.00%,Antirson R. Ortiz,(Democratic),33,AD 85,2025-07-02_13:53:37.198499
+ED   30,99.00%,Justin E. Sanchez,(Democratic),34,AD 85,2025-07-02_13:53:37.198499
+ED   30,99.00%,Freddy Perez Jr.,(Democratic),14,AD 85,2025-07-02_13:53:37.198499
+ED   30,99.00%,Elvis L. Santana,(Democratic),13,AD 85,2025-07-02_13:53:37.198499
+ED   30,99.00%,WRITE-IN,&nbsp,2,AD 85,2025-07-02_13:53:37.198499
+ED   31,99.00%,Antirson R. Ortiz,(Democratic),40,AD 85,2025-07-02_13:53:37.198499
+ED   31,99.00%,Justin E. Sanchez,(Democratic),35,AD 85,2025-07-02_13:53:37.198499
+ED   31,99.00%,Freddy Perez Jr.,(Democratic),30,AD 85,2025-07-02_13:53:37.198499
+ED   31,99.00%,Elvis L. Santana,(Democratic),16,AD 85,2025-07-02_13:53:37.198499
+ED   31,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   32,99.00%,Antirson R. Ortiz,(Democratic),32,AD 85,2025-07-02_13:53:37.198499
+ED   32,99.00%,Justin E. Sanchez,(Democratic),60,AD 85,2025-07-02_13:53:37.198499
+ED   32,99.00%,Freddy Perez Jr.,(Democratic),27,AD 85,2025-07-02_13:53:37.198499
+ED   32,99.00%,Elvis L. Santana,(Democratic),11,AD 85,2025-07-02_13:53:37.198499
+ED   32,99.00%,WRITE-IN,&nbsp,2,AD 85,2025-07-02_13:53:37.198499
+ED   33,99.00%,Antirson R. Ortiz,(Democratic),63,AD 85,2025-07-02_13:53:37.198499
+ED   33,99.00%,Justin E. Sanchez,(Democratic),51,AD 85,2025-07-02_13:53:37.198499
+ED   33,99.00%,Freddy Perez Jr.,(Democratic),19,AD 85,2025-07-02_13:53:37.198499
+ED   33,99.00%,Elvis L. Santana,(Democratic),9,AD 85,2025-07-02_13:53:37.198499
+ED   33,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   34,99.00%,Antirson R. Ortiz,(Democratic),67,AD 85,2025-07-02_13:53:37.198499
+ED   34,99.00%,Justin E. Sanchez,(Democratic),45,AD 85,2025-07-02_13:53:37.198499
+ED   34,99.00%,Freddy Perez Jr.,(Democratic),40,AD 85,2025-07-02_13:53:37.198499
+ED   34,99.00%,Elvis L. Santana,(Democratic),31,AD 85,2025-07-02_13:53:37.198499
+ED   34,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   35,99.00%,Antirson R. Ortiz,(Democratic),68,AD 85,2025-07-02_13:53:37.198499
+ED   35,99.00%,Justin E. Sanchez,(Democratic),38,AD 85,2025-07-02_13:53:37.198499
+ED   35,99.00%,Freddy Perez Jr.,(Democratic),24,AD 85,2025-07-02_13:53:37.198499
+ED   35,99.00%,Elvis L. Santana,(Democratic),16,AD 85,2025-07-02_13:53:37.198499
+ED   35,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   36,99.00%,Antirson R. Ortiz,(Democratic),80,AD 85,2025-07-02_13:53:37.198499
+ED   36,99.00%,Justin E. Sanchez,(Democratic),61,AD 85,2025-07-02_13:53:37.198499
+ED   36,99.00%,Freddy Perez Jr.,(Democratic),34,AD 85,2025-07-02_13:53:37.198499
+ED   36,99.00%,Elvis L. Santana,(Democratic),14,AD 85,2025-07-02_13:53:37.198499
+ED   36,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   37,99.00%,Antirson R. Ortiz,(Democratic),33,AD 85,2025-07-02_13:53:37.198499
+ED   37,99.00%,Justin E. Sanchez,(Democratic),34,AD 85,2025-07-02_13:53:37.198499
+ED   37,99.00%,Freddy Perez Jr.,(Democratic),38,AD 85,2025-07-02_13:53:37.198499
+ED   37,99.00%,Elvis L. Santana,(Democratic),15,AD 85,2025-07-02_13:53:37.198499
+ED   37,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   39,99.00%,Antirson R. Ortiz,(Democratic),67,AD 85,2025-07-02_13:53:37.198499
+ED   39,99.00%,Justin E. Sanchez,(Democratic),43,AD 85,2025-07-02_13:53:37.198499
+ED   39,99.00%,Freddy Perez Jr.,(Democratic),34,AD 85,2025-07-02_13:53:37.198499
+ED   39,99.00%,Elvis L. Santana,(Democratic),12,AD 85,2025-07-02_13:53:37.198499
+ED   39,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   40,99.00%,Antirson R. Ortiz,(Democratic),43,AD 85,2025-07-02_13:53:37.198499
+ED   40,99.00%,Justin E. Sanchez,(Democratic),32,AD 85,2025-07-02_13:53:37.198499
+ED   40,99.00%,Freddy Perez Jr.,(Democratic),21,AD 85,2025-07-02_13:53:37.198499
+ED   40,99.00%,Elvis L. Santana,(Democratic),11,AD 85,2025-07-02_13:53:37.198499
+ED   40,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   41,99.00%,Antirson R. Ortiz,(Democratic),60,AD 85,2025-07-02_13:53:37.198499
+ED   41,99.00%,Justin E. Sanchez,(Democratic),67,AD 85,2025-07-02_13:53:37.198499
+ED   41,99.00%,Freddy Perez Jr.,(Democratic),20,AD 85,2025-07-02_13:53:37.198499
+ED   41,99.00%,Elvis L. Santana,(Democratic),30,AD 85,2025-07-02_13:53:37.198499
+ED   41,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   42,99.00%,Antirson R. Ortiz,(Democratic),42,AD 85,2025-07-02_13:53:37.198499
+ED   42,99.00%,Justin E. Sanchez,(Democratic),37,AD 85,2025-07-02_13:53:37.198499
+ED   42,99.00%,Freddy Perez Jr.,(Democratic),10,AD 85,2025-07-02_13:53:37.198499
+ED   42,99.00%,Elvis L. Santana,(Democratic),24,AD 85,2025-07-02_13:53:37.198499
+ED   42,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   43,99.00%,Antirson R. Ortiz,(Democratic),28,AD 85,2025-07-02_13:53:37.198499
+ED   43,99.00%,Justin E. Sanchez,(Democratic),61,AD 85,2025-07-02_13:53:37.198499
+ED   43,99.00%,Freddy Perez Jr.,(Democratic),13,AD 85,2025-07-02_13:53:37.198499
+ED   43,99.00%,Elvis L. Santana,(Democratic),13,AD 85,2025-07-02_13:53:37.198499
+ED   43,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   44,99.00%,Antirson R. Ortiz,(Democratic),27,AD 85,2025-07-02_13:53:37.198499
+ED   44,99.00%,Justin E. Sanchez,(Democratic),43,AD 85,2025-07-02_13:53:37.198499
+ED   44,99.00%,Freddy Perez Jr.,(Democratic),23,AD 85,2025-07-02_13:53:37.198499
+ED   44,99.00%,Elvis L. Santana,(Democratic),13,AD 85,2025-07-02_13:53:37.198499
+ED   44,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   45,99.00%,Antirson R. Ortiz,(Democratic),30,AD 85,2025-07-02_13:53:37.198499
+ED   45,99.00%,Justin E. Sanchez,(Democratic),48,AD 85,2025-07-02_13:53:37.198499
+ED   45,99.00%,Freddy Perez Jr.,(Democratic),15,AD 85,2025-07-02_13:53:37.198499
+ED   45,99.00%,Elvis L. Santana,(Democratic),18,AD 85,2025-07-02_13:53:37.198499
+ED   45,99.00%,WRITE-IN,&nbsp,1,AD 85,2025-07-02_13:53:37.198499
+ED   50,99.00%,Antirson R. Ortiz,(Democratic),29,AD 85,2025-07-02_13:53:37.198499
+ED   50,99.00%,Justin E. Sanchez,(Democratic),51,AD 85,2025-07-02_13:53:37.198499
+ED   50,99.00%,Freddy Perez Jr.,(Democratic),22,AD 85,2025-07-02_13:53:37.198499
+ED   50,99.00%,Elvis L. Santana,(Democratic),20,AD 85,2025-07-02_13:53:37.198499
+ED   50,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   53,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   53,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   53,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   53,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   53,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   54,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   54,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   54,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   54,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   54,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   55,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   55,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   55,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   55,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   55,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   56,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   56,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   56,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   56,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   56,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   57,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   57,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   57,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   57,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   57,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   59,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   59,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   59,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   59,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   59,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   60,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   60,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   60,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   60,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   60,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   61,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   61,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   61,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   61,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   61,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   65,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   65,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   65,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   65,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   65,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   66,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   66,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   66,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   66,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   66,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   67,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   67,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   67,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   67,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   67,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   68,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   68,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   68,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   68,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   68,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   69,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   69,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   69,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   69,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   69,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   70,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   70,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   70,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   70,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   70,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   71,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   71,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   71,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   71,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   71,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   72,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   72,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   72,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   72,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   72,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   73,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   73,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   73,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   73,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   73,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   74,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   74,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   74,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   74,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   74,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   75,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   75,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   75,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   75,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   75,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   76,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   76,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   76,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   76,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   76,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   77,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   77,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   77,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   77,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   77,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   78,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   78,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   78,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   78,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   78,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   79,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   79,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   79,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   79,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   79,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   80,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   80,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   80,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   80,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   80,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+ED   81,99.00%,Antirson R. Ortiz,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   81,99.00%,Justin E. Sanchez,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   81,99.00%,Freddy Perez Jr.,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   81,99.00%,Elvis L. Santana,(Democratic),0,AD 85,2025-07-02_13:53:37.198499
+ED   81,99.00%,WRITE-IN,&nbsp,0,AD 85,2025-07-02_13:53:37.198499
+Total,,Antirson R. Ortiz,(Democratic),989,AD 85,2025-07-02_13:53:37.198499
+Total,,Justin E. Sanchez,(Democratic),1121,AD 85,2025-07-02_13:53:37.198499
+Total,,Freddy Perez Jr.,(Democratic),534,AD 85,2025-07-02_13:53:37.198499
+Total,,Elvis L. Santana,(Democratic),514,AD 85,2025-07-02_13:53:37.198499
+Total,,WRITE-IN,&nbsp,15,AD 85,2025-07-02_13:53:37.198499
+ED    9,99.00%,Antirson R. Ortiz,(Democratic),37,AD 87,2025-07-02_13:53:37.198499
+ED    9,99.00%,Justin E. Sanchez,(Democratic),78,AD 87,2025-07-02_13:53:37.198499
+ED    9,99.00%,Freddy Perez Jr.,(Democratic),25,AD 87,2025-07-02_13:53:37.198499
+ED    9,99.00%,Elvis L. Santana,(Democratic),24,AD 87,2025-07-02_13:53:37.198499
+ED    9,99.00%,WRITE-IN,&nbsp,2,AD 87,2025-07-02_13:53:37.198499
+ED   10,99.00%,Antirson R. Ortiz,(Democratic),35,AD 87,2025-07-02_13:53:37.198499
+ED   10,99.00%,Justin E. Sanchez,(Democratic),47,AD 87,2025-07-02_13:53:37.198499
+ED   10,99.00%,Freddy Perez Jr.,(Democratic),22,AD 87,2025-07-02_13:53:37.198499
+ED   10,99.00%,Elvis L. Santana,(Democratic),16,AD 87,2025-07-02_13:53:37.198499
+ED   10,99.00%,WRITE-IN,&nbsp,0,AD 87,2025-07-02_13:53:37.198499
+ED   54,99.00%,Antirson R. Ortiz,(Democratic),0,AD 87,2025-07-02_13:53:37.198499
+ED   54,99.00%,Justin E. Sanchez,(Democratic),0,AD 87,2025-07-02_13:53:37.198499
+ED   54,99.00%,Freddy Perez Jr.,(Democratic),0,AD 87,2025-07-02_13:53:37.198499
+ED   54,99.00%,Elvis L. Santana,(Democratic),0,AD 87,2025-07-02_13:53:37.198499
+ED   54,99.00%,WRITE-IN,&nbsp,0,AD 87,2025-07-02_13:53:37.198499
+Total,,Antirson R. Ortiz,(Democratic),72,AD 87,2025-07-02_13:53:37.198499
+Total,,Justin E. Sanchez,(Democratic),125,AD 87,2025-07-02_13:53:37.198499
+Total,,Freddy Perez Jr.,(Democratic),47,AD 87,2025-07-02_13:53:37.198499
+Total,,Elvis L. Santana,(Democratic),40,AD 87,2025-07-02_13:53:37.198499
+Total,,WRITE-IN,&nbsp,2,AD 87,2025-07-02_13:53:37.198499
