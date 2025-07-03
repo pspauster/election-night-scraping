@@ -4,6 +4,9 @@ library(purrr)
 
 ##### Get race list
 
+
+#for future - create a changeable output directory for the year/election
+
 # Set the URL
 url <- "https://enr.boenyc.gov/index.html"
 
